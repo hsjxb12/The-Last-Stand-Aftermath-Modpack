@@ -1,0 +1,38 @@
+# Configuration file
+
+biome {
+    I:biomeForestId=25
+    I:biomePlainsId=26
+    I:biomeRiverId=27
+    I:biomeSnowMountainsId=29
+    I:biomeSnowPlainsId=28
+}
+
+
+effect {
+    # Bleeding Effect ID
+    I:bleedingId=29
+
+    # Zombification Effect ID
+    I:zombificationId=30
+}
+
+
+general {
+    # Should DayZ log extra information?
+    B:debug=false
+
+    # Should DayZ warn if the worldtype is not DayZ?
+    B:show-world-type-warning=true
+
+    # Should DayZ zombies generate in the surface world?
+    B:"spawn zombies-in-default-world"=false
+
+    # 1 in x chance to generate a structure in a given chunk
+    I:structure-generation-chance=5
+
+    # Should DayZ thirst be enabled?
+    B:thirst-enabled=true
+}
+
+

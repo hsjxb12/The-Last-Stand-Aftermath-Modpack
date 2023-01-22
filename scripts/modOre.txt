@@ -1,0 +1,2448 @@
+Ore entries for <ore:logWood> :
+    <minecraft:log:*>
+    <minecraft:log2:*>
+    <TwilightForest:tile.TFLog:*>
+    <TwilightForest:tile.TFMagicLog:*>
+    <hbm:tile.pink_log>
+Ore entries for <ore:plankWood> :
+    <minecraft:planks:*>
+    <TwilightForest:tile.TFTowerStone:*>
+    <hbm:tile.pink_planks>
+Ore entries for <ore:slabWood> :
+    <minecraft:wooden_slab:*>
+    <hbm:tile.pink_slab>
+Ore entries for <ore:stairWood> :
+    <minecraft:oak_stairs>
+    <minecraft:spruce_stairs>
+    <minecraft:birch_stairs>
+    <minecraft:jungle_stairs>
+    <minecraft:acacia_stairs>
+    <minecraft:dark_oak_stairs>
+    <hbm:tile.pink_stairs>
+Ore entries for <ore:stickWood> :
+    <minecraft:stick>
+Ore entries for <ore:treeSapling> :
+    <minecraft:sapling:*>
+    <TwilightForest:tile.TFSapling:*>
+Ore entries for <ore:treeLeaves> :
+    <minecraft:leaves:*>
+    <minecraft:leaves2:*>
+    <TwilightForest:tile.TFLeaves:*>
+    <TwilightForest:tile.TFMagicLeaves:*>
+Ore entries for <ore:oreGold> :
+    <minecraft:gold_ore>
+    <hbm:tile.ore_gneiss_gold>
+Ore entries for <ore:oreIron> :
+    <minecraft:iron_ore>
+    <GalacticraftMars:tile.asteroidsBlock:5>
+    <GalacticraftMars:tile.mars:3>
+    <hbm:tile.ore_gneiss_iron>
+Ore entries for <ore:oreLapis> :
+    <minecraft:lapis_ore>
+Ore entries for <ore:oreDiamond> :
+    <minecraft:diamond_ore>
+    <hbm:tile.gravel_diamond>
+Ore entries for <ore:oreRedstone> :
+    <minecraft:redstone_ore>
+Ore entries for <ore:oreEmerald> :
+    <minecraft:emerald_ore>
+Ore entries for <ore:oreQuartz> :
+    <minecraft:quartz_ore>
+Ore entries for <ore:oreCoal> :
+    <minecraft:coal_ore>
+Ore entries for <ore:blockGold> :
+    <minecraft:gold_block>
+Ore entries for <ore:blockIron> :
+    <minecraft:iron_block>
+Ore entries for <ore:blockLapis> :
+    <minecraft:lapis_block>
+Ore entries for <ore:blockDiamond> :
+    <minecraft:diamond_block>
+Ore entries for <ore:blockRedstone> :
+    <minecraft:redstone_block>
+Ore entries for <ore:blockEmerald> :
+    <minecraft:emerald_block>
+Ore entries for <ore:blockQuartz> :
+    <minecraft:quartz_block>
+Ore entries for <ore:blockCoal> :
+    <minecraft:coal_block>
+Ore entries for <ore:blockGlassColorless> :
+    <minecraft:glass>
+Ore entries for <ore:blockGlass> :
+    <minecraft:glass>
+    <minecraft:stained_glass:*>
+    <hbm:tile.glass_boron>
+    <hbm:tile.glass_lead>
+    <hbm:tile.glass_uranium>
+    <hbm:tile.glass_trinitite>
+    <hbm:tile.glass_polonium>
+    <hbm:tile.glass_ash>
+Ore entries for <ore:paneGlassColorless> :
+    <minecraft:glass_pane>
+Ore entries for <ore:paneGlass> :
+    <minecraft:glass_pane>
+    <minecraft:stained_glass_pane:*>
+Ore entries for <ore:ingotIron> :
+    <minecraft:iron_ingot>
+Ore entries for <ore:ingotGold> :
+    <minecraft:gold_ingot>
+Ore entries for <ore:ingotBrick> :
+    <minecraft:brick>
+Ore entries for <ore:ingotBrickNether> :
+    <minecraft:netherbrick>
+Ore entries for <ore:nuggetGold> :
+    <minecraft:gold_nugget>
+Ore entries for <ore:gemDiamond> :
+    <minecraft:diamond>
+Ore entries for <ore:gemEmerald> :
+    <minecraft:emerald>
+Ore entries for <ore:gemQuartz> :
+    <minecraft:quartz>
+Ore entries for <ore:dustRedstone> :
+    <minecraft:redstone>
+Ore entries for <ore:dustGlowstone> :
+    <minecraft:glowstone_dust>
+Ore entries for <ore:gemLapis> :
+    <minecraft:dye:4>
+Ore entries for <ore:slimeball> :
+    <minecraft:slime_ball>
+Ore entries for <ore:glowstone> :
+    <minecraft:glowstone>
+Ore entries for <ore:cropWheat> :
+    <minecraft:wheat>
+Ore entries for <ore:cropPotato> :
+    <minecraft:potato>
+Ore entries for <ore:cropCarrot> :
+    <minecraft:carrot>
+Ore entries for <ore:stone> :
+    <minecraft:stone>
+Ore entries for <ore:cobblestone> :
+    <minecraft:cobblestone>
+Ore entries for <ore:sandstone> :
+    <minecraft:sandstone:*>
+Ore entries for <ore:sand> :
+    <minecraft:sand:*>
+Ore entries for <ore:dye> :
+    <minecraft:dye:*>
+    <hbm:item.cinnebar>
+    <hbm:item.sulfur>
+    <hbm:item.powder_coal>
+    <hbm:item.powder_lignite>
+    <hbm:item.powder_titanium>
+    <hbm:item.fluorite>
+    <hbm:item.powder_lapis>
+    <hbm:item.oil_tar>
+Ore entries for <ore:record> :
+    <minecraft:record_13>
+    <minecraft:record_cat>
+    <minecraft:record_blocks>
+    <minecraft:record_chirp>
+    <minecraft:record_far>
+    <minecraft:record_mall>
+    <minecraft:record_mellohi>
+    <minecraft:record_stal>
+    <minecraft:record_strad>
+    <minecraft:record_ward>
+    <minecraft:record_11>
+    <minecraft:record_wait>
+Ore entries for <ore:dyeBlack> :
+    <minecraft:dye>
+    <hbm:item.powder_coal>
+    <hbm:item.oil_tar>
+    <hbm:item.oil_tar:1>
+Ore entries for <ore:blockGlassBlack> :
+    <minecraft:stained_glass:15>
+    <hbm:tile.glass_ash>
+Ore entries for <ore:paneGlassBlack> :
+    <minecraft:stained_glass_pane:15>
+Ore entries for <ore:dyeRed> :
+    <minecraft:dye:1>
+    <hbm:item.cinnebar>
+Ore entries for <ore:blockGlassRed> :
+    <minecraft:stained_glass:14>
+    <hbm:tile.glass_polonium>
+Ore entries for <ore:paneGlassRed> :
+    <minecraft:stained_glass_pane:14>
+Ore entries for <ore:dyeGreen> :
+    <minecraft:dye:2>
+Ore entries for <ore:blockGlassGreen> :
+    <minecraft:stained_glass:13>
+Ore entries for <ore:paneGlassGreen> :
+    <minecraft:stained_glass_pane:13>
+Ore entries for <ore:dyeBrown> :
+    <minecraft:dye:3>
+    <hbm:item.powder_lignite>
+    <hbm:item.oil_tar:3>
+Ore entries for <ore:blockGlassBrown> :
+    <minecraft:stained_glass:12>
+Ore entries for <ore:paneGlassBrown> :
+    <minecraft:stained_glass_pane:12>
+Ore entries for <ore:dyeBlue> :
+    <minecraft:dye:4>
+    <hbm:item.powder_lapis>
+Ore entries for <ore:blockGlassBlue> :
+    <minecraft:stained_glass:11>
+Ore entries for <ore:paneGlassBlue> :
+    <minecraft:stained_glass_pane:11>
+Ore entries for <ore:dyePurple> :
+    <minecraft:dye:5>
+Ore entries for <ore:blockGlassPurple> :
+    <minecraft:stained_glass:10>
+Ore entries for <ore:paneGlassPurple> :
+    <minecraft:stained_glass_pane:10>
+Ore entries for <ore:dyeCyan> :
+    <minecraft:dye:6>
+Ore entries for <ore:blockGlassCyan> :
+    <minecraft:stained_glass:9>
+Ore entries for <ore:paneGlassCyan> :
+    <minecraft:stained_glass_pane:9>
+Ore entries for <ore:dyeLightGray> :
+    <minecraft:dye:7>
+    <hbm:item.powder_titanium>
+Ore entries for <ore:blockGlassLightGray> :
+    <minecraft:stained_glass:8>
+Ore entries for <ore:paneGlassLightGray> :
+    <minecraft:stained_glass_pane:8>
+Ore entries for <ore:dyeGray> :
+    <minecraft:dye:8>
+    <hbm:item.oil_tar:2>
+Ore entries for <ore:blockGlassGray> :
+    <minecraft:stained_glass:7>
+Ore entries for <ore:paneGlassGray> :
+    <minecraft:stained_glass_pane:7>
+Ore entries for <ore:dyePink> :
+    <minecraft:dye:9>
+Ore entries for <ore:blockGlassPink> :
+    <minecraft:stained_glass:6>
+Ore entries for <ore:paneGlassPink> :
+    <minecraft:stained_glass_pane:6>
+Ore entries for <ore:dyeLime> :
+    <minecraft:dye:10>
+Ore entries for <ore:blockGlassLime> :
+    <minecraft:stained_glass:5>
+    <hbm:tile.glass_trinitite>
+Ore entries for <ore:paneGlassLime> :
+    <minecraft:stained_glass_pane:5>
+Ore entries for <ore:dyeYellow> :
+    <minecraft:dye:11>
+    <hbm:item.sulfur>
+Ore entries for <ore:blockGlassYellow> :
+    <minecraft:stained_glass:4>
+    <hbm:tile.glass_uranium>
+Ore entries for <ore:paneGlassYellow> :
+    <minecraft:stained_glass_pane:4>
+Ore entries for <ore:dyeLightBlue> :
+    <minecraft:dye:12>
+Ore entries for <ore:blockGlassLightBlue> :
+    <minecraft:stained_glass:3>
+Ore entries for <ore:paneGlassLightBlue> :
+    <minecraft:stained_glass_pane:3>
+Ore entries for <ore:dyeMagenta> :
+    <minecraft:dye:13>
+Ore entries for <ore:blockGlassMagenta> :
+    <minecraft:stained_glass:2>
+Ore entries for <ore:paneGlassMagenta> :
+    <minecraft:stained_glass_pane:2>
+Ore entries for <ore:dyeOrange> :
+    <minecraft:dye:14>
+Ore entries for <ore:blockGlassOrange> :
+    <minecraft:stained_glass:1>
+Ore entries for <ore:paneGlassOrange> :
+    <minecraft:stained_glass_pane:1>
+Ore entries for <ore:dyeWhite> :
+    <minecraft:dye:15>
+    <hbm:item.fluorite>
+Ore entries for <ore:blockGlassWhite> :
+    <minecraft:stained_glass>
+Ore entries for <ore:paneGlassWhite> :
+    <minecraft:stained_glass_pane>
+Ore entries for <ore:blockAndesite> :
+    <chisel:andesite>
+Ore entries for <ore:stoneAndesite> :
+    <chisel:andesite>
+Ore entries for <ore:antiBlock> :
+    <chisel:antiBlock>
+Ore entries for <ore:blockCarpet> :
+    <chisel:carpet_block>
+Ore entries for <ore:carpet> :
+    <chisel:carpet>
+Ore entries for <ore:cloud> :
+    <chisel:cloud>
+Ore entries for <ore:concrete> :
+    <chisel:concrete>
+Ore entries for <ore:blockDiorite> :
+    <chisel:diorite>
+Ore entries for <ore:stoneDiorite> :
+    <chisel:diorite>
+Ore entries for <ore:dirt> :
+    <chisel:dirt>
+Ore entries for <ore:blockEndstone> :
+    <chisel:end_Stone>
+Ore entries for <ore:stainedGlassWhite> :
+    <minecraft:stained_glass>
+Ore entries for <ore:stainedGlassOrange> :
+    <minecraft:stained_glass:1>
+Ore entries for <ore:stainedGlassMagenta> :
+    <minecraft:stained_glass:2>
+Ore entries for <ore:stainedGlassLightBlue> :
+    <minecraft:stained_glass:3>
+Ore entries for <ore:stainedGlassYellow> :
+    <minecraft:stained_glass:4>
+Ore entries for <ore:stainedGlassLime> :
+    <minecraft:stained_glass:5>
+Ore entries for <ore:stainedGlassPink> :
+    <minecraft:stained_glass:6>
+Ore entries for <ore:stainedGlassGray> :
+    <minecraft:stained_glass:7>
+Ore entries for <ore:stainedGlassLightGray> :
+    <minecraft:stained_glass:8>
+Ore entries for <ore:stainedGlassCyan> :
+    <minecraft:stained_glass:9>
+Ore entries for <ore:stainedGlassPurple> :
+    <minecraft:stained_glass:10>
+Ore entries for <ore:stainedGlassBlue> :
+    <minecraft:stained_glass:11>
+Ore entries for <ore:stainedGlassBrown> :
+    <minecraft:stained_glass:12>
+Ore entries for <ore:stainedGlassGreen> :
+    <minecraft:stained_glass:13>
+Ore entries for <ore:stainedGlassRed> :
+    <minecraft:stained_glass:14>
+Ore entries for <ore:stainedGlassBlack> :
+    <minecraft:stained_glass:15>
+Ore entries for <ore:stainedGlassPaneWhite> :
+    <minecraft:stained_glass_pane>
+Ore entries for <ore:stainedGlassPaneOrange> :
+    <minecraft:stained_glass_pane:1>
+Ore entries for <ore:stainedGlassPaneMagenta> :
+    <minecraft:stained_glass_pane:2>
+Ore entries for <ore:stainedGlassPaneLightBlue> :
+    <minecraft:stained_glass_pane:3>
+Ore entries for <ore:stainedGlassPaneYellow> :
+    <minecraft:stained_glass_pane:4>
+Ore entries for <ore:stainedGlassPaneLime> :
+    <minecraft:stained_glass_pane:5>
+Ore entries for <ore:stainedGlassPanePink> :
+    <minecraft:stained_glass_pane:6>
+Ore entries for <ore:stainedGlassPaneGray> :
+    <minecraft:stained_glass_pane:7>
+Ore entries for <ore:stainedGlassPaneLightGray> :
+    <minecraft:stained_glass_pane:8>
+Ore entries for <ore:stainedGlassPaneCyan> :
+    <minecraft:stained_glass_pane:9>
+Ore entries for <ore:stainedGlassPanePurple> :
+    <minecraft:stained_glass_pane:10>
+Ore entries for <ore:stainedGlassPaneBlue> :
+    <minecraft:stained_glass_pane:11>
+Ore entries for <ore:stainedGlassPaneBrown> :
+    <minecraft:stained_glass_pane:12>
+Ore entries for <ore:stainedGlassPaneGreen> :
+    <minecraft:stained_glass_pane:13>
+Ore entries for <ore:stainedGlassPaneRed> :
+    <minecraft:stained_glass_pane:14>
+Ore entries for <ore:stainedGlassPaneBlack> :
+    <minecraft:stained_glass_pane:15>
+Ore entries for <ore:blockGranite> :
+    <chisel:granite>
+Ore entries for <ore:stoneGranite> :
+    <chisel:granite>
+Ore entries for <ore:holystone> :
+    <chisel:holystone>
+Ore entries for <ore:lavastone> :
+    <chisel:lavastone>
+Ore entries for <ore:limestone> :
+    <chisel:limestone>
+Ore entries for <ore:marble> :
+    <chisel:marble>
+Ore entries for <ore:blockMarble> :
+    <chisel:marble>
+Ore entries for <ore:tyrian> :
+    <chisel:tyrian>
+Ore entries for <ore:blockWaterstone> :
+    <chisel:waterstone>
+Ore entries for <ore:gemSaphire> :
+    <customnpcs:npcSaphire>
+Ore entries for <ore:gemRuby> :
+    <customnpcs:npcRuby>
+Ore entries for <ore:gemAmethyst> :
+    <customnpcs:npcAmethyst>
+Ore entries for <ore:ingotBronze> :
+    <customnpcs:npcBronzeIngot>
+Ore entries for <ore:ingotDemonic> :
+    <customnpcs:npcDemonicIngot>
+Ore entries for <ore:ingotMithril> :
+    <customnpcs:npcMithrilIngot>
+Ore entries for <ore:oreCopper> :
+    <GalacticraftCore:tile.gcBlockCore:5>
+    <GalacticraftCore:tile.moonBlock>
+    <GalacticraftMars:tile.mars>
+    <hbm:tile.ore_copper>
+    <hbm:tile.ore_gneiss_copper>
+    <hbm:tile.ore_meteor_copper>
+Ore entries for <ore:oreTin> :
+    <GalacticraftCore:tile.gcBlockCore:6>
+    <GalacticraftCore:tile.moonBlock:1>
+    <GalacticraftMars:tile.mars:1>
+Ore entries for <ore:oreAluminum> :
+    <GalacticraftCore:tile.gcBlockCore:7>
+    <GalacticraftMars:tile.asteroidsBlock:3>
+    <hbm:tile.ore_aluminium>
+    <hbm:tile.ore_meteor_aluminium>
+Ore entries for <ore:oreAluminium> :
+    <GalacticraftCore:tile.gcBlockCore:7>
+    <GalacticraftMars:tile.asteroidsBlock:3>
+Ore entries for <ore:oreNaturalAluminum> :
+    <GalacticraftCore:tile.gcBlockCore:7>
+    <GalacticraftMars:tile.asteroidsBlock:3>
+Ore entries for <ore:oreSilicon> :
+    <GalacticraftCore:tile.gcBlockCore:8>
+Ore entries for <ore:oreCheese> :
+    <GalacticraftCore:tile.moonBlock:2>
+Ore entries for <ore:ingotCopper> :
+    <GalacticraftCore:item.basicItem:3>
+    <mw:CopperIngot>
+    <hbm:item.ingot_copper>
+Ore entries for <ore:ingotTin> :
+    <GalacticraftCore:item.basicItem:4>
+    <mw:TinIngot>
+Ore entries for <ore:ingotAluminum> :
+    <GalacticraftCore:item.basicItem:5>
+    <hbm:item.ingot_aluminium>
+Ore entries for <ore:compressedCopper> :
+    <GalacticraftCore:item.basicItem:6>
+Ore entries for <ore:compressedTin> :
+    <GalacticraftCore:item.basicItem:7>
+Ore entries for <ore:compressedAluminum> :
+    <GalacticraftCore:item.basicItem:8>
+Ore entries for <ore:compressedSteel> :
+    <GalacticraftCore:item.basicItem:9>
+Ore entries for <ore:compressedBronze> :
+    <GalacticraftCore:item.basicItem:10>
+Ore entries for <ore:compressedIron> :
+    <GalacticraftCore:item.basicItem:11>
+Ore entries for <ore:waferSolar> :
+    <GalacticraftCore:item.basicItem:12>
+Ore entries for <ore:waferBasic> :
+    <GalacticraftCore:item.basicItem:13>
+Ore entries for <ore:waferAdvanced> :
+    <GalacticraftCore:item.basicItem:14>
+Ore entries for <ore:plateMeteoricIron> :
+    <GalacticraftCore:item.meteoricIronIngot:1>
+Ore entries for <ore:ingotMeteoricIron> :
+    <GalacticraftCore:item.meteoricIronIngot>
+Ore entries for <ore:compressedTitanium> :
+    <GalacticraftMars:item.itemBasicAsteroids:6>
+Ore entries for <ore:ingotTitanium> :
+    <GalacticraftMars:item.itemBasicAsteroids:5>
+    <hbm:item.ingot_titanium>
+Ore entries for <ore:shardTitanium> :
+    <GalacticraftMars:item.itemBasicAsteroids:4>
+Ore entries for <ore:shardIron> :
+    <GalacticraftMars:item.itemBasicAsteroids:3>
+Ore entries for <ore:plateCopper> :
+    <hbm:item.plate_copper>
+Ore entries for <ore:ingotAsbestos> :
+    <hbm:item.ingot_asbestos>
+Ore entries for <ore:plateIron> :
+    <hbm:item.plate_iron>
+Ore entries for <ore:plateLead> :
+    <hbm:item.plate_lead>
+Ore entries for <ore:dustBromine> :
+    <hbm:item.powder_bromine>
+Ore entries for <ore:ingotDuraSteel> :
+    <hbm:item.ingot_dura_steel>
+Ore entries for <ore:blockSteel> :
+    <hbm:tile.block_steel>
+Ore entries for <ore:ingotTungsten> :
+    <hbm:item.ingot_tungsten>
+Ore entries for <ore:plateTitanium> :
+    <hbm:item.plate_titanium>
+Ore entries for <ore:dustCoal> :
+    <hbm:item.powder_coal>
+Ore entries for <ore:ingotAnyPlastic> :
+    <hbm:item.ingot_polymer>
+    <hbm:item.ingot_bakelite>
+Ore entries for <ore:ingotFiberglass> :
+    <hbm:item.ingot_fiberglass>
+Ore entries for <ore:dustLapis> :
+    <hbm:item.powder_lapis>
+Ore entries for <ore:plateSteel> :
+    <hbm:item.plate_steel>
+Ore entries for <ore:nuggetTantalum> :
+    <hbm:item.nugget_tantalium>
+Ore entries for <ore:dustNetherQuartz> :
+    <hbm:item.powder_quartz>
+Ore entries for <ore:dustGold> :
+    <hbm:item.powder_gold>
+Ore entries for <ore:dustDiamond> :
+    <hbm:item.powder_diamond>
+Ore entries for <ore:dustCopper> :
+    <hbm:item.powder_copper>
+Ore entries for <ore:dustLead> :
+    <hbm:item.powder_lead>
+Ore entries for <ore:plateAluminum> :
+    <hbm:item.plate_aluminium>
+Ore entries for <ore:ingotWorkersAlloy> :
+    <hbm:item.ingot_desh>
+Ore entries for <ore:ingotTcAlloy> :
+    <hbm:item.ingot_tcalloy>
+Ore entries for <ore:dustSulfur> :
+    <mw:SulfureDust>
+    <hbm:item.sulfur>
+Ore entries for <ore:ingotSteel> :
+    <mw:SteelIngot>
+    <hbm:item.ingot_steel>
+Ore entries for <ore:blockWorkersAlloy> :
+    <hbm:tile.block_desh>
+Ore entries for <ore:blockTungsten> :
+    <hbm:tile.block_tungsten>
+Ore entries for <ore:plateGold> :
+    <hbm:item.plate_gold>
+Ore entries for <ore:ingotStarmetal> :
+    <hbm:item.ingot_starmetal>
+Ore entries for <ore:blockBeryllium> :
+    <hbm:tile.block_beryllium>
+Ore entries for <ore:ingotSaturnite> :
+    <hbm:item.ingot_saturnite>
+Ore entries for <ore:blockThorium232> :
+    <hbm:tile.block_thorium>
+Ore entries for <ore:ingotAustralium> :
+    <hbm:item.ingot_australium>
+Ore entries for <ore:gemNetherQuartz> :
+    <minecraft:quartz>
+Ore entries for <ore:ingotRubber> :
+    <hbm:item.ingot_rubber>
+Ore entries for <ore:ingotMingrade> :
+    <hbm:item.ingot_red_copper>
+Ore entries for <ore:ingotBeryllium> :
+    <hbm:item.ingot_beryllium>
+Ore entries for <ore:plateAdvancedAlloy> :
+    <hbm:item.plate_advanced_alloy>
+Ore entries for <ore:ingotLead> :
+    <mw:leadingot>
+    <hbm:item.ingot_lead>
+Ore entries for <ore:blockLead> :
+    <hbm:tile.block_lead>
+Ore entries for <ore:ingotAdvancedAlloy> :
+    <hbm:item.ingot_advanced_alloy>
+Ore entries for <ore:ingotGraphite> :
+    <hbm:item.ingot_graphite>
+Ore entries for <ore:dustWorkersAlloy> :
+    <hbm:item.powder_desh>
+Ore entries for <ore:nuggetEuphemium> :
+    <hbm:item.nugget_euphemium>
+Ore entries for <ore:blockSchrabidium> :
+    <hbm:tile.block_schrabidium>
+Ore entries for <ore:plateCMBSteel> :
+    <hbm:item.plate_combine_steel>
+Ore entries for <ore:ingotMagnetizedTungsten> :
+    <hbm:item.ingot_magnetized_tungsten>
+Ore entries for <ore:ingotEuphemium> :
+    <hbm:item.ingot_euphemium>
+Ore entries for <ore:dustNeptunium237> :
+    <hbm:item.powder_neptunium>
+Ore entries for <ore:dustIodine> :
+    <hbm:item.powder_iodine>
+Ore entries for <ore:dustThorium232> :
+    <hbm:item.powder_thorium>
+Ore entries for <ore:dustAstatine> :
+    <hbm:item.powder_astatine>
+Ore entries for <ore:dustNeodymium> :
+    <hbm:item.powder_neodymium>
+Ore entries for <ore:dustCaesium> :
+    <hbm:item.powder_caesium>
+Ore entries for <ore:dustStrontium> :
+    <hbm:item.powder_strontium>
+Ore entries for <ore:dustCobalt> :
+    <hbm:item.powder_cobalt>
+Ore entries for <ore:dustTennessine> :
+    <hbm:item.powder_tennessine>
+Ore entries for <ore:dustNiobium> :
+    <hbm:item.powder_niobium>
+Ore entries for <ore:dustCerium> :
+    <hbm:item.powder_cerium>
+Ore entries for <ore:ingotCMBSteel> :
+    <hbm:item.ingot_combine_steel>
+Ore entries for <ore:plateSchrabidium> :
+    <hbm:item.plate_schrabidium>
+Ore entries for <ore:ingotSchrabidium> :
+    <hbm:item.ingot_schrabidium>
+Ore entries for <ore:nuggetSchrabidium> :
+    <hbm:item.nugget_schrabidium>
+Ore entries for <ore:ingotNiobium> :
+    <hbm:item.ingot_niobium>
+Ore entries for <ore:ingotUranium> :
+    <hbm:item.ingot_uranium>
+Ore entries for <ore:ingotThorium232> :
+    <hbm:item.ingot_th232>
+Ore entries for <ore:ingotSchrabidate> :
+    <hbm:item.ingot_schrabidate>
+Ore entries for <ore:ingotDineutronium> :
+    <hbm:item.ingot_dineutronium>
+Ore entries for <ore:plateTungCar> :
+    <hbm:item.neutron_reflector>
+Ore entries for <ore:billetUranium238> :
+    <hbm:item.billet_u238>
+Ore entries for <ore:blockStarmetal> :
+    <hbm:tile.block_starmetal>
+Ore entries for <ore:blockSaltpeter> :
+    <hbm:tile.block_niter>
+Ore entries for <ore:anyTar> :
+    <hbm:item.oil_tar>
+    <hbm:item.oil_tar:1>
+    <hbm:item.oil_tar:2>
+    <hbm:item.oil_tar:3>
+Ore entries for <ore:dustRedPhosphorus> :
+    <hbm:item.powder_fire>
+Ore entries for <ore:dustAluminum> :
+    <hbm:item.powder_aluminium>
+Ore entries for <ore:dustSaltpeter> :
+    <hbm:item.niter>
+Ore entries for <ore:container1000kerosene> :
+    <hbm:item.canister_full:22>
+    <hbm:item.fluid_tank_lead_full:22>
+    <hbm:item.fluid_tank_full:22>
+Ore entries for <ore:ingotAnyPlasticexplosive> :
+    <hbm:item.ingot_semtex>
+    <hbm:item.ingot_c4>
+Ore entries for <ore:dustLithium> :
+    <hbm:item.powder_lithium>
+Ore entries for <ore:dustSchrabidium> :
+    <hbm:item.powder_schrabidium>
+Ore entries for <ore:billetTechnetium99> :
+    <hbm:item.billet_technetium>
+Ore entries for <ore:nuggetTechnetium99> :
+    <hbm:item.nugget_technetium>
+Ore entries for <ore:billetPlutonium238> :
+    <hbm:item.billet_pu238>
+Ore entries for <ore:billetPolonium210> :
+    <hbm:item.billet_polonium>
+Ore entries for <ore:billetGold198> :
+    <hbm:item.billet_au198>
+Ore entries for <ore:billetLead209> :
+    <hbm:item.billet_pb209>
+Ore entries for <ore:billetAmericium241> :
+    <hbm:item.billet_am241>
+Ore entries for <ore:container1000lubricant> :
+    <hbm:item.canister_full:18>
+    <hbm:item.fluid_tank_lead_full:18>
+    <hbm:item.fluid_tank_full:18>
+Ore entries for <ore:ntmscrewdriver> :
+    <hbm:item.screwdriver:*>
+    <hbm:item.screwdriver_desh:*>
+Ore entries for <ore:plateSaturnite> :
+    <hbm:item.plate_saturnite>
+Ore entries for <ore:dustAdvancedAlloy> :
+    <hbm:item.powder_advanced_alloy>
+Ore entries for <ore:dustCMBSteel> :
+    <hbm:item.powder_combine_steel>
+Ore entries for <ore:blockAluminum> :
+    <hbm:tile.block_aluminium>
+Ore entries for <ore:dustTungsten> :
+    <hbm:item.powder_tungsten>
+Ore entries for <ore:dustIron> :
+    <hbm:item.powder_iron>
+Ore entries for <ore:container1000sulfuricacid> :
+    <hbm:item.bucket_sulfuric_acid>
+    <hbm:item.fluid_tank_lead_full:75>
+    <hbm:item.fluid_tank_full:75>
+Ore entries for <ore:gemLignite> :
+    <hbm:item.lignite>
+Ore entries for <ore:gemAnyCoke> :
+    <hbm:item.coke>
+    <hbm:item.coke:1>
+    <hbm:item.coke:2>
+Ore entries for <ore:dustUranium> :
+    <hbm:item.powder_uranium>
+Ore entries for <ore:dustPolonium210> :
+    <hbm:item.powder_polonium>
+Ore entries for <ore:dustBoron> :
+    <hbm:item.powder_boron>
+Ore entries for <ore:circuitVersatile> :
+    <hbm:item.circuit_bismuth>
+    <hbm:item.circuit_arsenic>
+Ore entries for <ore:dustBeryllium> :
+    <hbm:item.powder_beryllium>
+Ore entries for <ore:dustEuphemium> :
+    <hbm:item.powder_euphemium>
+Ore entries for <ore:dustDineutronium> :
+    <hbm:item.powder_dineutronium>
+Ore entries for <ore:blockDineutronium> :
+    <hbm:tile.block_dineutronium>
+Ore entries for <ore:ingotOsmiridium> :
+    <hbm:item.ingot_osmiridium>
+Ore entries for <ore:dustSchrabidate> :
+    <hbm:item.powder_schrabidate>
+Ore entries for <ore:ingotPlutonium> :
+    <hbm:item.ingot_plutonium>
+Ore entries for <ore:blockGraphite> :
+    <hbm:tile.block_graphite>
+Ore entries for <ore:ingotBoron> :
+    <hbm:item.ingot_boron>
+Ore entries for <ore:ingotZirconium> :
+    <hbm:item.ingot_zirconium>
+Ore entries for <ore:ingotCobalt> :
+    <hbm:item.ingot_cobalt>
+Ore entries for <ore:container1000heatingoil> :
+    <hbm:item.canister_full:15>
+    <hbm:item.fluid_tank_lead_full:15>
+    <hbm:item.fluid_tank_full:15>
+Ore entries for <ore:ntmchemistryset> :
+    <hbm:item.chemistry_set:*>
+    <hbm:item.chemistry_set_boron:*>
+Ore entries for <ore:container1000unsaturateds> :
+    <hbm:item.fluid_tank_lead_full:68>
+    <hbm:item.fluid_tank_full:68>
+Ore entries for <ore:container1000lava> :
+    <minecraft:lava_bucket>
+    <hbm:item.fluid_tank_lead_full:7>
+    <hbm:item.fluid_tank_full:7>
+Ore entries for <ore:nuggetStrontium90> :
+    <hbm:item.nugget_sr90>
+Ore entries for <ore:tinyStrontium90> :
+    <hbm:item.nugget_sr90>
+Ore entries for <ore:nuggetSr90> :
+    <hbm:item.nugget_sr90>
+Ore entries for <ore:tinySr90> :
+    <hbm:item.nugget_sr90>
+Ore entries for <ore:nuggetUranium> :
+    <hbm:item.nugget_uranium>
+Ore entries for <ore:tinyUranium> :
+    <hbm:item.nugget_uranium>
+Ore entries for <ore:nuggetUranium233> :
+    <hbm:item.nugget_u233>
+Ore entries for <ore:tinyUranium233> :
+    <hbm:item.nugget_u233>
+Ore entries for <ore:nuggetU233> :
+    <hbm:item.nugget_u233>
+Ore entries for <ore:tinyU233> :
+    <hbm:item.nugget_u233>
+Ore entries for <ore:nuggetUranium235> :
+    <hbm:item.nugget_u235>
+Ore entries for <ore:tinyUranium235> :
+    <hbm:item.nugget_u235>
+Ore entries for <ore:nuggetU235> :
+    <hbm:item.nugget_u235>
+Ore entries for <ore:tinyU235> :
+    <hbm:item.nugget_u235>
+Ore entries for <ore:nuggetUranium238> :
+    <hbm:item.nugget_u238>
+Ore entries for <ore:tinyUranium238> :
+    <hbm:item.nugget_u238>
+Ore entries for <ore:nuggetU238> :
+    <hbm:item.nugget_u238>
+Ore entries for <ore:tinyU238> :
+    <hbm:item.nugget_u238>
+Ore entries for <ore:nuggetThorium232> :
+    <hbm:item.nugget_th232>
+Ore entries for <ore:tinyThorium232> :
+    <hbm:item.nugget_th232>
+Ore entries for <ore:nuggetTh232> :
+    <hbm:item.nugget_th232>
+Ore entries for <ore:tinyTh232> :
+    <hbm:item.nugget_th232>
+Ore entries for <ore:nuggetThorium> :
+    <hbm:item.nugget_th232>
+Ore entries for <ore:tinyThorium> :
+    <hbm:item.nugget_th232>
+Ore entries for <ore:nuggetPlutonium> :
+    <hbm:item.nugget_plutonium>
+Ore entries for <ore:tinyPlutonium> :
+    <hbm:item.nugget_plutonium>
+Ore entries for <ore:nuggetPlutonium238> :
+    <hbm:item.nugget_pu238>
+Ore entries for <ore:tinyPlutonium238> :
+    <hbm:item.nugget_pu238>
+Ore entries for <ore:nuggetPu238> :
+    <hbm:item.nugget_pu238>
+Ore entries for <ore:tinyPu238> :
+    <hbm:item.nugget_pu238>
+Ore entries for <ore:nuggetPlutonium239> :
+    <hbm:item.nugget_pu239>
+Ore entries for <ore:tinyPlutonium239> :
+    <hbm:item.nugget_pu239>
+Ore entries for <ore:nuggetPu239> :
+    <hbm:item.nugget_pu239>
+Ore entries for <ore:tinyPu239> :
+    <hbm:item.nugget_pu239>
+Ore entries for <ore:nuggetPlutonium240> :
+    <hbm:item.nugget_pu240>
+Ore entries for <ore:tinyPlutonium240> :
+    <hbm:item.nugget_pu240>
+Ore entries for <ore:nuggetPu240> :
+    <hbm:item.nugget_pu240>
+Ore entries for <ore:tinyPu240> :
+    <hbm:item.nugget_pu240>
+Ore entries for <ore:nuggetPlutonium241> :
+    <hbm:item.nugget_pu241>
+Ore entries for <ore:tinyPlutonium241> :
+    <hbm:item.nugget_pu241>
+Ore entries for <ore:nuggetPu241> :
+    <hbm:item.nugget_pu241>
+Ore entries for <ore:tinyPu241> :
+    <hbm:item.nugget_pu241>
+Ore entries for <ore:nuggetAmericium241> :
+    <hbm:item.nugget_am241>
+Ore entries for <ore:tinyAmericium241> :
+    <hbm:item.nugget_am241>
+Ore entries for <ore:nuggetAm241> :
+    <hbm:item.nugget_am241>
+Ore entries for <ore:tinyAm241> :
+    <hbm:item.nugget_am241>
+Ore entries for <ore:nuggetAmericium242> :
+    <hbm:item.nugget_am242>
+Ore entries for <ore:tinyAmericium242> :
+    <hbm:item.nugget_am242>
+Ore entries for <ore:nuggetAm242> :
+    <hbm:item.nugget_am242>
+Ore entries for <ore:tinyAm242> :
+    <hbm:item.nugget_am242>
+Ore entries for <ore:nuggetNeptunium237> :
+    <hbm:item.nugget_neptunium>
+Ore entries for <ore:tinyNeptunium237> :
+    <hbm:item.nugget_neptunium>
+Ore entries for <ore:nuggetNp237> :
+    <hbm:item.nugget_neptunium>
+Ore entries for <ore:tinyNp237> :
+    <hbm:item.nugget_neptunium>
+Ore entries for <ore:nuggetNeptunium> :
+    <hbm:item.nugget_neptunium>
+Ore entries for <ore:tinyNeptunium> :
+    <hbm:item.nugget_neptunium>
+Ore entries for <ore:nuggetPolonium210> :
+    <hbm:item.nugget_polonium>
+Ore entries for <ore:tinyPolonium210> :
+    <hbm:item.nugget_polonium>
+Ore entries for <ore:nuggetPo210> :
+    <hbm:item.nugget_polonium>
+Ore entries for <ore:tinyPo210> :
+    <hbm:item.nugget_polonium>
+Ore entries for <ore:nuggetPolonium> :
+    <hbm:item.nugget_polonium>
+Ore entries for <ore:tinyPolonium> :
+    <hbm:item.nugget_polonium>
+Ore entries for <ore:tinyTechnetium99> :
+    <hbm:item.nugget_technetium>
+Ore entries for <ore:nuggetTc99> :
+    <hbm:item.nugget_technetium>
+Ore entries for <ore:tinyTc99> :
+    <hbm:item.nugget_technetium>
+Ore entries for <ore:nuggetGold198> :
+    <hbm:item.nugget_au198>
+Ore entries for <ore:tinyGold198> :
+    <hbm:item.nugget_au198>
+Ore entries for <ore:nuggetAu198> :
+    <hbm:item.nugget_au198>
+Ore entries for <ore:tinyAu198> :
+    <hbm:item.nugget_au198>
+Ore entries for <ore:nuggetLead209> :
+    <hbm:item.nugget_pb209>
+Ore entries for <ore:tinyLead209> :
+    <hbm:item.nugget_pb209>
+Ore entries for <ore:nuggetPb209> :
+    <hbm:item.nugget_pb209>
+Ore entries for <ore:tinyPb209> :
+    <hbm:item.nugget_pb209>
+Ore entries for <ore:nuggetRadium226> :
+    <hbm:item.nugget_ra226>
+Ore entries for <ore:tinyRadium226> :
+    <hbm:item.nugget_ra226>
+Ore entries for <ore:nuggetRa226> :
+    <hbm:item.nugget_ra226>
+Ore entries for <ore:tinyRa226> :
+    <hbm:item.nugget_ra226>
+Ore entries for <ore:nuggetActinium227> :
+    <hbm:item.nugget_actinium>
+Ore entries for <ore:tinyActinium227> :
+    <hbm:item.nugget_actinium>
+Ore entries for <ore:nuggetAc227> :
+    <hbm:item.nugget_actinium>
+Ore entries for <ore:tinyAc227> :
+    <hbm:item.nugget_actinium>
+Ore entries for <ore:nuggetSolinium> :
+    <hbm:item.nugget_solinium>
+Ore entries for <ore:nuggetGhiorsium336> :
+    <hbm:item.nugget_gh336>
+Ore entries for <ore:tinyGhiorsium336> :
+    <hbm:item.nugget_gh336>
+Ore entries for <ore:nuggetGh336> :
+    <hbm:item.nugget_gh336>
+Ore entries for <ore:tinyGh336> :
+    <hbm:item.nugget_gh336>
+Ore entries for <ore:nuggetAustralium> :
+    <hbm:item.nugget_australium>
+Ore entries for <ore:nuggetBeryllium> :
+    <hbm:item.nugget_beryllium>
+Ore entries for <ore:nuggetZirconium> :
+    <hbm:item.nugget_zirconium>
+Ore entries for <ore:nuggetAmericiumRG> :
+    <hbm:item.nugget_am_mix>
+Ore entries for <ore:billetUranium> :
+    <hbm:item.billet_uranium>
+Ore entries for <ore:billetThorium232> :
+    <hbm:item.billet_th232>
+Ore entries for <ore:billetUranium233> :
+    <hbm:item.billet_u233>
+Ore entries for <ore:billetUranium235> :
+    <hbm:item.billet_u235>
+Ore entries for <ore:ingotLithium> :
+    <hbm:item.lithium>
+Ore entries for <ore:billetZirconium> :
+    <hbm:item.billet_zirconium>
+Ore entries for <ore:billetCobalt> :
+    <hbm:item.billet_cobalt>
+Ore entries for <ore:billetCobalt60> :
+    <hbm:item.billet_co60>
+Ore entries for <ore:billetRadium226> :
+    <hbm:item.billet_ra226>
+Ore entries for <ore:billetActinium227> :
+    <hbm:item.billet_actinium>
+Ore entries for <ore:billetNeptunium237> :
+    <hbm:item.billet_neptunium>
+Ore entries for <ore:billetPlutonium239> :
+    <hbm:item.billet_pu239>
+Ore entries for <ore:nuggetLead> :
+    <hbm:item.nugget_lead>
+Ore entries for <ore:billetPlutoniumRG> :
+    <hbm:item.billet_pu_mix>
+Ore entries for <ore:billetPlutonium241> :
+    <hbm:item.billet_pu241>
+Ore entries for <ore:billetAmericiumRG> :
+    <hbm:item.billet_am_mix>
+Ore entries for <ore:billetAmericium242> :
+    <hbm:item.billet_am242>
+Ore entries for <ore:ingotPolymer> :
+    <hbm:item.ingot_polymer>
+Ore entries for <ore:crystalCinnabar> :
+    <hbm:item.cinnebar>
+Ore entries for <ore:ingotUranium238> :
+    <hbm:item.ingot_u238>
+Ore entries for <ore:container1000diesel> :
+    <hbm:item.canister_full:20>
+    <hbm:item.fluid_tank_lead_full:20>
+    <hbm:item.fluid_tank_full:20>
+Ore entries for <ore:ingotUranium235> :
+    <hbm:item.ingot_u235>
+Ore entries for <ore:ingotPlutonium239> :
+    <hbm:item.ingot_pu239>
+Ore entries for <ore:ingotAnyHighexplosive> :
+    <hbm:item.ball_tnt>
+Ore entries for <ore:blockUranium238> :
+    <hbm:tile.block_u238>
+Ore entries for <ore:ingotWhitePhosphorus> :
+    <hbm:item.ingot_phosphorus>
+Ore entries for <ore:container1000dieselcrack> :
+    <hbm:item.canister_full:66>
+    <hbm:item.fluid_tank_lead_full:66>
+    <hbm:item.fluid_tank_full:66>
+Ore entries for <ore:container1000petroil> :
+    <hbm:item.canister_full:17>
+    <hbm:item.fluid_tank_lead_full:17>
+    <hbm:item.fluid_tank_full:17>
+Ore entries for <ore:container1000petroilleaded> :
+    <hbm:item.canister_full:72>
+    <hbm:item.fluid_tank_lead_full:72>
+    <hbm:item.fluid_tank_full:72>
+Ore entries for <ore:container1000gasoline> :
+    <hbm:item.canister_full:46>
+    <hbm:item.fluid_tank_lead_full:46>
+    <hbm:item.fluid_tank_full:46>
+Ore entries for <ore:container1000gasolineleaded> :
+    <hbm:item.canister_full:73>
+    <hbm:item.fluid_tank_lead_full:73>
+    <hbm:item.fluid_tank_full:73>
+Ore entries for <ore:container1000biofuel> :
+    <hbm:item.canister_full:27>
+    <hbm:item.fluid_tank_lead_full:27>
+    <hbm:item.fluid_tank_full:27>
+Ore entries for <ore:dustStrontium90> :
+    <hbm:item.powder_sr90>
+Ore entries for <ore:dustRadium226> :
+    <hbm:item.powder_ra226>
+Ore entries for <ore:dustPlutonium> :
+    <hbm:item.powder_plutonium>
+Ore entries for <ore:dustEmerald> :
+    <hbm:item.powder_emerald>
+Ore entries for <ore:dustFluorite> :
+    <hbm:item.fluorite>
+Ore entries for <ore:dustAsbestos> :
+    <hbm:item.powder_asbestos>
+Ore entries for <ore:ingotGhiorsium336> :
+    <hbm:item.ingot_gh336>
+Ore entries for <ore:blockPolonium210> :
+    <hbm:tile.block_polonium>
+Ore entries for <ore:gemVolcanic> :
+    <hbm:item.gem_volcanic>
+Ore entries for <ore:container1000aromatics> :
+    <hbm:item.fluid_tank_lead_full:67>
+    <hbm:item.fluid_tank_full:67>
+Ore entries for <ore:container1000water> :
+    <minecraft:water_bucket>
+    <hbm:item.fluid_tank_lead_full:1>
+    <hbm:item.fluid_tank_full:1>
+Ore entries for <ore:container1000petroleum> :
+    <hbm:item.gas_petroleum>
+    <hbm:item.fluid_tank_lead_full:24>
+    <hbm:item.fluid_tank_full:24>
+Ore entries for <ore:gemCoal> :
+    <minecraft:coal>
+Ore entries for <ore:dustMagnetizedTungsten> :
+    <hbm:item.powder_magnetized_tungsten>
+Ore entries for <ore:dustTinyBoron> :
+    <hbm:item.powder_boron_tiny>
+Ore entries for <ore:dustTinyLanthanum> :
+    <hbm:item.powder_lanthanium_tiny>
+Ore entries for <ore:dustTinyCerium> :
+    <hbm:item.powder_cerium_tiny>
+Ore entries for <ore:dustTinyCobalt> :
+    <hbm:item.powder_cobalt_tiny>
+Ore entries for <ore:dustTinyLithium> :
+    <hbm:item.powder_lithium_tiny>
+Ore entries for <ore:dustTinyNeodymium> :
+    <hbm:item.powder_neodymium_tiny>
+Ore entries for <ore:dustTinyNiobium> :
+    <hbm:item.powder_niobium_tiny>
+Ore entries for <ore:dustLanthanum> :
+    <hbm:item.powder_lanthanium>
+Ore entries for <ore:dustSteel> :
+    <hbm:item.powder_steel>
+Ore entries for <ore:dustBorax> :
+    <hbm:item.powder_borax>
+Ore entries for <ore:drawerBasic> :
+    <StorageDrawers:fullDrawers1:*>
+    <StorageDrawers:fullDrawers2:*>
+    <StorageDrawers:fullDrawers4:*>
+    <StorageDrawers:halfDrawers2:*>
+    <StorageDrawers:halfDrawers4:*>
+Ore entries for <ore:fieryIngot> :
+    <TwilightForest:item.fieryIngot>
+Ore entries for <ore:ironwood> :
+    <TwilightForest:item.ironwoodIngot>
+Ore entries for <ore:steeleaf> :
+    <TwilightForest:item.steeleafIngot>
+Ore entries for <ore:knightmetal> :
+    <TwilightForest:item.knightMetal>
+Ore entries for <ore:stainedClayWhite> :
+    <minecraft:stained_hardened_clay>
+Ore entries for <ore:blockWoolWhite> :
+    <minecraft:wool>
+Ore entries for <ore:stainedClayOrange> :
+    <minecraft:stained_hardened_clay:1>
+Ore entries for <ore:blockWoolOrange> :
+    <minecraft:wool:1>
+Ore entries for <ore:stainedClayMagenta> :
+    <minecraft:stained_hardened_clay:2>
+Ore entries for <ore:blockWoolMagenta> :
+    <minecraft:wool:2>
+Ore entries for <ore:stainedClayLightBlue> :
+    <minecraft:stained_hardened_clay:3>
+Ore entries for <ore:blockWoolLightBlue> :
+    <minecraft:wool:3>
+Ore entries for <ore:stainedClayYellow> :
+    <minecraft:stained_hardened_clay:4>
+Ore entries for <ore:blockWoolYellow> :
+    <minecraft:wool:4>
+Ore entries for <ore:stainedClayLime> :
+    <minecraft:stained_hardened_clay:5>
+Ore entries for <ore:blockWoolLime> :
+    <minecraft:wool:5>
+Ore entries for <ore:stainedClayPink> :
+    <minecraft:stained_hardened_clay:6>
+Ore entries for <ore:blockWoolPink> :
+    <minecraft:wool:6>
+Ore entries for <ore:stainedClayGray> :
+    <minecraft:stained_hardened_clay:7>
+Ore entries for <ore:blockWoolGray> :
+    <minecraft:wool:7>
+Ore entries for <ore:stainedClayLightGray> :
+    <minecraft:stained_hardened_clay:8>
+Ore entries for <ore:blockWoolLightGray> :
+    <minecraft:wool:8>
+Ore entries for <ore:stainedClayCyan> :
+    <minecraft:stained_hardened_clay:9>
+Ore entries for <ore:blockWoolCyan> :
+    <minecraft:wool:9>
+Ore entries for <ore:stainedClayPurple> :
+    <minecraft:stained_hardened_clay:10>
+Ore entries for <ore:blockWoolPurple> :
+    <minecraft:wool:10>
+Ore entries for <ore:stainedClayBlue> :
+    <minecraft:stained_hardened_clay:11>
+Ore entries for <ore:blockWoolBlue> :
+    <minecraft:wool:11>
+Ore entries for <ore:stainedClayBrown> :
+    <minecraft:stained_hardened_clay:12>
+Ore entries for <ore:blockWoolBrown> :
+    <minecraft:wool:12>
+Ore entries for <ore:stainedClayGreen> :
+    <minecraft:stained_hardened_clay:13>
+Ore entries for <ore:blockWoolGreen> :
+    <minecraft:wool:13>
+Ore entries for <ore:stainedClayRed> :
+    <minecraft:stained_hardened_clay:14>
+Ore entries for <ore:blockWoolRed> :
+    <minecraft:wool:14>
+Ore entries for <ore:stainedClayBlack> :
+    <minecraft:stained_hardened_clay:15>
+Ore entries for <ore:blockWoolBlack> :
+    <minecraft:wool:15>
+Ore entries for <ore:foodTofu> :
+    <FoodCraft:ItemDoufu>
+Ore entries for <ore:foodTofuMomen> :
+    <FoodCraft:ItemDoufu>
+Ore entries for <ore:tofuMomen> :
+    <FoodCraft:ItemDoufu>
+Ore entries for <ore:foodTofuFried> :
+    <FoodCraft:ItemZhadoufu>
+Ore entries for <ore:tofuFried> :
+    <FoodCraft:ItemZhadoufu>
+Ore entries for <ore:foodTofuFriedPouch> :
+    <FoodCraft:ItemZhadoufu>
+Ore entries for <ore:tofuFriedPouch> :
+    <FoodCraft:ItemZhadoufu>
+Ore entries for <ore:seedSoybeen> :
+    <FoodCraft:ItemDouzi>
+Ore entries for <ore:soysbeans> :
+    <FoodCraft:ItemDouzi>
+Ore entries for <ore:salt> :
+    <FoodCraft:ItemYan>
+Ore entries for <ore:bottleSoySauce> :
+    <FoodCraft:ItemJiangyou>
+Ore entries for <ore:starch> :
+    <FoodCraft:ItemDianfen>
+Ore entries for <ore:Leek> :
+    <FoodCraft:ItemCong>
+Ore entries for <ore:cropLeek> :
+    <FoodCraft:ItemCong>
+Ore entries for <ore:cropScallion> :
+    <FoodCraft:ItemCong>
+Ore entries for <ore:doubanjiang> :
+    <FoodCraft:ItemDouban>
+Ore entries for <ore:bottleSoymilk> :
+    <FoodCraft:ItemDounai>
+Ore entries for <ore:foodSoymilk> :
+    <FoodCraft:ItemDounai>
+Ore entries for <ore:grape> :
+    <FoodCraft:ItemPutao>
+Ore entries for <ore:Grape> :
+    <FoodCraft:ItemPutao>
+Ore entries for <ore:azukiBeanPaste> :
+    <FoodCraft:ItemDousha>
+Ore entries for <ore:tomato> :
+    <FoodCraft:ItemFanqie>
+Ore entries for <ore:Tomato> :
+    <FoodCraft:ItemFanqie>
+Ore entries for <ore:eggplantSeed> :
+    <FoodCraft:ItemQiezizhong>
+Ore entries for <ore:eggplantSeeds> :
+    <FoodCraft:ItemQiezizhong>
+Ore entries for <ore:grapeSeed> :
+    <FoodCraft:ItemPutaozhong>
+Ore entries for <ore:seedGrape> :
+    <FoodCraft:ItemPutaozhong>
+Ore entries for <ore:stickyRice> :
+    <FoodCraft:ItemNuomi>
+Ore entries for <ore:riceCake> :
+    <FoodCraft:ItemNiangao>
+Ore entries for <ore:rawSquid> :
+    <FoodCraft:ItemYouyurou>
+Ore entries for <ore:flour> :
+    <FoodCraft:ItemMianfen>
+Ore entries for <ore:Flour> :
+    <FoodCraft:ItemMianfen>
+Ore entries for <ore:eggplant> :
+    <FoodCraft:ItemQiezi>
+Ore entries for <ore:Eggplant> :
+    <FoodCraft:ItemQiezi>
+Ore entries for <ore:tomatoSeeds> :
+    <FoodCraft:ItemFanqiezhong>
+Ore entries for <ore:AzukiBeans> :
+    <FoodCraft:ItemHongdou>
+Ore entries for <ore:SoyOil> :
+    <FoodCraft:ItemHuashenyou>
+Ore entries for <ore:pepeseedOil> :
+    <FoodCraft:ItemHuashenyou>
+Ore entries for <ore:oil> :
+    <FoodCraft:ItemHuashenyou>
+Ore entries for <ore:cropMango> :
+    <FoodCraft:ItemMangguo>
+Ore entries for <ore:seedPeanut> :
+    <FoodCraft:ItemHuashen>
+Ore entries for <ore:cropRice> :
+    <FoodCraft:ItemDami>
+Ore entries for <ore:cropPomegranate> :
+    <FoodCraft:ItemShiliu>
+Ore entries for <ore:cropSweetPotato> :
+    <FoodCraft:ItemHongshu>
+Ore entries for <ore:seedRadish> :
+    <FoodCraft:ItemBailuobo>
+Ore entries for <ore:cropRadish> :
+    <FoodCraft:ItemBailuobo>
+Ore entries for <ore:cropPear> :
+    <FoodCraft:ItemLi>
+Ore entries for <ore:cropStrawberry> :
+    <FoodCraft:ItemCaomei>
+Ore entries for <ore:seedStrawberry> :
+    <FoodCraft:ItemCaomei>
+Ore entries for <ore:dustTinyCoal> :
+    <hbm:item.powder_coal_tiny>
+Ore entries for <ore:Uranium> :
+    <hbm:item.ingot_uranium>
+Ore entries for <ore:blockUranium> :
+    <hbm:tile.block_uranium>
+Ore entries for <ore:oreUranium> :
+    <hbm:tile.ore_uranium>
+    <hbm:tile.ore_uranium_scorched>
+    <hbm:tile.ore_gneiss_uranium>
+    <hbm:tile.ore_gneiss_uranium_scorched>
+    <hbm:tile.ore_nether_uranium>
+    <hbm:tile.ore_nether_uranium_scorched>
+    <hbm:tile.ore_meteor_uranium>
+Ore entries for <ore:oreNetherUranium> :
+    <hbm:tile.ore_nether_uranium>
+    <hbm:tile.ore_nether_uranium_scorched>
+Ore entries for <ore:billetU233> :
+    <hbm:item.billet_u233>
+Ore entries for <ore:ingotUranium233> :
+    <hbm:item.ingot_u233>
+Ore entries for <ore:ingotU233> :
+    <hbm:item.ingot_u233>
+Ore entries for <ore:Uranium233> :
+    <hbm:item.ingot_u233>
+Ore entries for <ore:U233> :
+    <hbm:item.ingot_u233>
+Ore entries for <ore:blockUranium233> :
+    <hbm:tile.block_u233>
+Ore entries for <ore:blockU233> :
+    <hbm:tile.block_u233>
+Ore entries for <ore:billetU235> :
+    <hbm:item.billet_u235>
+Ore entries for <ore:ingotU235> :
+    <hbm:item.ingot_u235>
+Ore entries for <ore:Uranium235> :
+    <hbm:item.ingot_u235>
+Ore entries for <ore:U235> :
+    <hbm:item.ingot_u235>
+Ore entries for <ore:blockUranium235> :
+    <hbm:tile.block_u235>
+Ore entries for <ore:blockU235> :
+    <hbm:tile.block_u235>
+Ore entries for <ore:billetU238> :
+    <hbm:item.billet_u238>
+Ore entries for <ore:ingotU238> :
+    <hbm:item.ingot_u238>
+Ore entries for <ore:Uranium238> :
+    <hbm:item.ingot_u238>
+Ore entries for <ore:U238> :
+    <hbm:item.ingot_u238>
+Ore entries for <ore:blockU238> :
+    <hbm:tile.block_u238>
+Ore entries for <ore:billetTh232> :
+    <hbm:item.billet_th232>
+Ore entries for <ore:billetThorium> :
+    <hbm:item.billet_th232>
+Ore entries for <ore:ingotTh232> :
+    <hbm:item.ingot_th232>
+Ore entries for <ore:ingotThorium> :
+    <hbm:item.ingot_th232>
+Ore entries for <ore:Thorium232> :
+    <hbm:item.ingot_th232>
+Ore entries for <ore:Th232> :
+    <hbm:item.ingot_th232>
+Ore entries for <ore:Thorium> :
+    <hbm:item.ingot_th232>
+Ore entries for <ore:dustTh232> :
+    <hbm:item.powder_thorium>
+Ore entries for <ore:dustThorium> :
+    <hbm:item.powder_thorium>
+Ore entries for <ore:blockTh232> :
+    <hbm:tile.block_thorium>
+Ore entries for <ore:blockThorium> :
+    <hbm:tile.block_thorium>
+Ore entries for <ore:oreThorium232> :
+    <hbm:tile.ore_thorium>
+    <hbm:tile.ore_meteor_thorium>
+Ore entries for <ore:oreTh232> :
+    <hbm:tile.ore_thorium>
+    <hbm:tile.ore_meteor_thorium>
+Ore entries for <ore:oreThorium> :
+    <hbm:tile.ore_thorium>
+    <hbm:tile.ore_meteor_thorium>
+Ore entries for <ore:billetPlutonium> :
+    <hbm:item.billet_plutonium>
+Ore entries for <ore:Plutonium> :
+    <hbm:item.ingot_plutonium>
+Ore entries for <ore:blockPlutonium> :
+    <hbm:tile.block_plutonium>
+Ore entries for <ore:orePlutonium> :
+    <hbm:tile.ore_nether_plutonium>
+Ore entries for <ore:oreNetherPlutonium> :
+    <hbm:tile.ore_nether_plutonium>
+Ore entries for <ore:nuggetPlutoniumRG> :
+    <hbm:item.nugget_pu_mix>
+Ore entries for <ore:tinyPlutoniumRG> :
+    <hbm:item.nugget_pu_mix>
+Ore entries for <ore:ingotPlutoniumRG> :
+    <hbm:item.ingot_pu_mix>
+Ore entries for <ore:PlutoniumRG> :
+    <hbm:item.ingot_pu_mix>
+Ore entries for <ore:blockPlutoniumRG> :
+    <hbm:tile.block_pu_mix>
+Ore entries for <ore:billetPu238> :
+    <hbm:item.billet_pu238>
+Ore entries for <ore:ingotPlutonium238> :
+    <hbm:item.ingot_pu238>
+Ore entries for <ore:ingotPu238> :
+    <hbm:item.ingot_pu238>
+Ore entries for <ore:Plutonium238> :
+    <hbm:item.ingot_pu238>
+Ore entries for <ore:Pu238> :
+    <hbm:item.ingot_pu238>
+Ore entries for <ore:blockPlutonium238> :
+    <hbm:tile.block_pu238>
+Ore entries for <ore:blockPu238> :
+    <hbm:tile.block_pu238>
+Ore entries for <ore:billetPu239> :
+    <hbm:item.billet_pu239>
+Ore entries for <ore:ingotPu239> :
+    <hbm:item.ingot_pu239>
+Ore entries for <ore:Plutonium239> :
+    <hbm:item.ingot_pu239>
+Ore entries for <ore:Pu239> :
+    <hbm:item.ingot_pu239>
+Ore entries for <ore:blockPlutonium239> :
+    <hbm:tile.block_pu239>
+Ore entries for <ore:blockPu239> :
+    <hbm:tile.block_pu239>
+Ore entries for <ore:billetPlutonium240> :
+    <hbm:item.billet_pu240>
+Ore entries for <ore:billetPu240> :
+    <hbm:item.billet_pu240>
+Ore entries for <ore:ingotPlutonium240> :
+    <hbm:item.ingot_pu240>
+Ore entries for <ore:ingotPu240> :
+    <hbm:item.ingot_pu240>
+Ore entries for <ore:Plutonium240> :
+    <hbm:item.ingot_pu240>
+Ore entries for <ore:Pu240> :
+    <hbm:item.ingot_pu240>
+Ore entries for <ore:blockPlutonium240> :
+    <hbm:tile.block_pu240>
+Ore entries for <ore:blockPu240> :
+    <hbm:tile.block_pu240>
+Ore entries for <ore:billetPu241> :
+    <hbm:item.billet_pu241>
+Ore entries for <ore:ingotPlutonium241> :
+    <hbm:item.ingot_pu241>
+Ore entries for <ore:ingotPu241> :
+    <hbm:item.ingot_pu241>
+Ore entries for <ore:Plutonium241> :
+    <hbm:item.ingot_pu241>
+Ore entries for <ore:Pu241> :
+    <hbm:item.ingot_pu241>
+Ore entries for <ore:billetAm241> :
+    <hbm:item.billet_am241>
+Ore entries for <ore:ingotAmericium241> :
+    <hbm:item.ingot_am241>
+Ore entries for <ore:ingotAm241> :
+    <hbm:item.ingot_am241>
+Ore entries for <ore:Americium241> :
+    <hbm:item.ingot_am241>
+Ore entries for <ore:Am241> :
+    <hbm:item.ingot_am241>
+Ore entries for <ore:billetAm242> :
+    <hbm:item.billet_am242>
+Ore entries for <ore:ingotAmericium242> :
+    <hbm:item.ingot_am242>
+Ore entries for <ore:ingotAm242> :
+    <hbm:item.ingot_am242>
+Ore entries for <ore:Americium242> :
+    <hbm:item.ingot_am242>
+Ore entries for <ore:Am242> :
+    <hbm:item.ingot_am242>
+Ore entries for <ore:tinyAmericiumRG> :
+    <hbm:item.nugget_am_mix>
+Ore entries for <ore:ingotAmericiumRG> :
+    <hbm:item.ingot_am_mix>
+Ore entries for <ore:AmericiumRG> :
+    <hbm:item.ingot_am_mix>
+Ore entries for <ore:billetNp237> :
+    <hbm:item.billet_neptunium>
+Ore entries for <ore:billetNeptunium> :
+    <hbm:item.billet_neptunium>
+Ore entries for <ore:ingotNeptunium237> :
+    <hbm:item.ingot_neptunium>
+Ore entries for <ore:ingotNp237> :
+    <hbm:item.ingot_neptunium>
+Ore entries for <ore:ingotNeptunium> :
+    <hbm:item.ingot_neptunium>
+Ore entries for <ore:Neptunium237> :
+    <hbm:item.ingot_neptunium>
+Ore entries for <ore:Np237> :
+    <hbm:item.ingot_neptunium>
+Ore entries for <ore:Neptunium> :
+    <hbm:item.ingot_neptunium>
+Ore entries for <ore:dustNp237> :
+    <hbm:item.powder_neptunium>
+Ore entries for <ore:dustNeptunium> :
+    <hbm:item.powder_neptunium>
+Ore entries for <ore:blockNeptunium237> :
+    <hbm:tile.block_neptunium>
+Ore entries for <ore:blockNp237> :
+    <hbm:tile.block_neptunium>
+Ore entries for <ore:blockNeptunium> :
+    <hbm:tile.block_neptunium>
+Ore entries for <ore:billetPo210> :
+    <hbm:item.billet_polonium>
+Ore entries for <ore:billetPolonium> :
+    <hbm:item.billet_polonium>
+Ore entries for <ore:ingotPolonium210> :
+    <hbm:item.ingot_polonium>
+Ore entries for <ore:ingotPo210> :
+    <hbm:item.ingot_polonium>
+Ore entries for <ore:ingotPolonium> :
+    <hbm:item.ingot_polonium>
+Ore entries for <ore:Polonium210> :
+    <hbm:item.ingot_polonium>
+Ore entries for <ore:Po210> :
+    <hbm:item.ingot_polonium>
+Ore entries for <ore:Polonium> :
+    <hbm:item.ingot_polonium>
+Ore entries for <ore:dustPo210> :
+    <hbm:item.powder_polonium>
+Ore entries for <ore:dustPolonium> :
+    <hbm:item.powder_polonium>
+Ore entries for <ore:blockPo210> :
+    <hbm:tile.block_polonium>
+Ore entries for <ore:blockPolonium> :
+    <hbm:tile.block_polonium>
+Ore entries for <ore:billetTc99> :
+    <hbm:item.billet_technetium>
+Ore entries for <ore:ingotTechnetium99> :
+    <hbm:item.ingot_technetium>
+Ore entries for <ore:ingotTc99> :
+    <hbm:item.ingot_technetium>
+Ore entries for <ore:Technetium99> :
+    <hbm:item.ingot_technetium>
+Ore entries for <ore:Tc99> :
+    <hbm:item.ingot_technetium>
+Ore entries for <ore:billetRa226> :
+    <hbm:item.billet_ra226>
+Ore entries for <ore:ingotRadium226> :
+    <hbm:item.ingot_ra226>
+Ore entries for <ore:ingotRa226> :
+    <hbm:item.ingot_ra226>
+Ore entries for <ore:Radium226> :
+    <hbm:item.ingot_ra226>
+Ore entries for <ore:Ra226> :
+    <hbm:item.ingot_ra226>
+Ore entries for <ore:dustRa226> :
+    <hbm:item.powder_ra226>
+Ore entries for <ore:blockRadium226> :
+    <hbm:tile.block_ra226>
+Ore entries for <ore:blockRa226> :
+    <hbm:tile.block_ra226>
+Ore entries for <ore:billetAc227> :
+    <hbm:item.billet_actinium>
+Ore entries for <ore:ingotActinium227> :
+    <hbm:item.ingot_actinium>
+Ore entries for <ore:ingotAc227> :
+    <hbm:item.ingot_actinium>
+Ore entries for <ore:Actinium227> :
+    <hbm:item.ingot_actinium>
+Ore entries for <ore:Ac227> :
+    <hbm:item.ingot_actinium>
+Ore entries for <ore:dustActinium227> :
+    <hbm:item.powder_actinium>
+Ore entries for <ore:dustAc227> :
+    <hbm:item.powder_actinium>
+Ore entries for <ore:blockActinium227> :
+    <hbm:tile.block_actinium>
+Ore entries for <ore:blockAc227> :
+    <hbm:tile.block_actinium>
+Ore entries for <ore:dustTinyActinium227> :
+    <hbm:item.powder_actinium_tiny>
+Ore entries for <ore:dustTinyAc227> :
+    <hbm:item.powder_actinium_tiny>
+Ore entries for <ore:nuggetCobalt60> :
+    <hbm:item.nugget_co60>
+Ore entries for <ore:nuggetCo60> :
+    <hbm:item.nugget_co60>
+Ore entries for <ore:tinyCobalt60> :
+    <hbm:item.nugget_co60>
+Ore entries for <ore:tinyCo60> :
+    <hbm:item.nugget_co60>
+Ore entries for <ore:billetCo60> :
+    <hbm:item.billet_co60>
+Ore entries for <ore:ingotCobalt60> :
+    <hbm:item.ingot_co60>
+Ore entries for <ore:ingotCo60> :
+    <hbm:item.ingot_co60>
+Ore entries for <ore:Cobalt60> :
+    <hbm:item.ingot_co60>
+Ore entries for <ore:Co60> :
+    <hbm:item.ingot_co60>
+Ore entries for <ore:dustCobalt60> :
+    <hbm:item.powder_co60>
+Ore entries for <ore:dustCo60> :
+    <hbm:item.powder_co60>
+Ore entries for <ore:billetAu198> :
+    <hbm:item.billet_au198>
+Ore entries for <ore:ingotGold198> :
+    <hbm:item.ingot_au198>
+Ore entries for <ore:ingotAu198> :
+    <hbm:item.ingot_au198>
+Ore entries for <ore:Gold198> :
+    <hbm:item.ingot_au198>
+Ore entries for <ore:Au198> :
+    <hbm:item.ingot_au198>
+Ore entries for <ore:dustGold198> :
+    <hbm:item.powder_au198>
+Ore entries for <ore:dustAu198> :
+    <hbm:item.powder_au198>
+Ore entries for <ore:billetPb209> :
+    <hbm:item.billet_pb209>
+Ore entries for <ore:ingotLead209> :
+    <hbm:item.ingot_pb209>
+Ore entries for <ore:ingotPb209> :
+    <hbm:item.ingot_pb209>
+Ore entries for <ore:Lead209> :
+    <hbm:item.ingot_pb209>
+Ore entries for <ore:Pb209> :
+    <hbm:item.ingot_pb209>
+Ore entries for <ore:tinySchrabidium> :
+    <hbm:item.nugget_schrabidium>
+Ore entries for <ore:billetSchrabidium> :
+    <hbm:item.billet_schrabidium>
+Ore entries for <ore:Schrabidium> :
+    <hbm:item.ingot_schrabidium>
+Ore entries for <ore:oreSchrabidium> :
+    <hbm:tile.ore_schrabidium>
+    <hbm:tile.ore_gneiss_schrabidium>
+    <hbm:tile.ore_nether_schrabidium>
+Ore entries for <ore:oreNetherSchrabidium> :
+    <hbm:tile.ore_nether_schrabidium>
+Ore entries for <ore:tinySolinium> :
+    <hbm:item.nugget_solinium>
+Ore entries for <ore:billetSolinium> :
+    <hbm:item.billet_solinium>
+Ore entries for <ore:ingotSolinium> :
+    <hbm:item.ingot_solinium>
+Ore entries for <ore:Solinium> :
+    <hbm:item.ingot_solinium>
+Ore entries for <ore:blockSolinium> :
+    <hbm:tile.block_solinium>
+Ore entries for <ore:Schrabidate> :
+    <hbm:item.ingot_schrabidate>
+Ore entries for <ore:blockSchrabidate> :
+    <hbm:tile.block_schrabidate>
+Ore entries for <ore:ingotSchraranium> :
+    <hbm:item.ingot_schraranium>
+Ore entries for <ore:Schraranium> :
+    <hbm:item.ingot_schraranium>
+Ore entries for <ore:blockSchraranium> :
+    <hbm:tile.block_schraranium>
+Ore entries for <ore:billetGhiorsium336> :
+    <hbm:item.billet_gh336>
+Ore entries for <ore:billetGh336> :
+    <hbm:item.billet_gh336>
+Ore entries for <ore:ingotGh336> :
+    <hbm:item.ingot_gh336>
+Ore entries for <ore:Ghiorsium336> :
+    <hbm:item.ingot_gh336>
+Ore entries for <ore:Gh336> :
+    <hbm:item.ingot_gh336>
+Ore entries for <ore:Titanium> :
+    <hbm:item.ingot_titanium>
+Ore entries for <ore:dustTitanium> :
+    <hbm:item.powder_titanium>
+Ore entries for <ore:blockTitanium> :
+    <hbm:tile.block_titanium>
+Ore entries for <ore:oreTitanium> :
+    <hbm:tile.ore_titanium>
+    <hbm:tile.ore_meteor_titanium>
+Ore entries for <ore:Copper> :
+    <hbm:item.ingot_copper>
+Ore entries for <ore:blockCopper> :
+    <hbm:tile.block_copper>
+Ore entries for <ore:Mingrade> :
+    <hbm:item.ingot_red_copper>
+Ore entries for <ore:dustMingrade> :
+    <hbm:item.powder_red_copper>
+Ore entries for <ore:blockMingrade> :
+    <hbm:tile.block_red_copper>
+Ore entries for <ore:AdvancedAlloy> :
+    <hbm:item.ingot_advanced_alloy>
+Ore entries for <ore:blockAdvancedAlloy> :
+    <hbm:tile.block_advanced_alloy>
+Ore entries for <ore:Tungsten> :
+    <hbm:item.ingot_tungsten>
+Ore entries for <ore:oreTungsten> :
+    <hbm:tile.ore_tungsten>
+    <hbm:tile.ore_nether_tungsten>
+    <hbm:tile.ore_meteor_tungsten>
+Ore entries for <ore:oreNetherTungsten> :
+    <hbm:tile.ore_nether_tungsten>
+Ore entries for <ore:Aluminum> :
+    <hbm:item.ingot_aluminium>
+Ore entries for <ore:Steel> :
+    <hbm:item.ingot_steel>
+Ore entries for <ore:dustTinySteel> :
+    <hbm:item.powder_steel_tiny>
+Ore entries for <ore:TcAlloy> :
+    <hbm:item.ingot_tcalloy>
+Ore entries for <ore:dustTcAlloy> :
+    <hbm:item.powder_tcalloy>
+Ore entries for <ore:tinyLead> :
+    <hbm:item.nugget_lead>
+Ore entries for <ore:Lead> :
+    <hbm:item.ingot_lead>
+Ore entries for <ore:oreLead> :
+    <hbm:tile.ore_lead>
+    <hbm:tile.ore_meteor_lead>
+Ore entries for <ore:nuggetArsenic> :
+    <hbm:item.nugget_arsenic>
+Ore entries for <ore:tinyArsenic> :
+    <hbm:item.nugget_arsenic>
+Ore entries for <ore:ingotArsenic> :
+    <hbm:item.ingot_arsenic>
+Ore entries for <ore:Arsenic> :
+    <hbm:item.ingot_arsenic>
+Ore entries for <ore:tinyTantalum> :
+    <hbm:item.nugget_tantalium>
+Ore entries for <ore:gemTantalum> :
+    <hbm:item.gem_tantalium>
+Ore entries for <ore:ingotTantalum> :
+    <hbm:item.ingot_tantalium>
+Ore entries for <ore:Tantalum> :
+    <hbm:item.ingot_tantalium>
+Ore entries for <ore:dustTantalum> :
+    <hbm:item.powder_tantalium>
+Ore entries for <ore:blockTantalum> :
+    <hbm:tile.block_tantalium>
+Ore entries for <ore:ingotColtan> :
+    <hbm:item.fragment_coltan>
+Ore entries for <ore:Coltan> :
+    <hbm:item.fragment_coltan>
+Ore entries for <ore:dustColtan> :
+    <hbm:item.powder_coltan_ore>
+Ore entries for <ore:blockColtan> :
+    <hbm:tile.block_coltan>
+Ore entries for <ore:oreColtan> :
+    <hbm:tile.ore_coltan>
+Ore entries for <ore:nuggetNiobium> :
+    <hbm:item.fragment_niobium>
+Ore entries for <ore:tinyNiobium> :
+    <hbm:item.fragment_niobium>
+Ore entries for <ore:Niobium> :
+    <hbm:item.ingot_niobium>
+Ore entries for <ore:blockNiobium> :
+    <hbm:tile.block_niobium>
+Ore entries for <ore:tinyBeryllium> :
+    <hbm:item.nugget_beryllium>
+Ore entries for <ore:billetBeryllium> :
+    <hbm:item.billet_beryllium>
+Ore entries for <ore:Beryllium> :
+    <hbm:item.ingot_beryllium>
+Ore entries for <ore:oreBeryllium> :
+    <hbm:tile.ore_beryllium>
+Ore entries for <ore:nuggetCobalt> :
+    <hbm:item.fragment_cobalt>
+    <hbm:item.nugget_cobalt>
+Ore entries for <ore:tinyCobalt> :
+    <hbm:item.fragment_cobalt>
+    <hbm:item.nugget_cobalt>
+Ore entries for <ore:Cobalt> :
+    <hbm:item.ingot_cobalt>
+Ore entries for <ore:blockCobalt> :
+    <hbm:tile.block_cobalt>
+Ore entries for <ore:oreCobalt> :
+    <hbm:tile.ore_cobalt>
+    <hbm:tile.ore_nether_cobalt>
+Ore entries for <ore:nuggetBoron> :
+    <hbm:item.fragment_boron>
+Ore entries for <ore:tinyBoron> :
+    <hbm:item.fragment_boron>
+Ore entries for <ore:Boron> :
+    <hbm:item.ingot_boron>
+Ore entries for <ore:blockBoron> :
+    <hbm:tile.block_boron>
+Ore entries for <ore:Graphite> :
+    <hbm:item.ingot_graphite>
+Ore entries for <ore:DuraSteel> :
+    <hbm:item.ingot_dura_steel>
+Ore entries for <ore:dustDuraSteel> :
+    <hbm:item.powder_dura_steel>
+Ore entries for <ore:blockDuraSteel> :
+    <hbm:tile.block_dura_steel>
+Ore entries for <ore:Polymer> :
+    <hbm:item.ingot_polymer>
+Ore entries for <ore:dustPolymer> :
+    <hbm:item.powder_polymer>
+Ore entries for <ore:dustAnyPlastic> :
+    <hbm:item.powder_polymer>
+    <hbm:item.powder_bakelite>
+Ore entries for <ore:blockPolymer> :
+    <hbm:tile.block_polymer>
+Ore entries for <ore:blockAnyPlastic> :
+    <hbm:tile.block_polymer>
+    <hbm:tile.block_bakelite>
+Ore entries for <ore:ingotBakelite> :
+    <hbm:item.ingot_bakelite>
+Ore entries for <ore:Bakelite> :
+    <hbm:item.ingot_bakelite>
+Ore entries for <ore:dustBakelite> :
+    <hbm:item.powder_bakelite>
+Ore entries for <ore:blockBakelite> :
+    <hbm:tile.block_bakelite>
+Ore entries for <ore:Rubber> :
+    <hbm:item.ingot_rubber>
+Ore entries for <ore:blockRubber> :
+    <hbm:tile.block_rubber>
+Ore entries for <ore:MagnetizedTungsten> :
+    <hbm:item.ingot_magnetized_tungsten>
+Ore entries for <ore:blockMagnetizedTungsten> :
+    <hbm:tile.block_magnetized_tungsten>
+Ore entries for <ore:CMBSteel> :
+    <hbm:item.ingot_combine_steel>
+Ore entries for <ore:blockCMBSteel> :
+    <hbm:tile.block_combine_steel>
+Ore entries for <ore:nuggetWorkersAlloy> :
+    <hbm:item.nugget_desh>
+Ore entries for <ore:tinyWorkersAlloy> :
+    <hbm:item.nugget_desh>
+Ore entries for <ore:WorkersAlloy> :
+    <hbm:item.ingot_desh>
+Ore entries for <ore:Starmetal> :
+    <hbm:item.ingot_starmetal>
+Ore entries for <ore:oreStarmetal> :
+    <hbm:tile.ore_meteor_starmetal>
+Ore entries for <ore:Saturnite> :
+    <hbm:item.ingot_saturnite>
+Ore entries for <ore:ingotFerrouranium> :
+    <hbm:item.ingot_ferrouranium>
+Ore entries for <ore:Ferrouranium> :
+    <hbm:item.ingot_ferrouranium>
+Ore entries for <ore:tinyEuphemium> :
+    <hbm:item.nugget_euphemium>
+Ore entries for <ore:Euphemium> :
+    <hbm:item.ingot_euphemium>
+Ore entries for <ore:blockEuphemium> :
+    <hbm:tile.block_euphemium>
+Ore entries for <ore:nuggetDineutronium> :
+    <hbm:item.nugget_dineutronium>
+Ore entries for <ore:tinyDineutronium> :
+    <hbm:item.nugget_dineutronium>
+Ore entries for <ore:Dineutronium> :
+    <hbm:item.ingot_dineutronium>
+Ore entries for <ore:Fiberglass> :
+    <hbm:item.ingot_fiberglass>
+Ore entries for <ore:blockFiberglass> :
+    <hbm:tile.block_fiberglass>
+Ore entries for <ore:Asbestos> :
+    <hbm:item.ingot_asbestos>
+Ore entries for <ore:blockAsbestos> :
+    <hbm:tile.block_asbestos>
+Ore entries for <ore:oreAsbestos> :
+    <hbm:tile.ore_asbestos>
+    <hbm:tile.ore_gneiss_asbestos>
+    <hbm:tile.basalt_asbestos>
+    <hbm:tile.stone_resource:1>
+Ore entries for <ore:nuggetOsmiridium> :
+    <hbm:item.nugget_osmiridium>
+Ore entries for <ore:tinyOsmiridium> :
+    <hbm:item.nugget_osmiridium>
+Ore entries for <ore:Osmiridium> :
+    <hbm:item.ingot_osmiridium>
+Ore entries for <ore:blockSulfur> :
+    <hbm:tile.block_sulfur>
+Ore entries for <ore:oreSulfur> :
+    <hbm:tile.ore_sulfur>
+    <hbm:tile.ore_nether_sulfur>
+    <hbm:tile.basalt_sulfur>
+    <hbm:tile.ore_meteor_sulfur>
+    <hbm:tile.stone_resource>
+Ore entries for <ore:oreNetherSulfur> :
+    <hbm:tile.ore_nether_sulfur>
+Ore entries for <ore:oreSaltpeter> :
+    <hbm:tile.ore_niter>
+Ore entries for <ore:blockFluorite> :
+    <hbm:tile.block_fluorite>
+Ore entries for <ore:oreFluorite> :
+    <hbm:tile.ore_fluorite>
+    <hbm:tile.basalt_fluorite>
+Ore entries for <ore:dustLignite> :
+    <hbm:item.powder_lignite>
+Ore entries for <ore:oreLignite> :
+    <hbm:tile.ore_lignite>
+Ore entries for <ore:gemCoalCoke> :
+    <hbm:item.coke>
+Ore entries for <ore:gemPetCoke> :
+    <hbm:item.coke:2>
+Ore entries for <ore:gemLigniteCoke> :
+    <hbm:item.coke:1>
+Ore entries for <ore:gemCinnabar> :
+    <hbm:item.cinnebar>
+Ore entries for <ore:oreCinnabar> :
+    <hbm:tile.ore_cinnebar>
+    <hbm:tile.ore_depth_cinnebar>
+Ore entries for <ore:oreBorax> :
+    <hbm:tile.ore_depth_borax>
+Ore entries for <ore:oreVolcanic> :
+    <hbm:tile.basalt_gem>
+Ore entries for <ore:oreHematite> :
+    <hbm:tile.stone_resource:2>
+Ore entries for <ore:oreMalachite> :
+    <hbm:tile.stone_resource:3>
+Ore entries for <ore:blockSlag> :
+    <hbm:tile.block_slag>
+Ore entries for <ore:Lithium> :
+    <hbm:item.lithium>
+Ore entries for <ore:blockLithium> :
+    <hbm:tile.block_lithium>
+Ore entries for <ore:oreLithium> :
+    <hbm:tile.ore_gneiss_lithium>
+    <hbm:tile.ore_meteor_lithium>
+Ore entries for <ore:WhitePhosphorus> :
+    <hbm:item.ingot_phosphorus>
+Ore entries for <ore:blockWhitePhosphorus> :
+    <hbm:tile.block_white_phosphorus>
+Ore entries for <ore:blockRedPhosphorus> :
+    <hbm:tile.block_red_phosphorus>
+Ore entries for <ore:tinyAustralium> :
+    <hbm:item.nugget_australium>
+Ore entries for <ore:billetAustralium> :
+    <hbm:item.billet_australium>
+Ore entries for <ore:Australium> :
+    <hbm:item.ingot_australium>
+Ore entries for <ore:dustAustralium> :
+    <hbm:item.powder_australium>
+Ore entries for <ore:blockAustralium> :
+    <hbm:tile.block_australium>
+Ore entries for <ore:oreAustralium> :
+    <hbm:tile.ore_australium>
+Ore entries for <ore:nuggetReiium> :
+    <hbm:item.nugget_reiium>
+Ore entries for <ore:tinyReiium> :
+    <hbm:item.nugget_reiium>
+Ore entries for <ore:ingotReiium> :
+    <hbm:item.ingot_reiium>
+Ore entries for <ore:Reiium> :
+    <hbm:item.ingot_reiium>
+Ore entries for <ore:dustReiium> :
+    <hbm:item.powder_reiium>
+Ore entries for <ore:blockReiium> :
+    <hbm:tile.block_reiium>
+Ore entries for <ore:oreReiium> :
+    <hbm:tile.ore_reiium>
+Ore entries for <ore:nuggetWeidanium> :
+    <hbm:item.nugget_weidanium>
+Ore entries for <ore:tinyWeidanium> :
+    <hbm:item.nugget_weidanium>
+Ore entries for <ore:ingotWeidanium> :
+    <hbm:item.ingot_weidanium>
+Ore entries for <ore:Weidanium> :
+    <hbm:item.ingot_weidanium>
+Ore entries for <ore:dustWeidanium> :
+    <hbm:item.powder_weidanium>
+Ore entries for <ore:blockWeidanium> :
+    <hbm:tile.block_weidanium>
+Ore entries for <ore:oreWeidanium> :
+    <hbm:tile.ore_weidanium>
+Ore entries for <ore:nuggetUnobtainium> :
+    <hbm:item.nugget_unobtainium>
+Ore entries for <ore:tinyUnobtainium> :
+    <hbm:item.nugget_unobtainium>
+Ore entries for <ore:ingotUnobtainium> :
+    <hbm:item.ingot_unobtainium>
+Ore entries for <ore:Unobtainium> :
+    <hbm:item.ingot_unobtainium>
+Ore entries for <ore:dustUnobtainium> :
+    <hbm:item.powder_unobtainium>
+Ore entries for <ore:blockUnobtainium> :
+    <hbm:tile.block_unobtainium>
+Ore entries for <ore:oreUnobtainium> :
+    <hbm:tile.ore_unobtainium>
+Ore entries for <ore:nuggetVerticium> :
+    <hbm:item.nugget_verticium>
+Ore entries for <ore:tinyVerticium> :
+    <hbm:item.nugget_verticium>
+Ore entries for <ore:ingotVerticium> :
+    <hbm:item.ingot_verticium>
+Ore entries for <ore:Verticium> :
+    <hbm:item.ingot_verticium>
+Ore entries for <ore:dustVerticium> :
+    <hbm:item.powder_verticium>
+Ore entries for <ore:blockVerticium> :
+    <hbm:tile.block_verticium>
+Ore entries for <ore:oreVerticium> :
+    <hbm:tile.ore_verticium>
+Ore entries for <ore:nuggetDaffergon> :
+    <hbm:item.nugget_daffergon>
+Ore entries for <ore:tinyDaffergon> :
+    <hbm:item.nugget_daffergon>
+Ore entries for <ore:ingotDaffergon> :
+    <hbm:item.ingot_daffergon>
+Ore entries for <ore:Daffergon> :
+    <hbm:item.ingot_daffergon>
+Ore entries for <ore:dustDaffergon> :
+    <hbm:item.powder_daffergon>
+Ore entries for <ore:blockDaffergon> :
+    <hbm:tile.block_daffergon>
+Ore entries for <ore:oreDaffergon> :
+    <hbm:tile.ore_daffergon>
+Ore entries for <ore:nuggetLanthanum> :
+    <hbm:item.fragment_lanthanium>
+Ore entries for <ore:tinyLanthanum> :
+    <hbm:item.fragment_lanthanium>
+Ore entries for <ore:ingotLanthanum> :
+    <hbm:item.ingot_lanthanium>
+Ore entries for <ore:Lanthanum> :
+    <hbm:item.ingot_lanthanium>
+Ore entries for <ore:blockLanthanum> :
+    <hbm:tile.block_lanthanium>
+Ore entries for <ore:tinyZirconium> :
+    <hbm:item.nugget_zirconium>
+Ore entries for <ore:Zirconium> :
+    <hbm:item.ingot_zirconium>
+Ore entries for <ore:dustZirconium> :
+    <hbm:item.powder_zirconium>
+Ore entries for <ore:blockZirconium> :
+    <hbm:tile.block_zirconium>
+Ore entries for <ore:oreZirconium> :
+    <hbm:tile.ore_depth_zirconium>
+Ore entries for <ore:nuggetNeodymium> :
+    <hbm:item.fragment_neodymium>
+Ore entries for <ore:tinyNeodymium> :
+    <hbm:item.fragment_neodymium>
+Ore entries for <ore:oreNeodymium> :
+    <hbm:tile.ore_depth_nether_neodymium>
+Ore entries for <ore:oreNetherNeodymium> :
+    <hbm:tile.ore_depth_nether_neodymium>
+Ore entries for <ore:nuggetCerium> :
+    <hbm:item.fragment_cerium>
+Ore entries for <ore:tinyCerium> :
+    <hbm:item.fragment_cerium>
+Ore entries for <ore:dustTinyStrontium90> :
+    <hbm:item.powder_sr90_tiny>
+Ore entries for <ore:dustTinySr90> :
+    <hbm:item.powder_sr90_tiny>
+Ore entries for <ore:dustSr90> :
+    <hbm:item.powder_sr90>
+Ore entries for <ore:ingotStrontium90> :
+    <hbm:item.ingot_sr90>
+Ore entries for <ore:ingotSr90> :
+    <hbm:item.ingot_sr90>
+Ore entries for <ore:Strontium90> :
+    <hbm:item.ingot_sr90>
+Ore entries for <ore:Sr90> :
+    <hbm:item.ingot_sr90>
+Ore entries for <ore:billetStrontium90> :
+    <hbm:item.billet_sr90>
+Ore entries for <ore:billetSr90> :
+    <hbm:item.billet_sr90>
+Ore entries for <ore:dustTinyIodine131> :
+    <hbm:item.powder_i131_tiny>
+Ore entries for <ore:dustTinyI131> :
+    <hbm:item.powder_i131_tiny>
+Ore entries for <ore:dustIodine131> :
+    <hbm:item.powder_i131>
+Ore entries for <ore:dustI131> :
+    <hbm:item.powder_i131>
+Ore entries for <ore:dustTinyXenon135> :
+    <hbm:item.powder_xe135_tiny>
+Ore entries for <ore:dustTinyXe135> :
+    <hbm:item.powder_xe135_tiny>
+Ore entries for <ore:dustXenon135> :
+    <hbm:item.powder_xe135>
+Ore entries for <ore:dustXe135> :
+    <hbm:item.powder_xe135>
+Ore entries for <ore:dustTinyCaesium137> :
+    <hbm:item.powder_cs137_tiny>
+Ore entries for <ore:dustTinyCs137> :
+    <hbm:item.powder_cs137_tiny>
+Ore entries for <ore:dustCaesium137> :
+    <hbm:item.powder_cs137>
+Ore entries for <ore:dustCs137> :
+    <hbm:item.powder_cs137>
+Ore entries for <ore:dustAstatine209> :
+    <hbm:item.powder_at209>
+Ore entries for <ore:dustAt209> :
+    <hbm:item.powder_at209>
+Ore entries for <ore:dustAnyPropellant> :
+    <minecraft:gunpowder>
+    <hbm:item.ballistite>
+    <hbm:item.cordite>
+Ore entries for <ore:dustAnySmokeless> :
+    <hbm:item.ballistite>
+    <hbm:item.cordite>
+Ore entries for <ore:AnyPlasticexplosive> :
+    <hbm:item.ingot_semtex>
+    <hbm:item.ingot_c4>
+Ore entries for <ore:AnyHighexplosive> :
+    <hbm:item.ball_tnt>
+Ore entries for <ore:anyConcrete> :
+    <hbm:tile.concrete>
+    <hbm:tile.concrete_smooth>
+    <hbm:tile.concrete_asbestos>
+    <hbm:tile.ducrete>
+    <hbm:tile.ducrete_smooth>
+    <hbm:tile.concrete_colored>
+    <hbm:tile.concrete_colored:1>
+    <hbm:tile.concrete_colored:2>
+    <hbm:tile.concrete_colored:3>
+    <hbm:tile.concrete_colored:4>
+    <hbm:tile.concrete_colored:5>
+    <hbm:tile.concrete_colored:6>
+    <hbm:tile.concrete_colored:7>
+    <hbm:tile.concrete_colored:8>
+    <hbm:tile.concrete_colored:9>
+    <hbm:tile.concrete_colored:10>
+    <hbm:tile.concrete_colored:11>
+    <hbm:tile.concrete_colored:12>
+    <hbm:tile.concrete_colored:13>
+    <hbm:tile.concrete_colored:14>
+    <hbm:tile.concrete_colored:15>
+Ore entries for <ore:gemCoke> :
+    <hbm:item.coke>
+    <hbm:item.coke:1>
+    <hbm:item.coke:2>
+Ore entries for <ore:ingotAnyBismoid> :
+    <hbm:item.ingot_bismuth>
+    <hbm:item.ingot_arsenic>
+Ore entries for <ore:AnyBismoid> :
+    <hbm:item.ingot_bismuth>
+    <hbm:item.ingot_arsenic>
+Ore entries for <ore:nuggetAnyBismoid> :
+    <hbm:item.nugget_bismuth>
+    <hbm:item.nugget_arsenic>
+Ore entries for <ore:tinyAnyBismoid> :
+    <hbm:item.nugget_bismuth>
+    <hbm:item.nugget_arsenic>
+Ore entries for <ore:blockAnyBismoid> :
+    <hbm:tile.block_bismuth>
+Ore entries for <ore:oiltar> :
+    <hbm:item.oil_tar>
+Ore entries for <ore:cracktar> :
+    <hbm:item.oil_tar:1>
+Ore entries for <ore:coaltar> :
+    <hbm:item.oil_tar:2>
+Ore entries for <ore:woodtar> :
+    <hbm:item.oil_tar:3>
+Ore entries for <ore:ntmuniversaltank> :
+    <hbm:item.fluid_tank_full:*>
+Ore entries for <ore:ntmhazardtank> :
+    <hbm:item.fluid_tank_lead_full:*>
+Ore entries for <ore:ntmuniversalbarrel> :
+    <hbm:item.fluid_barrel_full:*>
+Ore entries for <ore:ntmhanddrill> :
+    <hbm:item.hand_drill:*>
+    <hbm:item.hand_drill_desh:*>
+Ore entries for <ore:itemRubber> :
+    <hbm:item.ingot_rubber>
+Ore entries for <ore:coalCoke> :
+    <hbm:item.coke>
+Ore entries for <ore:fuelCoke> :
+    <hbm:item.coke>
+    <hbm:item.coke:1>
+    <hbm:item.coke:2>
+Ore entries for <ore:coke> :
+    <hbm:item.coke>
+    <hbm:item.coke:1>
+    <hbm:item.coke:2>
+Ore entries for <ore:briquetteCoal> :
+    <hbm:item.briquette>
+Ore entries for <ore:briquetteLignite> :
+    <hbm:item.briquette:1>
+Ore entries for <ore:briquetteWood> :
+    <hbm:item.briquette:2>
+Ore entries for <ore:oreRareEarth> :
+    <hbm:tile.ore_rare>
+    <hbm:tile.ore_gneiss_rare>
+Ore entries for <ore:logWoodPink> :
+    <hbm:tile.pink_log>
+Ore entries for <ore:plankWoodPink> :
+    <hbm:tile.pink_planks>
+Ore entries for <ore:slabWoodPink> :
+    <hbm:tile.pink_slab>
+Ore entries for <ore:stairWoodPink> :
+    <hbm:tile.pink_stairs>
+Ore entries for <ore:chestWood> :
+    <minecraft:chest>
+Ore entries for <ore:ingotDesh> :
+    <GalacticraftMars:item.null:2>
+Ore entries for <ore:plateDesh> :
+    <GalacticraftMars:item.null:5>
+Ore entries for <ore:container1000watz> :
+    <hbm:item.bucket_mud>
+    <hbm:item.fluid_tank_lead_full:36>
+    <hbm:item.fluid_tank_full:36>
+Ore entries for <ore:container1000schrabidic> :
+    <hbm:item.bucket_schrabidic_acid>
+    <hbm:item.fluid_tank_lead_full:32>
+    <hbm:item.fluid_tank_full:32>
+Ore entries for <ore:container1000gas> :
+    <hbm:item.gas_full>
+    <hbm:item.fluid_tank_lead_full:23>
+    <hbm:item.fluid_tank_full:23>
+Ore entries for <ore:container1000lpg> :
+    <hbm:item.gas_lpg>
+    <hbm:item.fluid_tank_lead_full:25>
+    <hbm:item.fluid_tank_full:25>
+Ore entries for <ore:container1000biogas> :
+    <hbm:item.gas_biogas>
+    <hbm:item.fluid_tank_lead_full:26>
+    <hbm:item.fluid_tank_full:26>
+Ore entries for <ore:container10000diesel> :
+    <hbm:tile.red_barrel>
+Ore entries for <ore:container10000kerosene> :
+    <hbm:tile.pink_barrel>
+Ore entries for <ore:container10000oxygen> :
+    <hbm:tile.lox_barrel>
+Ore entries for <ore:container250oil> :
+    <hbm:tile.ore_oil>
+Ore entries for <ore:container250petroleum> :
+    <hbm:tile.ore_gneiss_gas>
+Ore entries for <ore:container1000deuterium> :
+    <hbm:item.cell_deuterium>
+    <hbm:item.fluid_tank_lead_full:8>
+    <hbm:item.fluid_tank_full:8>
+Ore entries for <ore:container1000tritium> :
+    <hbm:item.cell_tritium>
+    <hbm:item.fluid_tank_lead_full:9>
+    <hbm:item.fluid_tank_full:9>
+Ore entries for <ore:container1000uf6> :
+    <hbm:item.cell_uf6>
+    <hbm:item.fluid_tank_lead_full:29>
+    <hbm:item.fluid_tank_full:29>
+Ore entries for <ore:container1000puf6> :
+    <hbm:item.cell_puf6>
+    <hbm:item.fluid_tank_lead_full:30>
+    <hbm:item.fluid_tank_full:30>
+Ore entries for <ore:container1000amat> :
+    <hbm:item.cell_antimatter>
+    <hbm:item.particle_amat>
+    <hbm:item.fluid_tank_lead_full:33>
+    <hbm:item.fluid_tank_full:33>
+Ore entries for <ore:container1000aschrab> :
+    <hbm:item.cell_anti_schrabidium>
+    <hbm:item.particle_aschrab>
+    <hbm:item.fluid_tank_lead_full:34>
+    <hbm:item.fluid_tank_full:34>
+Ore entries for <ore:container1000sas3> :
+    <hbm:item.cell_sas3>
+    <hbm:item.fluid_tank_lead_full:31>
+    <hbm:item.fluid_tank_full:31>
+Ore entries for <ore:container1000mercury> :
+    <hbm:item.bottle_mercury>
+    <hbm:item.fluid_tank_lead_full:42>
+    <hbm:item.fluid_tank_full:42>
+Ore entries for <ore:container125mercury> :
+    <hbm:item.nugget_mercury>
+Ore entries for <ore:container2000tritium> :
+    <hbm:item.rod_zirnox_tritium>
+Ore entries for <ore:container8000watz> :
+    <hbm:item.tank_waste:1>
+    <hbm:item.tank_waste:2>
+    <hbm:item.tank_waste:3>
+    <hbm:item.tank_waste:4>
+    <hbm:item.tank_waste:5>
+    <hbm:item.tank_waste:6>
+    <hbm:item.tank_waste:7>
+    <hbm:item.tank_waste:8>
+Ore entries for <ore:container1000hydrogen> :
+    <hbm:item.particle_hydrogen>
+    <hbm:item.fluid_tank_lead_full:38>
+    <hbm:item.fluid_tank_full:38>
+Ore entries for <ore:container100xpjuice> :
+    <hbm:item.iv_xp>
+    <minecraft:experience_bottle>
+Ore entries for <ore:container100mug> :
+    <hbm:item.can_mug>
+Ore entries for <ore:container16000water> :
+    <hbm:item.fluid_barrel_full:1>
+Ore entries for <ore:container1000steam> :
+    <hbm:item.fluid_tank_lead_full:2>
+    <hbm:item.fluid_tank_full:2>
+Ore entries for <ore:container16000steam> :
+    <hbm:item.fluid_barrel_full:2>
+Ore entries for <ore:container1000hotsteam> :
+    <hbm:item.fluid_tank_lead_full:3>
+    <hbm:item.fluid_tank_full:3>
+Ore entries for <ore:container16000hotsteam> :
+    <hbm:item.fluid_barrel_full:3>
+Ore entries for <ore:container1000superhotsteam> :
+    <hbm:item.fluid_tank_lead_full:4>
+    <hbm:item.fluid_tank_full:4>
+Ore entries for <ore:container16000superhotsteam> :
+    <hbm:item.fluid_barrel_full:4>
+Ore entries for <ore:container1000ultrahotsteam> :
+    <hbm:item.fluid_tank_lead_full:5>
+    <hbm:item.fluid_tank_full:5>
+Ore entries for <ore:container16000ultrahotsteam> :
+    <hbm:item.fluid_barrel_full:5>
+Ore entries for <ore:container1000coolant> :
+    <hbm:item.fluid_tank_lead_full:6>
+    <hbm:item.fluid_tank_full:6>
+Ore entries for <ore:container16000coolant> :
+    <hbm:item.fluid_barrel_full:6>
+Ore entries for <ore:container16000lava> :
+    <hbm:item.fluid_barrel_full:7>
+Ore entries for <ore:container16000deuterium> :
+    <hbm:item.fluid_barrel_full:8>
+Ore entries for <ore:container16000tritium> :
+    <hbm:item.fluid_barrel_full:9>
+Ore entries for <ore:container1000oil> :
+    <hbm:item.canister_full:10>
+    <hbm:item.fluid_tank_lead_full:10>
+    <hbm:item.fluid_tank_full:10>
+Ore entries for <ore:container16000oil> :
+    <hbm:item.fluid_barrel_full:10>
+Ore entries for <ore:container1000hotoil> :
+    <hbm:item.fluid_tank_lead_full:11>
+    <hbm:item.fluid_tank_full:11>
+Ore entries for <ore:container16000hotoil> :
+    <hbm:item.fluid_barrel_full:11>
+Ore entries for <ore:container1000heavyoil> :
+    <hbm:item.canister_full:12>
+    <hbm:item.fluid_tank_lead_full:12>
+    <hbm:item.fluid_tank_full:12>
+Ore entries for <ore:container16000heavyoil> :
+    <hbm:item.fluid_barrel_full:12>
+Ore entries for <ore:container1000bitumen> :
+    <hbm:item.canister_full:13>
+    <hbm:item.fluid_tank_lead_full:13>
+    <hbm:item.fluid_tank_full:13>
+Ore entries for <ore:container16000bitumen> :
+    <hbm:item.fluid_barrel_full:13>
+Ore entries for <ore:container1000smear> :
+    <hbm:item.canister_full:14>
+    <hbm:item.fluid_tank_lead_full:14>
+    <hbm:item.fluid_tank_full:14>
+Ore entries for <ore:container16000smear> :
+    <hbm:item.fluid_barrel_full:14>
+Ore entries for <ore:container16000heatingoil> :
+    <hbm:item.fluid_barrel_full:15>
+Ore entries for <ore:container1000reclaimed> :
+    <hbm:item.canister_full:16>
+    <hbm:item.fluid_tank_lead_full:16>
+    <hbm:item.fluid_tank_full:16>
+Ore entries for <ore:container16000reclaimed> :
+    <hbm:item.fluid_barrel_full:16>
+Ore entries for <ore:container16000petroil> :
+    <hbm:item.fluid_barrel_full:17>
+Ore entries for <ore:container16000lubricant> :
+    <hbm:item.fluid_barrel_full:18>
+Ore entries for <ore:container1000naphtha> :
+    <hbm:item.canister_full:19>
+    <hbm:item.fluid_tank_lead_full:19>
+    <hbm:item.fluid_tank_full:19>
+Ore entries for <ore:container16000naphtha> :
+    <hbm:item.fluid_barrel_full:19>
+Ore entries for <ore:container16000diesel> :
+    <hbm:item.fluid_barrel_full:20>
+Ore entries for <ore:container1000lightoil> :
+    <hbm:item.canister_full:21>
+    <hbm:item.fluid_tank_lead_full:21>
+    <hbm:item.fluid_tank_full:21>
+Ore entries for <ore:container16000lightoil> :
+    <hbm:item.fluid_barrel_full:21>
+Ore entries for <ore:container16000kerosene> :
+    <hbm:item.fluid_barrel_full:22>
+Ore entries for <ore:container16000gas> :
+    <hbm:item.fluid_barrel_full:23>
+Ore entries for <ore:container16000petroleum> :
+    <hbm:item.fluid_barrel_full:24>
+Ore entries for <ore:container16000lpg> :
+    <hbm:item.fluid_barrel_full:25>
+Ore entries for <ore:container16000biogas> :
+    <hbm:item.fluid_barrel_full:26>
+Ore entries for <ore:container16000biofuel> :
+    <hbm:item.fluid_barrel_full:27>
+Ore entries for <ore:container1000nitan> :
+    <hbm:item.canister_full:28>
+    <hbm:item.fluid_tank_lead_full:28>
+    <hbm:item.fluid_tank_full:28>
+Ore entries for <ore:container16000nitan> :
+    <hbm:item.fluid_barrel_full:28>
+Ore entries for <ore:container16000uf6> :
+    <hbm:item.fluid_barrel_full:29>
+Ore entries for <ore:container16000puf6> :
+    <hbm:item.fluid_barrel_full:30>
+Ore entries for <ore:container16000sas3> :
+    <hbm:item.fluid_barrel_full:31>
+Ore entries for <ore:container16000schrabidic> :
+    <hbm:item.fluid_barrel_full:32>
+Ore entries for <ore:container16000amat> :
+    <hbm:item.fluid_barrel_full:33>
+Ore entries for <ore:container16000aschrab> :
+    <hbm:item.fluid_barrel_full:34>
+Ore entries for <ore:container1000acid> :
+    <hbm:item.fluid_tank_lead_full:35>
+    <hbm:item.fluid_tank_full:35>
+Ore entries for <ore:container16000acid> :
+    <hbm:item.fluid_barrel_full:35>
+Ore entries for <ore:container16000watz> :
+    <hbm:item.fluid_barrel_full:36>
+Ore entries for <ore:container1000cryogel> :
+    <hbm:item.fluid_tank_lead_full:37>
+    <hbm:item.fluid_tank_full:37>
+Ore entries for <ore:container16000cryogel> :
+    <hbm:item.fluid_barrel_full:37>
+Ore entries for <ore:container16000hydrogen> :
+    <hbm:item.fluid_barrel_full:38>
+Ore entries for <ore:container1000oxygen> :
+    <hbm:item.fluid_tank_lead_full:39>
+    <hbm:item.fluid_tank_full:39>
+Ore entries for <ore:container16000oxygen> :
+    <hbm:item.fluid_barrel_full:39>
+Ore entries for <ore:container1000xenon> :
+    <hbm:item.fluid_tank_lead_full:40>
+    <hbm:item.fluid_tank_full:40>
+Ore entries for <ore:container16000xenon> :
+    <hbm:item.fluid_barrel_full:40>
+Ore entries for <ore:container1000balefire> :
+    <hbm:item.fluid_tank_lead_full:41>
+    <hbm:item.fluid_tank_full:41>
+Ore entries for <ore:container16000balefire> :
+    <hbm:item.fluid_barrel_full:41>
+Ore entries for <ore:container16000mercury> :
+    <hbm:item.fluid_barrel_full:42>
+Ore entries for <ore:container1000pain> :
+    <hbm:item.fluid_tank_lead_full:43>
+    <hbm:item.fluid_tank_full:43>
+Ore entries for <ore:container16000pain> :
+    <hbm:item.fluid_barrel_full:43>
+Ore entries for <ore:container16000gasoline> :
+    <hbm:item.fluid_barrel_full:46>
+Ore entries for <ore:container1000coalgas> :
+    <hbm:item.canister_full:47>
+    <hbm:item.fluid_tank_lead_full:47>
+    <hbm:item.fluid_tank_full:47>
+Ore entries for <ore:container16000coalgas> :
+    <hbm:item.fluid_barrel_full:47>
+Ore entries for <ore:container1000fracksol> :
+    <hbm:item.canister_full:49>
+    <hbm:item.fluid_tank_lead_full:49>
+    <hbm:item.fluid_tank_full:49>
+Ore entries for <ore:container16000fracksol> :
+    <hbm:item.fluid_barrel_full:49>
+Ore entries for <ore:container1000carbondioxide> :
+    <hbm:item.fluid_tank_lead_full:55>
+    <hbm:item.fluid_tank_full:55>
+Ore entries for <ore:container16000carbondioxide> :
+    <hbm:item.fluid_barrel_full:55>
+Ore entries for <ore:container1000helium3> :
+    <hbm:item.fluid_tank_lead_full:57>
+    <hbm:item.fluid_tank_full:57>
+Ore entries for <ore:container16000helium3> :
+    <hbm:item.fluid_barrel_full:57>
+Ore entries for <ore:container1000death> :
+    <hbm:item.fluid_tank_lead_full:58>
+Ore entries for <ore:container1000ethanol> :
+    <hbm:item.canister_full:59>
+    <hbm:item.fluid_tank_lead_full:59>
+    <hbm:item.fluid_tank_full:59>
+Ore entries for <ore:container16000ethanol> :
+    <hbm:item.fluid_barrel_full:59>
+Ore entries for <ore:container1000heavywater> :
+    <hbm:item.fluid_tank_lead_full:60>
+    <hbm:item.fluid_tank_full:60>
+Ore entries for <ore:container16000heavywater> :
+    <hbm:item.fluid_barrel_full:60>
+Ore entries for <ore:container1000crackoil> :
+    <hbm:item.canister_full:61>
+    <hbm:item.fluid_tank_lead_full:61>
+    <hbm:item.fluid_tank_full:61>
+Ore entries for <ore:container16000crackoil> :
+    <hbm:item.fluid_barrel_full:61>
+Ore entries for <ore:container1000coaloil> :
+    <hbm:item.canister_full:62>
+    <hbm:item.fluid_tank_lead_full:62>
+    <hbm:item.fluid_tank_full:62>
+Ore entries for <ore:container16000coaloil> :
+    <hbm:item.fluid_barrel_full:62>
+Ore entries for <ore:container1000hotcrackoil> :
+    <hbm:item.canister_full:63>
+    <hbm:item.fluid_tank_lead_full:63>
+    <hbm:item.fluid_tank_full:63>
+Ore entries for <ore:container16000hotcrackoil> :
+    <hbm:item.fluid_barrel_full:63>
+Ore entries for <ore:container1000naphthacrack> :
+    <hbm:item.canister_full:64>
+    <hbm:item.fluid_tank_lead_full:64>
+    <hbm:item.fluid_tank_full:64>
+Ore entries for <ore:container16000naphthacrack> :
+    <hbm:item.fluid_barrel_full:64>
+Ore entries for <ore:container1000lightoilcrack> :
+    <hbm:item.canister_full:65>
+    <hbm:item.fluid_tank_lead_full:65>
+    <hbm:item.fluid_tank_full:65>
+Ore entries for <ore:container16000lightoilcrack> :
+    <hbm:item.fluid_barrel_full:65>
+Ore entries for <ore:container16000dieselcrack> :
+    <hbm:item.fluid_barrel_full:66>
+Ore entries for <ore:container16000aromatics> :
+    <hbm:item.fluid_barrel_full:67>
+Ore entries for <ore:container16000unsaturateds> :
+    <hbm:item.fluid_barrel_full:68>
+Ore entries for <ore:container1000salient> :
+    <hbm:item.fluid_tank_lead_full:69>
+    <hbm:item.fluid_tank_full:69>
+Ore entries for <ore:container16000salient> :
+    <hbm:item.fluid_barrel_full:69>
+Ore entries for <ore:container1000xpjuice> :
+    <hbm:item.fluid_tank_lead_full:70>
+    <hbm:item.fluid_tank_full:70>
+Ore entries for <ore:container16000xpjuice> :
+    <hbm:item.fluid_barrel_full:70>
+Ore entries for <ore:container1000enderjuice> :
+    <hbm:item.fluid_tank_lead_full:71>
+    <hbm:item.fluid_tank_full:71>
+Ore entries for <ore:container16000enderjuice> :
+    <hbm:item.fluid_barrel_full:71>
+Ore entries for <ore:container16000petroilleaded> :
+    <hbm:item.fluid_barrel_full:72>
+Ore entries for <ore:container16000gasolineleaded> :
+    <hbm:item.fluid_barrel_full:73>
+Ore entries for <ore:container1000coalgasleaded> :
+    <hbm:item.canister_full:74>
+    <hbm:item.fluid_tank_lead_full:74>
+    <hbm:item.fluid_tank_full:74>
+Ore entries for <ore:container16000coalgasleaded> :
+    <hbm:item.fluid_barrel_full:74>
+Ore entries for <ore:container16000sulfuricacid> :
+    <hbm:item.fluid_barrel_full:75>
+Ore entries for <ore:container1000coolanthot> :
+    <hbm:item.fluid_tank_lead_full:76>
+    <hbm:item.fluid_tank_full:76>
+Ore entries for <ore:container16000coolanthot> :
+    <hbm:item.fluid_barrel_full:76>
+Ore entries for <ore:container1000mug> :
+    <hbm:item.fluid_tank_lead_full:77>
+    <hbm:item.fluid_tank_full:77>
+Ore entries for <ore:container16000mug> :
+    <hbm:item.fluid_barrel_full:77>
+Ore entries for <ore:container1000mughot> :
+    <hbm:item.fluid_tank_lead_full:78>
+    <hbm:item.fluid_tank_full:78>
+Ore entries for <ore:container16000mughot> :
+    <hbm:item.fluid_barrel_full:78>
+Ore entries for <ore:container1000woodoil> :
+    <hbm:item.canister_full:79>
+    <hbm:item.fluid_tank_lead_full:79>
+    <hbm:item.fluid_tank_full:79>
+Ore entries for <ore:container16000woodoil> :
+    <hbm:item.fluid_barrel_full:79>
+Ore entries for <ore:container1000coalcreosote> :
+    <hbm:item.canister_full:80>
+    <hbm:item.fluid_tank_lead_full:80>
+    <hbm:item.fluid_tank_full:80>
+Ore entries for <ore:container16000coalcreosote> :
+    <hbm:item.fluid_barrel_full:80>
+Ore entries for <ore:container1000seedslurry> :
+    <hbm:item.canister_full:81>
+    <hbm:item.fluid_tank_lead_full:81>
+    <hbm:item.fluid_tank_full:81>
+Ore entries for <ore:container16000seedslurry> :
+    <hbm:item.fluid_barrel_full:81>

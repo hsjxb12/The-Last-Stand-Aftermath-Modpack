@@ -1,0 +1,16 @@
+[
+    {
+        "name":"filter",
+        "localization_name":"filter",
+        "texture_name":"filter",
+        "max_size":1,
+        "group":"vmwcrGroup"
+    },
+    {
+        "name":"gunpowder_max",
+        "localization_name":"gunpowder_max",
+        "texture_name":"gunpowder_max",
+        "max_size":64,
+        "group":"vmwcrGroup"
+    }
+]

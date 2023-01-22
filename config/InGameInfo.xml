@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    版本：测试版
+    作者：Ginsway
+    模组版本：1.7.10-2.8.3.93
+-->
+<config>
+    <lines at="topleft">
+        <line>
+            <!-- FPS -->
+            <operation>
+                <str>GE</str>
+                <var>fps</var>
+                        <num>60</num>
+                        <num>25</num>
+                        <num>0</num>
+                            <str>§2{fps} fps</str>
+                            <str>§6{fps} fps</str>
+                            <str>§4{fps} fps</str>
+            </operation>
+            <!-- RAM -->
+            <str> §f| 内存使用： </str>
+            <operation>
+                <str>GE</str>
+                <pct>
+                    <var>memused</var>
+                    <var>memmax</var>
+                </pct>
+                        <num>75</num>
+                        <num>50</num>
+                        <num>0</num>
+                            <str>§4</str>
+                            <str>§6</str>
+                            <str>§2</str>
+            </operation>
+            <round>
+                <pct>
+                    <var>memused</var>
+                    <var>memmax</var>
+                </pct>
+                <num>0</num>
+            </round>
+            <str>% §f</str>
+            <operation>
+                <str>GE</str>
+                <pct>
+                    <var>memused</var>
+                    <var>memmax</var>
+                </pct>
+                        <num>75</num>
+                        <num>50</num>
+                        <num>0</num>
+                            <str>§4</str>
+                            <str>§6</str>
+                            <str>§2</str>
+            </operation>
+            <round>
+                <div>
+                    <var>memused</var>
+                    <num>1048576</num>
+                </div>
+                <num>1</num>
+            </round>
+            <str>§f/</str>
+            <div>
+                <var>memmax</var>
+                <num>1048576</num>
+            </div>
+            <str>MB</str>
+        </line>
+        <!-- Day(s) and Time -->
+        <line><str>第</str>
+            <add>
+                <var>day</var>
+                <num>1</num>
+            </add>
+            <str>天</str>
+            <var>mctimeh</var>
+            <str>时</str>
+            <var>mctimem</var>
+            <str>分</str>
+        </line>
+    </lines>
+    <lines at="middleright">
+        <line>
+            <str>§cX§aY§bZ§f:</str>
+            <str>§c </str>
+            <var>x</var>
+            <str>§a </str>
+            <var>y</var>
+            <str>§b </str>
+            <var>z</var>
+        </line>
+        <line>
+            <str>生物群系：{biome}</str>
+        </line>
+        <line>
+            <str>维度：{dimension}</str>
+        </line>
+    </lines>
+</config>

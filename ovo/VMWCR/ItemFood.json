@@ -1,0 +1,16 @@
+[
+    {
+        "name": "the_water_of_wither",
+        "localization_name": "the_water_of_wither",
+        "texture_name": "the_water_of_wither",
+        "max_size": 1,
+        "group": "vmwcrGroup",
+        "hunger": -10,
+        "saturation": 1.0,
+        "wolf": false,
+        "always_eat": true,
+        "fast_food":false,
+        "isDrink":true,
+        "return_item":"minecraft:glass_bottle"
+    }
+]
