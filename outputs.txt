@@ -10,6 +10,7 @@ Apocalypse-V0.0.6.jar
 [url=https://www.curseforge.com/minecraft/mc-mods/codechickencore]CodeChickenCore-1.7.10-1.1.6.jar[/url]
 [url=https://www.curseforge.com/minecraft/mc-mods/controlling]controlling-1.7.10-1.0.0.4.jar[/url]
 [url=https://www.curseforge.com/minecraft/mc-mods/coroutil]CoroUtil-1.1.jar[/url]
+custommainmenu-1.7.10-1.9.4.jar
 [url=https://www.curseforge.com/minecraft/mc-mods/custom-npcs]CustomNPCs_1.7.10d(29oct17).jar[/url]
 DamageIndicators-3.2.0.jar
 [url=https://www.curseforge.com/minecraft/mc-mods/day-z-mod]DayZ-Mod-1.7.2.jar[/url]
@@ -24,7 +25,7 @@ ElephantFix-Forge-1.7.10-1.0.0-mixinless.jar
 Galacticraft-Planets-1.7-3.0.11.306.jar
 GalacticraftCore-1.7-3.0.11.306.jar
 [url=https://www.curseforge.com/minecraft/mc-mods/hardcore-darkness]HardcoreDarkness-MC1.7.10-1.7.jar[/url]
-HBM-NTM-.1.0.27_X4445.jar
+HBM-NTM-.1.0.27_X4480.jar
 InGameInfoXML-1.7.10-2.8.3.93.jar
 [url=https://www.curseforge.com/minecraft/mc-mods/inputfix]InputFix-1.7.10-v5.jar[/url]
 InputMethodBlocker-1.7.x-1.5.0.jar
@@ -51,6 +52,7 @@ MrCrayfishFurnitureModv3.4.8(1.7.10).jar
 [url=https://www.curseforge.com/minecraft/mc-mods/notenoughitems]NotEnoughItems-1.7.10-2.3.20-GTNH.jar[/url]
 [url=https://www.curseforge.com/minecraft/mc-mods/openmodularturrets]OpenModularTurrets-1.7.10-2.2.11-247.jar[/url]
 ovo-0.0.3.jar
+[url=https://www.curseforge.com/minecraft/mc-mods/resource-loader]ResourceLoader-MC1.7.10-1.3.jar[/url]
 [url=https://www.curseforge.com/minecraft/mc-mods/resource-pack-organizer]ResourcePackOrganizer  MC-1.7.10  v1.0.2.jar[/url]
 [url=https://www.curseforge.com/minecraft/mc-mods/server-properties-for-lan]ServerPropertiesLAN-2.65-1.7.10.jar[/url]
 [url=https://www.curseforge.com/minecraft/mc-mods/smooth-font]SmoothFont-1.7.10-1.15.3.jar[/url]
