@@ -1,156 +1,137 @@
 {
-    "images":
-    {
+    "images": {
         "title":
         {
             "image" : "custommainmenu:textures/gui/minecraft.png",
             "posX" : -137,
-            "posY" : 30,
+            "posY" : 50,
             "width" : 512,
             "height" : 512,
             "alignment" : "top_center"
         }
     },
-    
-    "buttons":
-    {
-        "singleplayer":
-        {
-            "text" : "menu.singleplayer",
-            "posX" : -100,
-            "posY" : 48,
-            "width" : 200,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "singleplayer"
+    "buttons": {
+        "singleplayer": {
+            "text": "menu.singleplayer",
+            "posX": -100,
+            "posY": 0,
+            "width": 200,
+            "height": 20,
+            "alignment": "center",
+            "action": {
+                "type": "openGui",
+                "gui": "singleplayer"
             }
         },
-        
-        "multiplayer":
-        {
-            "text" : "menu.multiplayer",
-            "posX" : -100,
-            "posY" : 72,
-            "width" : 200,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "multiplayer"
+        "multiplayer": {
+            "text": "menu.multiplayer",
+            "posX": -100,
+            "posY": 24,
+            "width": 200,
+            "height": 20,
+            "alignment": "center",
+            "action": {
+                "type": "openGui",
+                "gui": "multiplayer"
             }
         },
-        
-        "mods":
-        {
-            "text" : "Mods",
-            "posX" : -100,
-            "posY" : 96,
-            "width" : 200,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "mods"
+        "mods": {
+            "text": "Mods ( #modsloaded# / #modsactive# )",
+            "posX": -76,
+            "posY": 48,
+            "width": 176,
+            "height": 20,
+            "alignment": "center",
+            "action": {
+                "type": "openGui",
+                "gui": "mods"
             }
         },
-            
-        "options":
-        {
-            "text" : "menu.options",
-            "posX" : -100,
-            "posY" : 132,
-            "width" : 98,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "options"
+        "options": {
+            "text": "menu.options",
+            "posX": -76,
+            "posY": 72,
+            "width": 86,
+            "height": 20,
+            "alignment": "center",
+            "action": {
+                "type": "openGui",
+                "gui": "options"
             }
         },
-        
-        "quit":
-        {
-            "text" : "menu.quit",
-            "posX" : 2,
-            "posY" : 132,
-            "width" : 98,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "quit"
+        "quit": {
+            "text": "menu.quit",
+            "posX": 14,
+            "posY": 72,
+            "width": 86,
+            "height": 20,
+            "alignment": "center",
+            "action": {
+                "type": "quit"
             }
         },
-        
-        "language":
-        {
-            "text" : "",
-            "posX" : -124,
-            "posY" : 132,
-            "width" : 20,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "languages"
+        "language": {
+            "text": "",
+            "posX": -100,
+            "posY": 72,
+            "width": 20,
+            "height": 20,
+            "alignment": "center",
+            "action": {
+                "type": "openGui",
+                "gui": "languages"
             }
         },
-        
-        "refresh":
-        {
-            "text" : "",
-            "posX" : -154,
-            "posY" : 132,
-            "width" : 20,
-            "height" : 20,
-            "texture" : "custommainmenu:textures/gui/buttons.png",
-            "action" : 
-            {
-                "type" : "refresh"
+        "refresh": {
+            "text": "",
+            "posX": -100,
+            "posY": 48,
+            "width": 20,
+            "height": 20,
+            "texture": "custommainmenu:textures/gui/buttons.png",
+            "alignment": "center",
+            "action": {
+                "type": "refresh"
             }
         }
     },
-    
-    "texts":
-    {
-        "mojang":
-        {
-            "text" : "Copyright Mojang AB. Do not distribute!",
-            "posX" : -197,
-            "posY" : -10,
-            "color" : -1,
-            "alignment" : "bottom_right"
+    "texts": {
+        "mojang": {
+            "text": "Forge #forgeversion# for Minecraft #mcversion# - Copyright Mojang AB. Do not distribute!",
+            "posX": 2,
+            "posY": -10,
+            "color": -1,
+            "alignment": "bottom_left"
         },
-        
-        "fml":
-        {
-            "text" : "",
-            "posX" : 2,
-            "posY" : -50,
-            "color" : -1,
-            "alignment" : "bottom_left"
+        "version": {
+            "text": "\u00A79The Last Battle : Aftermath \u00A72v1.2.0 ",
+            "posX": 2,
+            "posY": -30,
+            "color": -1,
+            "alignment": "bottom_left"
+        },
+        "backboard":{
+            "text":"The author of the background pictures is Modown.",
+            "posX":2,
+            "posY":-20,
+            "color":-1,
+            "alignment":"bottom_left"
         }
     },
-    
-    "other":
-    {
-        "splash-text":
-        {
-            "posX" : 90,
-            "posY" : 70,
-            "color" : -256,
-            "alignment" : "top_center",
-            "texts" : "file:minecraft:texts/splashes.txt"
-        },
-        
-        "panorama":
-        {
-            "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
-            "animate" : true,
-            "animationSpeed" : 1,
-            "blur" : true,
-            "gradient" : true
-        }
+    "other": {
+        "background": {
+			"image": "",
+			"slideshow": {
+				"images": [
+					"tlba:textures/01.png",
+                    "tlba:textures/02.png",
+                    "tlba:textures/03.png",
+                    "tlba:textures/04.png",
+                    "tlba:textures/05.png"
+				],
+				"displayDuration": 150,
+				"fadeDuration": 40
+			}
+		}
     }
 }
