@@ -5,3 +5,5 @@
 - 将自定义内容的资源移至 /resources
 - 更改了自定义内容的包名
 - 大改主界面 *好耶* 
+- 移除 Resource Pack Organizer Default World Generator 与 NoSecrets
+- 添加 AppleCore
