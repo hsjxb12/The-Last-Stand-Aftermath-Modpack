@@ -110,12 +110,16 @@
             "color": -1,
             "alignment": "bottom_left"
         },
-        "backboard":{
-            "text":"The author of the background pictures is Modown.",
+        "background":{
+            "text":"\u00A7nThe author of the background pictures is Modown.",
             "posX":2,
             "posY":-20,
             "color":-1,
-            "alignment":"bottom_left"
+            "alignment":"bottom_left",
+            "action": {
+				"type": "openLink",
+				"link": "http://www.modown.cn/"
+			}
         }
     },
     "other": {
