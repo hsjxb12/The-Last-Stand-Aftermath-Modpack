@@ -7,3 +7,5 @@
 - 大改主界面 *好耶* 
 - 移除 Resource Pack Organizer Default World Generator 与 NoSecrets
 - 添加 AppleCore
+- 添加 Better Questing 与它的 Standard Expansion 与 Quest Book 扩展，为任务做准备。
+- 使用 CustomNPC+ 代替 Custom Npcs
