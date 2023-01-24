@@ -603,51 +603,6 @@
 <GalacticraftMars:tile.walkway>, 通道
 <GalacticraftMars:tile.walkwayOxygenPipe>, 通道
 <GalacticraftMars:tile.walkwayWire>, 通道
-<IMSM:AirBalloon>, Magic Airballoon Block
-<IMSM:Airplane>, Magic Airplane Block
-<IMSM:Arena1>, Magic Arena Block
-<IMSM:Arena2>, Magic Lava-Arena Block
-<IMSM:BigPyramid>, Magic Huge Pyramid Block
-<IMSM:Boat>, 船
-<IMSM:Bunker>, Magic Bunker Block
-<IMSM:CastleTower>, Magic CastleTower Block
-<IMSM:Cave>, Magic Cave Block
-<IMSM:Dungeon>, Magic Dungeon Block
-<IMSM:EnchantmentRoom>, Magic Enchantment Room Block
-<IMSM:Farm>, Magic Wheat Farm Block
-<IMSM:Farm2>, Magic Sugar Cane Farm Block
-<IMSM:Farm3>, Magic Melon Farm Block
-<IMSM:Farm4>, Magic Pumpkin Farm Block
-<IMSM:FloatingSphere>, Magic Floating Sphere Block
-<IMSM:HountedHouse>, Magic Haunted House Block
-<IMSM:House>, Magic House Block
-<IMSM:House2>, Magic House Block
-<IMSM:HouseTrap1>, Magic Trapped House Block
-<IMSM:HouseTrap2>, Magic Trapped House Block
-<IMSM:Lighthouse>, Magic Lighthouse Block
-<IMSM:MegaHouse>, Magic House Block
-<IMSM:MegaHouse2>, Magic House Block
-<IMSM:MegaTower>, Magic Mega Tower Block
-<IMSM:PenIron>, Magic Iron Pen Block
-<IMSM:PenNether>, Magic Netherbrick Pen Block
-<IMSM:PenWood>, Magic Wooden Pen Block
-<IMSM:Plane>, Magic Plane Block
-<IMSM:Prison1>, Magic Prison Block
-<IMSM:Prison2>, Magic Prison Block
-<IMSM:Pyramid>, Magic Pyramid Block
-<IMSM:Rollercoaster>, Magic Rollercoaster Block
-<IMSM:Rollercoaster2>, Magic Rollercoaster Block
-<IMSM:Skyscraper>, Magic Skyscraper Block
-<IMSM:Skyscraper2>, tile.clickme.name
-<IMSM:Stadium>, Magic Stadium Block
-<IMSM:StadiumSub1>, Magic Stadium Block
-<IMSM:StoreHouse>, Magic Storehouse Block
-<IMSM:Torch>, Magic Torchpattern Block
-<IMSM:Tower>, Magic Tower Block
-<IMSM:TreeHouse>, Magic Treehouse Block
-<IMSM:WaterSlide>, Magic Waterslide Block
-<IMSM:cactus2>, Awesome Cactus
-<IMSM:cake2>, Bouncy Cake :P
 <IronChest:BlockIronChest>, 铁箱子
 <IronChest:copperIronUpgrade>, 升级：铜>铁
 <IronChest:copperSilverUpgrade>, 升级：铜>银
@@ -791,7 +746,7 @@
 <TwilightForest:item.steeleafShovel>, 钢叶铲
 <TwilightForest:item.steeleafSword>, 钢叶劍
 <TwilightForest:item.tfFeather>, 乌鸦羽毛
-<TwilightForest:item.tfspawnegg>, 生成
+<TwilightForest:item.tfspawnegg>, 生成 entity.TwilightForest.RovingCube.name
 <TwilightForest:item.torchberries>, 火炬浆果
 <TwilightForest:item.towerKey>, 塔钥匙
 <TwilightForest:item.transformPowder>, 转换粉
@@ -807,7 +762,12 @@
 <TwilightForest:tile.AuroraPillar>, Aurora Pillar
 <TwilightForest:tile.AuroraSlab>, Aurora Slab
 <TwilightForest:tile.CastleBrick>, Castle Brick
+<TwilightForest:tile.CastleDoor>, tile.CastleDoor.0.name
+<TwilightForest:tile.CastleDoorVanished>, tile.CastleDoorVanished.0.name
 <TwilightForest:tile.CastleMagic>, Pink Castle Rune Brick
+<TwilightForest:tile.CinderFurnaceIdle>, tile.CinderFurnaceIdle.name
+<TwilightForest:tile.CinderFurnaceLit>, tile.CinderFurnaceLit.name
+<TwilightForest:tile.CinderLog>, tile.CinderLog.0.name
 <TwilightForest:tile.DarkLeaves>, Darkwood Leaves
 <TwilightForest:tile.FluffyCloud>, Fluffy Cloud
 <TwilightForest:tile.ForceField>, Violet Force Field
@@ -859,9 +819,9 @@
 <TwilightForest:tile.UberousSoil>, Uberous Soil
 <TwilightForest:tile.UnripeTrollBer>, Unripe Trollber
 <TwilightForest:tile.WispyCloud>, Wispy Cloud
-<ZombieInfection:Cure>, Infection Cure
-<ZombieInfection:infectedEgg>, Infected Egg
-<ZombieInfection:infectedMilk>, Infected Milk
+<ZombieInfection:Cure>, 传染病解药
+<ZombieInfection:infectedEgg>, 感染的蛋
+<ZombieInfection:infectedMilk>, 感染的奶
 <adventurebackpack:adventureBackpack>, Adventure Backpack
 <adventurebackpack:adventureHat>, 探险者软呢帽
 <adventurebackpack:backpackComponent> -- Name could not be retrieved due to an error: java.lang.ArrayIndexOutOfBoundsException: -1
@@ -877,6 +837,11 @@
 <betterbuilderswands:wandIron>, 铁质建筑之杖
 <betterbuilderswands:wandStone>, 石质建筑之杖
 <betterbuilderswands:wandUnbreakable>, 永恒建筑之杖
+<betterquesting:extra_life>, Extra Life
+<betterquesting:guide_book>, Better Questing Starter Guide
+<betterquesting:placeholder>, Item Placeholder
+<betterquesting:submit_station>, Object Submission Station (OSS)
+<bq_standard:loot_chest>, Loot Chest
 <camping:animalParts>, 白色皮毛
 <camping:armorFurBoots>, 毛皮靴子
 <camping:armorFurChest>, 毛皮胸甲
@@ -1039,20 +1004,15 @@
 <cfm:whitefence>, tile.whitefence.name
 <cfm:yellowGlow>, tile.yellowGlow.name
 <chisel:acacia_planks>, 金合欢木板
-<chisel:aluminum_stairs.0>, tile.chisel.aluminum_stairs.0.name
-<chisel:aluminum_stairs.1>, tile.chisel.aluminum_stairs.1.name
-<chisel:aluminum_stairs.2>, tile.chisel.aluminum_stairs.2.name
-<chisel:aluminum_stairs.3>, tile.chisel.aluminum_stairs.3.name
-<chisel:aluminum_stairs.4>, tile.chisel.aluminum_stairs.4.name
-<chisel:aluminum_stairs.5>, tile.chisel.aluminum_stairs.5.name
-<chisel:aluminum_stairs.6>, tile.chisel.aluminum_stairs.6.name
-<chisel:aluminum_stairs.7>, tile.chisel.aluminum_stairs.7.name
+<chisel:aluminum_stairs.0>, 铝制楼梯
+<chisel:aluminum_stairs.1>, 铝制楼梯
+<chisel:aluminum_stairs.2>, 铝制楼梯
 <chisel:aluminumblock>, 铝块
 <chisel:andesite>, 安山岩
 <chisel:antiBlock>, 纯色方块
 <chisel:autoChisel>, 自动雕刻机
 <chisel:ballomoss>, 苔藓球
-<chisel:beacon>, Beacon
+<chisel:beacon>, 信标
 <chisel:birch_planks>, 白桦木板
 <chisel:bookshelf>, 书架
 <chisel:brickCustom>, 砖块
@@ -1071,13 +1031,13 @@
 <chisel:diorite>, 闪长岩
 <chisel:dirt>, 泥土
 <chisel:emerald_block>, 绿宝石块
-<chisel:end_Stone>, End Stone
+<chisel:end_Stone>, 末地石
 <chisel:factoryblock>, 工厂方块
 <chisel:factoryblock2>, 工厂方块
 <chisel:fantasyblock>, 紫色幻想石
 <chisel:fantasyblock2>, 幻想石
 <chisel:futura>, 未来科技方块
-<chisel:futuraCircuit>, Futura Circuit
+<chisel:futuraCircuit>, 未来科技电路
 <chisel:glass>, 玻璃
 <chisel:glass2>, 玻璃
 <chisel:glass_pane>, 玻璃板
@@ -1152,6 +1112,7 @@
 <chisel:mossy_cobblestone>, 苔石
 <chisel:mossy_templeblock>, 神庙苔石
 <chisel:nation>, 盟军方块
+<chisel:netherStarChisel>, 下界之星凿子
 <chisel:nether_brick>, 地狱砖
 <chisel:netherrack>, 地狱岩
 <chisel:oak_planks>, 橡木板
@@ -1187,13 +1148,13 @@
 <chisel:pumpkin7>, 南瓜
 <chisel:pumpkin8>, 南瓜
 <chisel:pumpkin9>, 南瓜
-<chisel:purpur>, Purpur Block
+<chisel:purpur>, 紫珀块
 <chisel:rebel>, 叛军方块
 <chisel:redstone_block>, 红石块
 <chisel:road_line>, 道路标线
 <chisel:sand_snakestone>, 蛇纹沙石
 <chisel:sandstone>, 沙石
-<chisel:sandstone2>, tile.chisel.sandstone2.name
+<chisel:sandstone2>, 沙石
 <chisel:sandstone_scribbles>, 刻文沙石
 <chisel:silverblock>, 银块
 <chisel:smashingrock>, 碎石块
@@ -1217,7 +1178,7 @@
 <chisel:technical>, 工艺方块
 <chisel:technical2>, 简易工艺方块
 <chisel:technical3>, 工业工艺方块
-<chisel:technical4>, Technical Block
+<chisel:technical4>, 工艺方块
 <chisel:templeblock>, 神庙石
 <chisel:tinblock>, 锡块
 <chisel:torch1>, 火把
@@ -1231,7 +1192,7 @@
 <chisel:torch8>, 火把
 <chisel:torch9>, 火把
 <chisel:tyrian>, 未来风格金属块
-<chisel:upgrade>, 速度升级组件.name
+<chisel:upgrade>, 速度升级组件
 <chisel:uraniumblock>, 铀块
 <chisel:valentines>, 少女心方块
 <chisel:voidstone>, 虚空石
@@ -1624,9 +1585,11 @@
 <customnpcs:npcX407Chest>, X407 原型钢甲
 <customnpcs:npcX407Head>, X407 原型钢盔
 <customnpcs:npcX407Legs>, X407 原型护腿
+<customnpcs:scripted_item>, Scripted Item
 <ezwastelands:ezwastelandblock>, 荒土
 <flashlight:flashlight>, 手电筒
 <flashlight:light_source>, tile.light_source.name
+<hbm:item.acetylene_torch>, 乙炔焊罐
 <hbm:item.ajr_boots>, AJR 动力装甲靴子
 <hbm:item.ajr_helmet>, AJR 动力装甲头盔
 <hbm:item.ajr_legs>, AJR 动力装甲护腿
@@ -1736,9 +1699,9 @@
 <hbm:item.ammo_arty>, 16英寸炮弹
 <hbm:item.ammo_cell>, 能量单元
 <hbm:item.ammo_container>, 万能弹药盒
-<hbm:item.ammo_dart>, 塑料镖（凋零）
+<hbm:item.ammo_dart>, 塑料镖[凋零]
 <hbm:item.ammo_dart_nerf>, NERF 飞镖
-<hbm:item.ammo_dart_nuclear>, 塑料镖（定时炸药）
+<hbm:item.ammo_dart_nuclear>, 塑料镖[定时炸药]
 <hbm:item.ammo_dgk>, 双联守门员近防系统200发弹药
 <hbm:item.ammo_fireext>, 灭火器 水罐
 <hbm:item.ammo_fireext_foam>, 灭火器 泡沫罐
@@ -1777,7 +1740,7 @@
 <hbm:item.ammo_nuke_tots>, 迷你核弹  (幼体)
 <hbm:item.ammo_rocket>, 84mm火箭弹
 <hbm:item.ammo_rocket_canister>, 84mm 火箭弹[榴霰弹]
-<hbm:item.ammo_rocket_digamma>, 归 零
+<hbm:item.ammo_rocket_digamma>, §4归 零§r
 <hbm:item.ammo_rocket_emp>, 84mm火箭弹[EMP]
 <hbm:item.ammo_rocket_glare>, 84mm火箭弹[红光]
 <hbm:item.ammo_rocket_he>, 84mm火箭弹[HE]
@@ -1978,11 +1941,11 @@
 <hbm:item.bismuth_pickaxe>, 铋镐
 <hbm:item.bismuth_plate>, 铋质护肩、项链和腰带
 <hbm:item.bismuth_tool>, 磁力提取器
-<hbm:item.bj_boots>, 月神钉靴
+<hbm:item.bj_boots>, §4月神§r钉靴
 <hbm:item.bj_helmet>, 热传感器眼罩
-<hbm:item.bj_legs>, 月神护腿
-<hbm:item.bj_plate>, 月神胸甲
-<hbm:item.bj_plate_jetpack>, 月神胸甲 (带翼)
+<hbm:item.bj_legs>, §4月神§r护腿
+<hbm:item.bj_plate>, §4月神§r胸甲
+<hbm:item.bj_plate_jetpack>, §4月神§r胸甲 (带翼)
 <hbm:item.black_diamond>, 黑色钻石
 <hbm:item.black_hole>, 微型黑洞
 <hbm:item.blade_meteorite>, 陨石刀
@@ -1997,6 +1960,7 @@
 <hbm:item.blades_schrabidium>, Sa326刀片
 <hbm:item.blades_steel>, 钢制刀片
 <hbm:item.blades_titanium>, 钛制刀片
+<hbm:item.blowtorch>, 喷灯
 <hbm:item.board_copper>, 铜片
 <hbm:item.bob_assembly>, item.bob_assembly.name
 <hbm:item.bob_chemistry>, item.bob_chemistry.name
@@ -2037,7 +2001,7 @@
 <hbm:item.boy_propellant>, 炸药
 <hbm:item.boy_shielding>, 中子屏蔽罩
 <hbm:item.boy_target>, 次临界铀-235标靶
-<hbm:item.briquette>, Coal Briquette
+<hbm:item.briquette>, 煤球
 <hbm:item.bucket_acid>, 一桶酸
 <hbm:item.bucket_mud>, 一桶毒泥
 <hbm:item.bucket_schrabidic_acid>, 一桶Sa酸
@@ -2270,7 +2234,6 @@
 <hbm:item.coin_creeper>, 核爆爬行者硬币
 <hbm:item.coin_maskman>, 面具硬币
 <hbm:item.coin_radiation>, 辐射硬币
-<hbm:item.coin_siege>, 围城硬币
 <hbm:item.coin_ufo>, UFO硬币
 <hbm:item.coin_worm>, 机械蠕虫硬币
 <hbm:item.coke>, 煤焦炭
@@ -2285,7 +2248,7 @@
 <hbm:item.crowbar>, Mk.V开箱装置"物理学圣剑"
 <hbm:item.crt_display>, 阴极射线管
 <hbm:item.crucible>, 裁决剑
-<hbm:item.crucible_template>, 坩埚模板 Steel Production
+<hbm:item.crucible_template>, 坩埚模板 钢铁生产
 <hbm:item.crystal_aluminium>, 铝晶体
 <hbm:item.crystal_beryllium>, 铍晶体
 <hbm:item.crystal_charred>, 烧焦的水晶
@@ -2343,7 +2306,7 @@
 <hbm:item.debris_shrapnel>, 走道碎片
 <hbm:item.definitelyfood>, 完全不脏牌军粮
 <hbm:item.defuser>, 高科技拆弹装置
-<hbm:item.defuser_gold>, Golden Wire Cutter
+<hbm:item.defuser_gold>, 黄金剪线钳
 <hbm:item.demon_core_closed>, 封闭的恶魔核心
 <hbm:item.demon_core_open>, 打开的恶魔核心
 <hbm:item.desh_axe>, 工人合金斧
@@ -2390,6 +2353,7 @@
 <hbm:item.drax_mk2>, 强化型采掘钻
 <hbm:item.drax_mk3>, Sa326采掘钻
 <hbm:item.drill_titanium>, 钛钻头
+<hbm:item.drillbit>, 钢钻头
 <hbm:item.ducttape>, 胶带
 <hbm:item.dust>, 灰尘
 <hbm:item.dust_tiny>, 一小撮灰尘
@@ -2507,7 +2471,7 @@
 <hbm:item.gas_mask_mono>, 防一氧化碳面罩
 <hbm:item.gas_mask_olde>, 皮革防毒面具
 <hbm:item.gas_petroleum>, 石油气罐
-<hbm:item.gas_tester>, Gas Sensor
+<hbm:item.gas_tester>, 气体传感器
 <hbm:item.gear_large>, 大型齿轮
 <hbm:item.geiger_counter>, 手持盖革计数器
 <hbm:item.gem_alexandrite>, 亚历山大变石
@@ -2563,9 +2527,9 @@
 <hbm:item.grenade_zomg>, 负能量湮灭手榴弹
 <hbm:item.gun_ar15>, 阿玛莱特AR15式5.56mm自动步枪
 <hbm:item.gun_avenger>, CZ57复仇者机枪
-<hbm:item.gun_b92>, B92能量手枪
-<hbm:item.gun_b92_ammo>, B92能量单元
-<hbm:item.gun_b93>, B93能量手枪
+<hbm:item.gun_b92>, §9B92能量手枪§r
+<hbm:item.gun_b92_ammo>, §9B92能量单元§r
+<hbm:item.gun_b93>, §cB93能量手枪§r
 <hbm:item.gun_bf>, BEL
 <hbm:item.gun_bf_ammo>, Mk.V小型AMAT-炮弹 –野火型
 <hbm:item.gun_bio_revolver>, Atlas
@@ -2779,7 +2743,7 @@
 <hbm:item.ingot_smore>, S'more 锭
 <hbm:item.ingot_solinium>, Sa327锭
 <hbm:item.ingot_sr90>, 锶-90锭
-<hbm:item.ingot_starmetal>, 星辉锭
+<hbm:item.ingot_starmetal>, §9星辉锭§r
 <hbm:item.ingot_steel>, 钢锭
 <hbm:item.ingot_steel_dusted>, 粉末钢锭
 <hbm:item.ingot_tantalium>, 钽锭
@@ -2889,7 +2853,7 @@
 <hbm:item.med_ptsd>, PTSD治疗药物
 <hbm:item.medal_liquidator>, 核废土清道夫勋章
 <hbm:item.meltdown_tool>, 达洛夫快速熔毁装置
-<hbm:item.memespoon>, e花园园丁
+<hbm:item.memespoon>, §ee花园园丁
 <hbm:item.memory>, item.null.name
 <hbm:item.mese_gavel>, Mese槌
 <hbm:item.mese_pickaxe>, Mese镐
@@ -3176,6 +3140,12 @@
 <hbm:item.orange6>, item.orange6.name
 <hbm:item.orange7>, item.orange7.name
 <hbm:item.orange8>, item.orange8.name
+<hbm:item.ore_bedrock>, 基岩铁矿
+<hbm:item.ore_centrifuged>, 离心铁矿
+<hbm:item.ore_cleaned>, 清洁铁矿
+<hbm:item.ore_enriched>, 富集铁矿
+<hbm:item.ore_purified>, 净化铁矿
+<hbm:item.ore_separated>, 分离铁矿
 <hbm:item.overfuse>, 奇异螺丝刀
 <hbm:item.paa_boots>, PaA "好鞋"
 <hbm:item.paa_legs>, PaA加固护腿
@@ -3200,7 +3170,7 @@
 <hbm:item.particle_aschrab>, 反Sa326胶囊
 <hbm:item.particle_copper>, 铜离子胶囊
 <hbm:item.particle_dark>, 暗物质胶囊
-<hbm:item.particle_digamma>, 迪伽马粒子胶囊
+<hbm:item.particle_digamma>, §c迪伽马粒子胶囊§r
 <hbm:item.particle_empty>, 空粒子胶囊
 <hbm:item.particle_higgs>, 希格斯玻色子胶囊
 <hbm:item.particle_hydrogen>, 氢离子胶囊
@@ -3265,9 +3235,8 @@
 <hbm:item.pill_iodine>, 碘丸
 <hbm:item.pin>, 发夹
 <hbm:item.pipes_steel>, 钢管
-<hbm:item.pirfenidone>, 吡咯菲酮
 <hbm:item.piston_selenium>, 星型发动机活塞
-<hbm:item.piston_set>, Steel Piston Set
+<hbm:item.piston_set>, 钢活塞组
 <hbm:item.plan_c>, C计划
 <hbm:item.plant_item>, 烟叶
 <hbm:item.plate_advanced_alloy>, 高级合金板
@@ -3427,7 +3396,7 @@
 <hbm:item.rag_piss>, 沾有尿的布
 <hbm:item.rbmk_fuel_balefire>, RBMK反应堆野火燃料棒
 <hbm:item.rbmk_fuel_balefire_gold>, RBMK反应堆激活态金-198燃料棒
-<hbm:item.rbmk_fuel_drx>, RBMK反应堆F迪伽马粒子燃料棒
+<hbm:item.rbmk_fuel_drx>, §cRBMK反应堆F迪伽马粒子燃料棒§r
 <hbm:item.rbmk_fuel_empty>, 空 RBMK反应堆燃料棒
 <hbm:item.rbmk_fuel_flashlead>, RBMK反应堆闪光铅燃料棒
 <hbm:item.rbmk_fuel_hea241>, HEA-241 RBMK反应堆高浓缩度镅-241燃料棒
@@ -3462,7 +3431,7 @@
 <hbm:item.rbmk_lid_glass>, RBMK反应堆玻璃覆盖层
 <hbm:item.rbmk_pellet_balefire>, 野火燃料芯块
 <hbm:item.rbmk_pellet_balefire_gold>, 激活态金-198燃料芯块
-<hbm:item.rbmk_pellet_drx>, F迪伽马粒子燃料芯块
+<hbm:item.rbmk_pellet_drx>, §cF迪伽马粒子燃料芯块§r
 <hbm:item.rbmk_pellet_flashlead>, 闪光铅燃料芯块
 <hbm:item.rbmk_pellet_hea241>, HEA-241 高浓缩度镅-241料芯块
 <hbm:item.rbmk_pellet_hea242>, HEA-242 高浓缩度镅-242燃料芯块
@@ -3514,7 +3483,7 @@
 <hbm:item.redstone_sword>, 红石剑
 <hbm:item.reer_graar>, The Reer Graar
 <hbm:item.ring_pull>, 拉环
-<hbm:item.ring_starmetal>, 星辉拉环
+<hbm:item.ring_starmetal>, §9星辉拉环§r
 <hbm:item.robes_boots>, 战地靴
 <hbm:item.robes_helmet>, 休闲兜帽
 <hbm:item.robes_legs>, 休闲裤
@@ -3555,7 +3524,6 @@
 <hbm:item.rpa_legs>, 动力护甲 护腿
 <hbm:item.rpa_plate>, 动力装甲 胸甲
 <hbm:item.rtg_unit>, 放射性同位素单元
-<hbm:item.rubber_gloves>, 厚橡胶手套
 <hbm:item.rune_blank>, 空白催化剂基质
 <hbm:item.rune_dagaz>, 平衡催化剂基质
 <hbm:item.rune_hagalaz>, 粗催化剂基质
@@ -3644,7 +3612,6 @@
 <hbm:item.solinium_kit>, 蔚蓝洗礼套件
 <hbm:item.solinium_propellant>, Sa327压缩装药
 <hbm:item.sopsign>, Sop标志战斧
-<hbm:item.source>, item.source.name
 <hbm:item.spawn_duck>, 金蛋
 <hbm:item.spawn_ufo>, 火星入侵者飞船
 <hbm:item.spawn_worm>, 机械蠕虫
@@ -3745,7 +3712,6 @@
 <hbm:item.t45_plate>, T45动力装甲 胸甲
 <hbm:item.tank_steel>, 钢罐
 <hbm:item.tank_waste>, 泥浆容器
-<hbm:item.telepad>, 传送部件
 <hbm:item.tem_flakes>, Tem薄片
 <hbm:item.template_folder>, 机器模板文件夹
 <hbm:item.test_boots>, item.test_boots.name
@@ -3865,7 +3831,7 @@
 <hbm:item.weapon_pipe_lead>, 手动覆盖控制
 <hbm:item.weapon_pipe_rusty>, 姿态调节器
 <hbm:item.weapon_saw>, 肢解骨锯
-<hbm:item.weaponized_starblaster_cell>, 星际爆能电池
+<hbm:item.weaponized_starblaster_cell>, §c星际爆能电池§r
 <hbm:item.wild_p>, 野生珀伽索斯干威士忌
 <hbm:item.wings_limp>, 无力之翼
 <hbm:item.wings_murk>, 暗黑之翼
@@ -3954,6 +3920,7 @@
 <hbm:tile.block_cap_star>, 夕阳沙士星星瓶盖方块
 <hbm:tile.block_cap_sunset>, 夕阳沙士瓶盖方块
 <hbm:tile.block_cobalt>, 钴块
+<hbm:tile.block_coke>, 煤焦炭块
 <hbm:tile.block_coltan>, 钽块
 <hbm:tile.block_combine_steel>, CMB钢块
 <hbm:tile.block_copper>, 铜块
@@ -4208,9 +4175,9 @@
 <hbm:tile.digamma_matter>, tile.digamma_matter.name
 <hbm:tile.dirt_dead>, 泥渣
 <hbm:tile.dirt_oily>, 油泥
-<hbm:tile.door_bunker>, tile.door_bunker.name
-<hbm:tile.door_metal>, tile.door_metal.name
-<hbm:tile.door_office>, tile.door_office.name
+<hbm:tile.door_bunker>, 仓门
+<hbm:tile.door_metal>, 金属门
+<hbm:tile.door_office>, 办公室门
 <hbm:tile.drill_pipe>, 钻杆
 <hbm:tile.ducrete>, 高密度贫铀混凝土瓷砖
 <hbm:tile.ducrete_smooth>, 高密度贫铀混凝土
@@ -4222,7 +4189,6 @@
 <hbm:tile.dummy_block_assembler>, tile.dummy_block_assembler.name
 <hbm:tile.dummy_block_blast>, tile.dummy_block_blast.name
 <hbm:tile.dummy_block_drill>, tile.dummy_block_drill.name
-<hbm:tile.dummy_block_fluidtank>, tile.dummy_block_fluidtank.name
 <hbm:tile.dummy_block_puf6>, tile.dummy_block_puf6.name
 <hbm:tile.dummy_block_refinery>, tile.dummy_block_refinery.name
 <hbm:tile.dummy_block_turbofan>, tile.dummy_block_turbofan.name
@@ -4237,7 +4203,6 @@
 <hbm:tile.dummy_port_assembler>, tile.dummy_port_assembler.name
 <hbm:tile.dummy_port_compact_launcher>, tile.dummy_port_compact_launcher.name
 <hbm:tile.dummy_port_drill>, tile.dummy_port_drill.name
-<hbm:tile.dummy_port_fluidtank>, tile.dummy_port_fluidtank.name
 <hbm:tile.dummy_port_launch_table>, tile.dummy_port_launch_table.name
 <hbm:tile.dummy_port_refinery>, tile.dummy_port_refinery.name
 <hbm:tile.dummy_port_turbofan>, tile.dummy_port_turbofan.name
@@ -4259,9 +4224,9 @@
 <hbm:tile.float_bomb>, 悬浮炸弹
 <hbm:tile.fluid_duct>, 通用流体管道
 <hbm:tile.fluid_duct_box>, 通用流体管道（方形）
-<hbm:tile.fluid_duct_gauge>, Flow Gauge Pipe
+<hbm:tile.fluid_duct_gauge>, 流量计管
 <hbm:tile.fluid_duct_neo>, 通用流体管道
-<hbm:tile.fluid_duct_paintable>, Paintable Coated Universal Fluid Duct
+<hbm:tile.fluid_duct_paintable>, 可喷漆涂层通用流体导管
 <hbm:tile.fluid_duct_solid>, 带涂层的通用流体导管
 <hbm:tile.foam_layer>, 泡沫层
 <hbm:tile.foundry_basin>, 铸造水池
@@ -4274,7 +4239,7 @@
 <hbm:tile.frozen_grass>, 冰冻草
 <hbm:tile.frozen_log>, 冰冻原木
 <hbm:tile.frozen_planks>, 冰冻木板
-<hbm:tile.furnace_combination>, Combination Oven
+<hbm:tile.furnace_combination>, 复式炼焦炉
 <hbm:tile.furnace_iron>, 铁炉
 <hbm:tile.furnace_steel>, 钢炉
 <hbm:tile.fusion_center>, 中心磁铁
@@ -4347,7 +4312,7 @@
 <hbm:tile.hazmat>, 防辐射布块
 <hbm:tile.heater_electric>, 电加热器
 <hbm:tile.heater_firebox>, 燃烧室
-<hbm:tile.heater_heatex>, Heat Exchanging Heater
+<hbm:tile.heater_heatex>, 换热加热器
 <hbm:tile.heater_oilburner>, 流体燃烧器
 <hbm:tile.heater_oven>, 加热炉
 <hbm:tile.hev_battery>, 盔甲电池
@@ -4397,7 +4362,7 @@
 <hbm:tile.machine_coal_off>, 火力发电机
 <hbm:tile.machine_coal_on>, 火力发电机
 <hbm:tile.machine_combine_factory>, CMB炼钢炉
-<hbm:tile.machine_combustion_engine>, Industrial Combustion Engine
+<hbm:tile.machine_combustion_engine>, 工业内燃机
 <hbm:tile.machine_condenser>, 蒸汽冷凝器
 <hbm:tile.machine_controller>, 反应堆遥控模块
 <hbm:tile.machine_converter_he_rf>, HE→RF转换器
@@ -4420,6 +4385,7 @@
 <hbm:tile.machine_electric_furnace_on>, 电炉
 <hbm:tile.machine_electrolyser>, tile.machine_electrolyser.name
 <hbm:tile.machine_epress>, 电动锻压机
+<hbm:tile.machine_excavator>, 大型采矿钻机
 <hbm:tile.machine_fel>, FEL自由电子激光器
 <hbm:tile.machine_fensu>, FEnSU飞轮储能系统
 <hbm:tile.machine_flare>, 高架火炬
@@ -4439,6 +4405,7 @@
 <hbm:tile.machine_mining_laser>, 采矿激光
 <hbm:tile.machine_minirtg>, 放射性同位素电池
 <hbm:tile.machine_missile_assembly>, 导弹装配台
+<hbm:tile.machine_mixer>, 工业搅拌机
 <hbm:tile.machine_nuke_furnace_off>, 核熔炉
 <hbm:tile.machine_nuke_furnace_on>, 核熔炉
 <hbm:tile.machine_orbus>, 重型磁约束储罐
@@ -4526,6 +4493,7 @@
 <hbm:tile.ore_aluminium>, 铝矿石
 <hbm:tile.ore_asbestos>, 石棉矿
 <hbm:tile.ore_australium>, 奥斯矿石
+<hbm:tile.ore_bedrock>, 基岩矿石
 <hbm:tile.ore_bedrock_coltan>, 基岩钶钽铁矿
 <hbm:tile.ore_bedrock_oil>, 基岩油层
 <hbm:tile.ore_beryllium>, 铍矿石
@@ -4650,6 +4618,7 @@
 <hbm:tile.red_barrel>, 炸药桶
 <hbm:tile.red_cable>, 紫铜电线
 <hbm:tile.red_cable_classic>, 紫铜电缆（经典型）
+<hbm:tile.red_cable_paintable>, 可涂漆紫铜线
 <hbm:tile.red_connector>, 电力连接器
 <hbm:tile.red_pylon>, 电线杆
 <hbm:tile.red_pylon_large>, 大型输电塔
@@ -4760,6 +4729,7 @@
 <hbm:tile.turret_jeremy>, 重炮炮塔“杰里米”
 <hbm:tile.turret_maxwell>, 高能微波炮塔 "麦克斯韦"
 <hbm:tile.turret_richard>, 火箭炮塔“理查德”
+<hbm:tile.turret_sentry>, Sentry Turret "Brown"
 <hbm:tile.turret_tauon>, XVL1456原型陶子发射器炮塔"陶恩"
 <hbm:tile.vacuum>, 真空
 <hbm:tile.vault_door>, 避难所防爆门
@@ -4788,6 +4758,840 @@
 <hbm:tile.watz_hatch>, Watz反应堆端口
 <hbm:tile.yellow_barrel>, 核废料桶
 <hbm:tile.zirnox_destroyed>, 损毁的ZINROX
+<imsm:BlockAirBalloon>, Magic Airballoon Block
+<imsm:BlockAirplane>, Magic Airplane Block
+<imsm:BlockArena1>, Magic Arena Block
+<imsm:BlockArena2>, Magic Lava-Arena Block
+<imsm:BlockBigPyramid>, Magic Huge Pyramid Block
+<imsm:BlockBoat>, Magic Boat Block
+<imsm:BlockBunker>, Magic Bunker Block
+<imsm:BlockCastleTower>, Magic CastleTower Block
+<imsm:BlockCosyHouse>, Snow Covered House
+<imsm:BlockDungeon>, Magic Dungeon Block
+<imsm:BlockEnchantmentRoom>, Magic Enchantment Room Block
+<imsm:BlockFarm>, Magic Wheat Farm Block
+<imsm:BlockFarm2>, Magic Sugar Cane Farm Block
+<imsm:BlockFarm3>, Magic Melon Farm Block
+<imsm:BlockFarm4>, Magic Pumpkin Farm Block
+<imsm:BlockGiantTree>, Magic Huge Tree Block
+<imsm:BlockHountedHouse>, Magic Haunted House Block
+<imsm:BlockHouse>, Magic House Block
+<imsm:BlockHouseTrap1>, Magic Trapped House Block
+<imsm:BlockHouseTrap2>, Magic Trapped House Block
+<imsm:BlockLighthouse>, Magic Lighthouse Block
+<imsm:BlockMegaHouse>, Magic House Block
+<imsm:BlockMegaHouse2>, Magic House Block
+<imsm:BlockMegaTower>, Magic Mega Skyscraper Block
+<imsm:BlockPlane>, Magic Plane Block
+<imsm:BlockPrison>, Magic Prison Block
+<imsm:BlockPrison2>, Magic Prison Block
+<imsm:BlockPyramid>, Magic Pyramid Block
+<imsm:BlockRollerCoaster2>, Magic Rollercoaster Block
+<imsm:BlockRollercoaster>, Magic Rollercoaster Block
+<imsm:BlockSkyscraper>, Magic Skyscraper Block
+<imsm:BlockStadium>, Magic Stadium Block
+<imsm:BlockStoreHouse>, Magic Storehouse Block
+<imsm:BlockTorch2>, Magic Torchpattern Block
+<imsm:BlockTower>, Magic Tower Block
+<imsm:BlockWaterSlide>, Magic Waterslide Block
+<imsm:DecorationGrassNorthEastSouthWest>, Grass
+<imsm:DecorationParkEast>, Park East
+<imsm:DecorationParkNorth>, Park North
+<imsm:DecorationParkSouth>, Park South
+<imsm:DecorationParkWest>, Park West
+<imsm:DecorationParkingGarageEast>, Parking Garage East
+<imsm:DecorationParkingGarageNorth>, Parking Garage North
+<imsm:DecorationParkingGarageSouth>, Parking Garage South
+<imsm:DecorationParkingGarageWest>, Parking Garage West
+<imsm:DecorationParkingLotsEast>, Parking Lots East
+<imsm:DecorationParkingLotsNorth>, Parking Lots North
+<imsm:DecorationParkingLotsSouth>, Parking Lots South
+<imsm:DecorationParkingLotsWest>, Parking Lots West
+<imsm:DecorationPlazaFountainNorthEastSouthWest>, Plaza Fountain
+<imsm:DecorationPlazaNorthEastSouthWest>, Plaza
+<imsm:DecorationSoccerStadiumEastWest>, Soccer Stadium East-West
+<imsm:DecorationSoccerStadiumNorthSouth>, Soccer Stadium North-South
+<imsm:DecorationSquareNorthEastSouthWest>, Square
+<imsm:DecorationSquareTreeEast>, Square Tree East
+<imsm:DecorationSquareTreeNorth>, Square Tree North
+<imsm:DecorationSquareTreeSouth>, Square Tree South
+<imsm:DecorationSquareTreeWest>, Square Tree West
+<imsm:FoodCarrotsEastWest>, Carrots East-West
+<imsm:FoodCarrotsNorthSouth>, Carrots North-South
+<imsm:FoodFarmEast>, Farm East
+<imsm:FoodFarmNorth>, Farm North
+<imsm:FoodFarmSouth>, Farm South
+<imsm:FoodFarmWest>, Farm West
+<imsm:FoodPotatoesNorthEastSouthWest>, Potatoes
+<imsm:FoodStableEastWest>, Stable East-West
+<imsm:FoodStableNorthSouth>, Stable North-South
+<imsm:FoodWheatNorthEastSouthWest>, Wheat
+<imsm:IndustryHigh_DensityBlueEast>, Blue East
+<imsm:IndustryHigh_DensityBlueNorth>, Blue North
+<imsm:IndustryHigh_DensityBlueSouth>, Blue South
+<imsm:IndustryHigh_DensityBlueWest>, Blue West
+<imsm:IndustryHigh_DensityBrickEast>, Brick East
+<imsm:IndustryHigh_DensityBrickNorth>, Brick North
+<imsm:IndustryHigh_DensityBrickSouth>, Brick South
+<imsm:IndustryHigh_DensityBrickWest>, Brick West
+<imsm:IndustryHigh_DensityChimneyEast>, Chimney East
+<imsm:IndustryHigh_DensityChimneyNorth>, Chimney North
+<imsm:IndustryHigh_DensityChimneySouth>, Chimney South
+<imsm:IndustryHigh_DensityChimneyWest>, Chimney West
+<imsm:IndustryHigh_DensityComputerChipEast>, Computer Chip East
+<imsm:IndustryHigh_DensityComputerChipNorth>, Computer Chip North
+<imsm:IndustryHigh_DensityComputerChipSouth>, Computer Chip South
+<imsm:IndustryHigh_DensityComputerChipWest>, Computer Chip West
+<imsm:IndustryHigh_DensityGreenEast>, Green East
+<imsm:IndustryHigh_DensityGreenNorth>, Green North
+<imsm:IndustryHigh_DensityGreenSouth>, Green South
+<imsm:IndustryHigh_DensityGreenWest>, Hardened Clay West
+<imsm:IndustryHigh_DensityLightBlueEast>, Light Blue East
+<imsm:IndustryHigh_DensityLightBlueNorth>, Light Blue North
+<imsm:IndustryHigh_DensityLightBlueSouth>, Light Blue South
+<imsm:IndustryHigh_DensityLightBlueWest>, Light Blue West
+<imsm:IndustryLow_Density3DPrintingEast>, 3D Printing East
+<imsm:IndustryLow_Density3DPrintingNorth>, 3D Printing North
+<imsm:IndustryLow_Density3DPrintingSouth>, 3D Printing South
+<imsm:IndustryLow_Density3DPrintingWest>, 3D Printing West
+<imsm:IndustryLow_DensityBlueEast>, Blue East
+<imsm:IndustryLow_DensityBlueNorth>, Blue North
+<imsm:IndustryLow_DensityBlueSouth>, Blue South
+<imsm:IndustryLow_DensityBlueWest>, Blue West
+<imsm:IndustryLow_DensityBrickEast>, Brick East
+<imsm:IndustryLow_DensityBrickEastWest>, Brick East-West
+<imsm:IndustryLow_DensityBrickNorth>, Brick North
+<imsm:IndustryLow_DensityBrickNorthSouth>, Brick North-South
+<imsm:IndustryLow_DensityBrickSouth>, Brick South
+<imsm:IndustryLow_DensityBrickWest>, Brick West
+<imsm:IndustryLow_DensityBrownEast>, Brown East
+<imsm:IndustryLow_DensityBrownEast2>, Brown East II
+<imsm:IndustryLow_DensityBrownNorth>, Brown North
+<imsm:IndustryLow_DensityBrownNorth2>, Brown North II
+<imsm:IndustryLow_DensityBrownSouth>, Brown South
+<imsm:IndustryLow_DensityBrownSouth2>, Brown South II
+<imsm:IndustryLow_DensityBrownWest>, Brown West
+<imsm:IndustryLow_DensityBrownWest2>, Brown West II
+<imsm:IndustryLow_DensityChimneyEast>, Chimney East
+<imsm:IndustryLow_DensityChimneyNorth>, Chimney North
+<imsm:IndustryLow_DensityChimneySouth>, Chimney South
+<imsm:IndustryLow_DensityChimneyWest>, Chimney West
+<imsm:IndustryLow_DensityGreenEast>, Green East
+<imsm:IndustryLow_DensityGreenNorth>, Green North
+<imsm:IndustryLow_DensityGreenSouth>, Green South
+<imsm:IndustryLow_DensityGreenWest>, Green West
+<imsm:IndustryLow_DensityIronEast>, Iron East
+<imsm:IndustryLow_DensityIronNorth>, Iron North
+<imsm:IndustryLow_DensityIronSouth>, Iron South
+<imsm:IndustryLow_DensityIronWest>, Iron West
+<imsm:IndustryLow_DensityParabolicAntennaEast>, Parabolic Antenna East
+<imsm:IndustryLow_DensityParabolicAntennaNorth>, Parabolic Antenna North
+<imsm:IndustryLow_DensityParabolicAntennaSouth>, Parabolic Antenna South
+<imsm:IndustryLow_DensityParabolicAntennaWest>, Parabolic Antenna West
+<imsm:IndustryLow_DensityTankNorthEastSouthWest>, Watertank
+<imsm:IndustryLow_DensityTelescopeEast>, Telescope East
+<imsm:IndustryLow_DensityTelescopeNorth>, Telescope North
+<imsm:IndustryLow_DensityTelescopeSouth>, Telescope South
+<imsm:IndustryLow_DensityTelescopeWest>, Telescope West
+<imsm:IndustryMedium_DensityBlueEast>, Blue East
+<imsm:IndustryMedium_DensityBlueNorth>, Blue North
+<imsm:IndustryMedium_DensityBlueSouth>, Blue South
+<imsm:IndustryMedium_DensityBlueWest>, Blue West
+<imsm:IndustryMedium_DensityBrickEast>, Brick East
+<imsm:IndustryMedium_DensityBrickNorth>, Brick North
+<imsm:IndustryMedium_DensityBrickSouth>, Brick South
+<imsm:IndustryMedium_DensityBrickWest>, Brick West
+<imsm:IndustryMedium_DensityBrownEast>, Brown East
+<imsm:IndustryMedium_DensityBrownNorth>, Brown North
+<imsm:IndustryMedium_DensityBrownSouth>, Brown South
+<imsm:IndustryMedium_DensityBrownWest>, Brown West
+<imsm:IndustryMedium_DensityChemicalPressEastWest>, Chemical Press East-West
+<imsm:IndustryMedium_DensityChemicalPressNorthSouth>, Chemical Press North-South
+<imsm:IndustryMedium_DensityChimneyEast>, Chimney East
+<imsm:IndustryMedium_DensityChimneyNorth>, Chimney North
+<imsm:IndustryMedium_DensityChimneySouth>, Chimney South
+<imsm:IndustryMedium_DensityChimneyWest>, Chimney West
+<imsm:IndustryMedium_DensityGreenEast>, Green East
+<imsm:IndustryMedium_DensityGreenNorth>, Green North
+<imsm:IndustryMedium_DensityGreenSouth>, Green South
+<imsm:IndustryMedium_DensityGreenWest>, Green West
+<imsm:IndustryMedium_DensityIceEast>, Ice East
+<imsm:IndustryMedium_DensityIceNorth>, Ice North
+<imsm:IndustryMedium_DensityIceSouth>, Ice South
+<imsm:IndustryMedium_DensityIceWest>, Ice West
+<imsm:IndustryMedium_DensitySandstoneEast>, Sandstone East
+<imsm:IndustryMedium_DensitySandstoneNorth>, Sandstone North
+<imsm:IndustryMedium_DensitySandstoneSouth>, Sandstone South
+<imsm:IndustryMedium_DensitySandstoneWest>, Sandstone West
+<imsm:IndustryMedium_DensityTankEast>, Watertank East
+<imsm:IndustryMedium_DensityTankNorth>, Watertank North
+<imsm:IndustryMedium_DensityTankSouth>, Watertank South
+<imsm:IndustryMedium_DensityTankWest>, Watertank West
+<imsm:OfficeHigh_DensityBrickEastWest>, High Density - Brick East-West
+<imsm:OfficeHigh_DensityBrickNorthSouth>, High Density - Brick North-South
+<imsm:OfficeHigh_DensityCyanEast>, High Density - Cyan East
+<imsm:OfficeHigh_DensityCyanNorth>, High Density - Cyan North
+<imsm:OfficeHigh_DensityCyanSouth>, High Density - Cyan South
+<imsm:OfficeHigh_DensityCyanWest>, High Density - Cyan West
+<imsm:OfficeHigh_DensityHoleOnTopEast>, High Density - Hole On Top East
+<imsm:OfficeHigh_DensityHoleOnTopNorth>, High Density - Hole On Top North
+<imsm:OfficeHigh_DensityHoleOnTopSouth>, High Density - Hole On Top South
+<imsm:OfficeHigh_DensityHoleOnTopWest>, High Density - Hole On Top West
+<imsm:OfficeHigh_DensityLightBlueEastWest>, High Density - Light Blue East-West
+<imsm:OfficeHigh_DensityLightBlueNorthSouth>, High Density - Light Blue North-South
+<imsm:OfficeHigh_DensitySpirolBuildingEast>, High Density - Spirol Building East
+<imsm:OfficeHigh_DensitySpirolBuildingNorth>, High Density - Spirol Building North
+<imsm:OfficeHigh_DensitySpirolBuildingSouth>, High Density - Spirol Building South
+<imsm:OfficeHigh_DensitySpirolBuildingWest>, High Density - Spirol Building West
+<imsm:OfficeLow_DensityBlueEast>, Low Density - Blue East
+<imsm:OfficeLow_DensityBlueNorth>, Low Density - Blue North
+<imsm:OfficeLow_DensityBlueSouth>, Low Density - Blue South
+<imsm:OfficeLow_DensityBlueWest>, Low Density - Blue West
+<imsm:OfficeLow_DensityGreenEast>, Low Density - Green East
+<imsm:OfficeLow_DensityGreenNorth>, Low Density - Green North
+<imsm:OfficeLow_DensityGreenSouth>, Low Density - Green South
+<imsm:OfficeLow_DensityGreenWest>, Low Density - Green West
+<imsm:OfficeLow_DensityWhiteEast>, Low Density - White East
+<imsm:OfficeLow_DensityWhiteNorth>, Low Density - White North
+<imsm:OfficeLow_DensityWhiteSouth>, Low Density - White South
+<imsm:OfficeLow_DensityWhiteWest>, Low Density - White West
+<imsm:OfficeLow_DensityYellowEast>, Low Density - Yellow East
+<imsm:OfficeLow_DensityYellowNorth>, Low Density - Yellow North
+<imsm:OfficeLow_DensityYellowSouth>, Low Density - Yellow South
+<imsm:OfficeLow_DensityYellowWest>, Low Density - Yellow West
+<imsm:OfficeMedium_DensityCyanEast>, Medium Density - Cyan East
+<imsm:OfficeMedium_DensityCyanNorth>, Medium Density - Cyan North
+<imsm:OfficeMedium_DensityCyanSouth>, Medium Density - Cyan South
+<imsm:OfficeMedium_DensityCyanWest>, Medium Density - Cyan West
+<imsm:OfficeMedium_DensityLightBlueEast>, Medium Density - Light Blue East
+<imsm:OfficeMedium_DensityLightBlueNorth>, Medium Density - Light Blue North
+<imsm:OfficeMedium_DensityLightBlueSouth>, Medium Density - Light Blue South
+<imsm:OfficeMedium_DensityLightBlueWest>, Medium Density - Light Blue West
+<imsm:OfficeMedium_DensityPinkEast>, Medium Density - Pink East
+<imsm:OfficeMedium_DensityPinkNorth>, Medium Density - Pink North
+<imsm:OfficeMedium_DensityPinkSouth>, Medium Density - Pink South
+<imsm:OfficeMedium_DensityPinkWest>, Medium Density - Pink West
+<imsm:OfficeMedium_DensitySandstoneEast>, Medium Density - Sandstone East
+<imsm:OfficeMedium_DensitySandstoneNorth>, Medium Density - Sandstone North
+<imsm:OfficeMedium_DensitySandstoneSouth>, Medium Density - Sandstone South
+<imsm:OfficeMedium_DensitySandstoneWest>, Medium Density - Sandstone West
+<imsm:OtherBrickHouse>, Big Brick/Quartz Building
+<imsm:OtherGrandHouse>, Sandstone Building
+<imsm:OtherStable>, Stables
+<imsm:OtherSurvivorHouse>, Survivalists' Shack #06
+<imsm:OtherSurvivorHouse2>, Survivalists' Shack #01
+<imsm:OtherSurvivorHouse3>, Survivalists' Shack #02
+<imsm:OtherSurvivorHouse4>, Survivalists' Shack #03
+<imsm:OtherSurvivorHouse5>, Survivalists' Shack #04
+<imsm:OtherSurvivorHouse6>, Big Wooden House #02
+<imsm:OtherSurvivorHouse7>, Big Wooden House #03
+<imsm:OtherSurvivorHouse8>, Survivalists' Shack #05
+<imsm:OtherTemple>, Temple
+<imsm:PublicFireServiceBigEast>, Fire Service Big East
+<imsm:PublicFireServiceBigNorth>, Fire Service Big North
+<imsm:PublicFireServiceBigSouth>, Fire Service Big South
+<imsm:PublicFireServiceBigWest>, Fire Service Big West
+<imsm:PublicFireServiceSmallEast>, Fire Service Small East
+<imsm:PublicFireServiceSmallNorth>, Fire Service Small North
+<imsm:PublicFireServiceSmallSouth>, Fire Service Small South
+<imsm:PublicFireServiceSmallWest>, Fire Service Small West
+<imsm:PublicHospitalBigEast>, Hospital Big East
+<imsm:PublicHospitalBigNorth>, Hospital Big North
+<imsm:PublicHospitalBigSouth>, Hospital Big South
+<imsm:PublicHospitalBigWest>, Hospital Big West
+<imsm:PublicHospitalSmallEast>, Hospital Small East
+<imsm:PublicHospitalSmallNorth>, Hospital Small North
+<imsm:PublicHospitalSmallSouth>, Hospital Small South
+<imsm:PublicHospitalSmallWest>, Hospital Small West
+<imsm:PublicLibraryEastWest>, Library East-West
+<imsm:PublicLibraryNorthSouth>, Library North-South
+<imsm:PublicPoliceBigEast>, Police Big East
+<imsm:PublicPoliceBigNorth>, Police Big North
+<imsm:PublicPoliceBigSouth>, Police Big South
+<imsm:PublicPoliceBigWest>, Police Big West
+<imsm:PublicPoliceSmallEast>, Police Small East
+<imsm:PublicPoliceSmallNorth>, Police Small North
+<imsm:PublicPoliceSmallSouth>, Police Small South
+<imsm:PublicPoliceSmallWest>, Police Small West
+<imsm:PublicSchoolBigNorthEast>, School Big North-East
+<imsm:PublicSchoolBigNorthWest>, School Big North-West
+<imsm:PublicSchoolBigSouthEast>, School Big South-East
+<imsm:PublicSchoolBigSouthWest>, School Big South-West
+<imsm:PublicSchoolSmallNorthEast>, School Small North-East
+<imsm:PublicSchoolSmallNorthWest>, School Small North-West
+<imsm:PublicSchoolSmallSouthEast>, School Small South-East
+<imsm:PublicSchoolSmallSouthWest>, School Small South-West
+<imsm:PublicTownhallBigEastWest>, Townhall Big East-West
+<imsm:PublicTownhallBigNorthSouth>, Townhall Big North-South
+<imsm:PublicTownhallSmallEast>, Townhall Small East
+<imsm:PublicTownhallSmallNorth>, Townhall Small North
+<imsm:PublicTownhallSmallSouth>, Townhall Small South
+<imsm:PublicTownhallSmallWest>, Townhall Small West
+<imsm:PublicUniversityEast>, University East
+<imsm:PublicUniversityNorth>, University North
+<imsm:PublicUniversitySouth>, University South
+<imsm:PublicUniversityWest>, University West
+<imsm:RandomAirballoon2>, Airship #02
+<imsm:RandomBuildingComplex>, Sandstone House Complex
+<imsm:RandomEntrance>, Building Complex
+<imsm:RandomFlyingShip>, Airship
+<imsm:RandomGreenTent>, Miner Tent #03
+<imsm:RandomGreyTent>, Miner Tent #02
+<imsm:RandomImmense_Buildingcomplex>, Immense Shopping Arcade
+<imsm:RandomImmense_White_House>, Immense Quartz Building
+<imsm:RandomImmense_WorkingBuilding>, Brick Office
+<imsm:RandomImmense_greenroof>, Immense Palace
+<imsm:RandomLightHouse>, Lighthouse
+<imsm:RandomLittlePalace>, Small Palace
+<imsm:RandomLittleWoodenCabin>, Wooden Cabin
+<imsm:RandomMinerTent>, Miner Tent
+<imsm:RandomNetherEntranceSurvival>, Nether Entrance Building
+<imsm:RandomRandomBrickHouse>, Brick House
+<imsm:RandomSandStoneChurch>, Sandstone Church
+<imsm:RandomSandstoneBuilding>, Sandstone Palace
+<imsm:RandomSandstonewithFarm>, Sandstone Villa
+<imsm:RandomSimpleSandstone>, Sandstone House
+<imsm:RandomSpawnHouseProd>, Sandstone Chapel
+<imsm:RandomSurvivalHouse1>, Survivalists' Shack #08
+<imsm:RandomSurvivalHouseSandstone>, Survivalists' Shack #07
+<imsm:RandomTentCamp>, Tent Camp
+<imsm:RandomWoodenHouse>, Wooden House
+<imsm:RandomWoodenStonebrickHouse>, Brick 'n Planks Building
+<imsm:Remover16>, 16x16 and 16 high
+<imsm:Remover16256>, 16x16 and 256 high
+<imsm:Remover1632>, 16x16 and 32 high
+<imsm:Remover168>, 16x16 and 8 high
+<imsm:Remover32>, 32x32 and 32 high
+<imsm:Remover3216>, 32x32 and 16 high
+<imsm:Remover32256>, 32x32 and 256 high
+<imsm:Remover328>, 32x32 and 8 high
+<imsm:Remover64>, 64x64 and 64 high
+<imsm:Remover64256>, 64x64 and 256 high
+<imsm:Remover8>, 8x8 and 8 high
+<imsm:Remover816>, 8x8 and 16 high
+<imsm:Remover8256>, 8x8 and 256 high
+<imsm:Remover832>, 8x8 and 32 high
+<imsm:RemoverLast>, Remove last placed structure
+<imsm:ResidentalEnormous_DensityBlockNorthEastSouthWest>, $ Block
+<imsm:ResidentalEnormous_DensityBrickBigEast>, $$$ Brick Big East
+<imsm:ResidentalEnormous_DensityBrickBigNorth>, $$$ Brick Big North
+<imsm:ResidentalEnormous_DensityBrickBigSouth>, $$$ Brick Big South
+<imsm:ResidentalEnormous_DensityBrickBigWest>, $$$ Brick Big West
+<imsm:ResidentalEnormous_DensityBrickSmallNorthEastSouthWest>, $$$ Brick Small
+<imsm:ResidentalEnormous_DensityGreyEast>, $$ Grey East
+<imsm:ResidentalEnormous_DensityGreyNorth>, $$ Grey North
+<imsm:ResidentalEnormous_DensityGreySouth>, $$ Grey South
+<imsm:ResidentalEnormous_DensityGreyWest>, $$ Grey West
+<imsm:ResidentalEnormous_DensityModernEast>, $$$ Modern East
+<imsm:ResidentalEnormous_DensityModernNorth>, $$$ Modern North
+<imsm:ResidentalEnormous_DensityModernSouth>, $$$ Modern South
+<imsm:ResidentalEnormous_DensityModernWest>, $$$ Modern West
+<imsm:ResidentalEnormous_DensityRedEastWest>, $$ Red East-West
+<imsm:ResidentalEnormous_DensityRedNorthSouth>, $$ Red North-South
+<imsm:ResidentalEnormous_DensityRoundNorthEastSouthWest>, $ Round
+<imsm:ResidentalEnormous_DensityStoneEast>, $ Stone East
+<imsm:ResidentalEnormous_DensityStoneEast2>, $$$ Stone East
+<imsm:ResidentalEnormous_DensityStoneNorth>, $ Stone North
+<imsm:ResidentalEnormous_DensityStoneNorth2>, $$$ Stone North
+<imsm:ResidentalEnormous_DensityStoneSouth>, $ Stone South
+<imsm:ResidentalEnormous_DensityStoneSouth2>, $$$ Stone South
+<imsm:ResidentalEnormous_DensityStoneWest>, $ Stone West
+<imsm:ResidentalEnormous_DensityStoneWest2>, $$$ Stone West
+<imsm:ResidentalEnormous_DensityYellowNorthEastSouthWest>, $$ Yellow
+<imsm:ResidentalHigh_DensityBlueEast>, $$$ Blue East
+<imsm:ResidentalHigh_DensityBlueEastWest>, $$ Blue East-West
+<imsm:ResidentalHigh_DensityBlueNorth>, $$$ Blue North
+<imsm:ResidentalHigh_DensityBlueNorthSouth>, $$ Blue North-South
+<imsm:ResidentalHigh_DensityBlueSouth>, $$$ Blue South
+<imsm:ResidentalHigh_DensityBlueWest>, $$$ Blue West
+<imsm:ResidentalHigh_DensityBrickEast>, $$$ Brick East
+<imsm:ResidentalHigh_DensityBrickEastWest>, $ Brick East-West
+<imsm:ResidentalHigh_DensityBrickNorth>, $$$ Brick North
+<imsm:ResidentalHigh_DensityBrickNorthSouth>, $ Brick North-South
+<imsm:ResidentalHigh_DensityBrickSouth>, $$$ Brick South
+<imsm:ResidentalHigh_DensityBrickWest>, $$$ Brick West
+<imsm:ResidentalHigh_DensityGreenGreyEast>, $$ Green Grey East
+<imsm:ResidentalHigh_DensityGreenGreyNorth>, $$ Green Grey North
+<imsm:ResidentalHigh_DensityGreenGreySouth>, $$ Green Grey South
+<imsm:ResidentalHigh_DensityGreenGreyWest>, $$ Green Grey West
+<imsm:ResidentalHigh_DensityRedCornerNorthEast>, $$$ Red Corner North-East
+<imsm:ResidentalHigh_DensityRedCornerNorthWest>, $$$ Red Corner North-West
+<imsm:ResidentalHigh_DensityRedCornerSouthEast>, $$$ Red Corner South-East
+<imsm:ResidentalHigh_DensityRedCornerSouthWest>, $$$ Red Corner South-West
+<imsm:ResidentalHigh_DensityRedYellowEast>, $$ Yellow East
+<imsm:ResidentalHigh_DensityRedYellowNorth>, $$ Yellow North
+<imsm:ResidentalHigh_DensityRedYellowSouth>, $$ Yellow South
+<imsm:ResidentalHigh_DensityRedYellowWest>, $$ Yellow West
+<imsm:ResidentalHigh_DensityStoneEast>, $ Stone East
+<imsm:ResidentalHigh_DensityStoneEast2>, $$$ Stone East
+<imsm:ResidentalHigh_DensityStoneNorth>, $ Stone North
+<imsm:ResidentalHigh_DensityStoneNorth2>, $$$ Stone North
+<imsm:ResidentalHigh_DensityStoneSouth>, $ Stone South
+<imsm:ResidentalHigh_DensityStoneSouth2>, $$$ Stone South
+<imsm:ResidentalHigh_DensityStoneWest>, $ Stone West
+<imsm:ResidentalHigh_DensityStoneWest2>, $$$ Stone West
+<imsm:ResidentalHigh_DensityYellowEast>, $$$ Yellow East
+<imsm:ResidentalHigh_DensityYellowNorth>, $$$ Yellow North
+<imsm:ResidentalHigh_DensityYellowSouth>, $$$ Yellow South
+<imsm:ResidentalHigh_DensityYellowWest>, $$$ Yellow West
+<imsm:ResidentalLow_DensityBeigeEast>, $$ Beige East
+<imsm:ResidentalLow_DensityBeigeNorth>, $$ Beige North
+<imsm:ResidentalLow_DensityBeigeSouth>, $$ Beige South
+<imsm:ResidentalLow_DensityBeigeWest>, $$ Beige West
+<imsm:ResidentalLow_DensityCyanEast>, $ Cyan East
+<imsm:ResidentalLow_DensityCyanNorth>, $ Cyan North
+<imsm:ResidentalLow_DensityCyanSouth>, $ Cyan South
+<imsm:ResidentalLow_DensityCyanWest>, $ Cyan West
+<imsm:ResidentalLow_DensityGreenEast>, $ Green East
+<imsm:ResidentalLow_DensityGreenEast2>, $$ Green East II
+<imsm:ResidentalLow_DensityGreenNorth>, $ Green North
+<imsm:ResidentalLow_DensityGreenNorth2>, $$ Green North II
+<imsm:ResidentalLow_DensityGreenSouth>, $ Green South
+<imsm:ResidentalLow_DensityGreenSouth2>, $$ Green South II
+<imsm:ResidentalLow_DensityGreenWest>, $ Green West
+<imsm:ResidentalLow_DensityGreenWest2>, $$ Green West II
+<imsm:ResidentalLow_DensityLightBlueEast>, $ Light Blue East
+<imsm:ResidentalLow_DensityLightBlueEast2>, $$ Light Blue East II
+<imsm:ResidentalLow_DensityLightBlueNorth>, $ Light Blue North
+<imsm:ResidentalLow_DensityLightBlueNorth2>, $$ Light Blue North II
+<imsm:ResidentalLow_DensityLightBlueSouth>, $ Light Blue South
+<imsm:ResidentalLow_DensityLightBlueSouth2>, $$ Light Blue South II
+<imsm:ResidentalLow_DensityLightBlueWest>, $ Light Blue West
+<imsm:ResidentalLow_DensityLightBlueWest2>, $$ Light Blue West II
+<imsm:ResidentalLow_DensityLightGreyEast>, $- Light Grey East
+<imsm:ResidentalLow_DensityLightGreyNorth>, $ Light Grey North
+<imsm:ResidentalLow_DensityLightGreySouth>, $ Light Grey South
+<imsm:ResidentalLow_DensityLightGreyWest>, $ Light Grey West
+<imsm:ResidentalLow_DensityModernEast>, $$$ Modern East
+<imsm:ResidentalLow_DensityModernNorth>, $$$ Modern North
+<imsm:ResidentalLow_DensityModernSouth>, $$$ Modern South
+<imsm:ResidentalLow_DensityModernWest>, $$$ Modern West
+<imsm:ResidentalLow_DensityOrangeEast>, $ Orange East
+<imsm:ResidentalLow_DensityOrangeNorth>, $ Orange North
+<imsm:ResidentalLow_DensityOrangeSouth>, $ Orange South
+<imsm:ResidentalLow_DensityOrangeWest>, $ Orange West
+<imsm:ResidentalLow_DensityRedEast>, $$ Red East
+<imsm:ResidentalLow_DensityRedNorth>, $$ Red North
+<imsm:ResidentalLow_DensityRedSouth>, $$ Red South
+<imsm:ResidentalLow_DensityRedWest>, $$ Red West
+<imsm:ResidentalLow_DensityStoneEast>, $$$ Stone East
+<imsm:ResidentalLow_DensityStoneNorth>, $$$ Stone North
+<imsm:ResidentalLow_DensityStoneSouth>, $$$ Stone South
+<imsm:ResidentalLow_DensityStoneWest>, $$$ Stone West
+<imsm:ResidentalLow_DensityWhiteEast>, $$ White East
+<imsm:ResidentalLow_DensityWhiteNorth>, $$ White North
+<imsm:ResidentalLow_DensityWhiteSouth>, $$ White South
+<imsm:ResidentalLow_DensityWhiteWest>, $$ White West
+<imsm:ResidentalLow_DensityWoodEast>, $$$ Wood East
+<imsm:ResidentalLow_DensityWoodNorth>, $$$ Wood North
+<imsm:ResidentalLow_DensityWoodSouth>, $$$ Wood South
+<imsm:ResidentalLow_DensityWoodWest>, $$$ Wood West
+<imsm:ResidentalLow_DensityYellowEast>, $ Yellow East
+<imsm:ResidentalLow_DensityYellowEast2>, $$ Yellow East II
+<imsm:ResidentalLow_DensityYellowNorth>, $ Yellow North
+<imsm:ResidentalLow_DensityYellowNorth2>, $$ Yellow North II
+<imsm:ResidentalLow_DensityYellowSouth>, $ Yellow South
+<imsm:ResidentalLow_DensityYellowSouth2>, $$ Yellow South II
+<imsm:ResidentalLow_DensityYellowWest>, $ Yellow West
+<imsm:ResidentalLow_DensityYellowWest2>, $$ Yellow West II
+<imsm:ResidentalMedium_DensityBlueGreenEast>, $$ Blue Green East
+<imsm:ResidentalMedium_DensityBlueGreenNorth>, $$ Blue Green North
+<imsm:ResidentalMedium_DensityBlueGreenSouth>, $$ Blue Green South
+<imsm:ResidentalMedium_DensityBlueGreenWest>, $$ Blue Green West
+<imsm:ResidentalMedium_DensityBlueRedEast>, $$ Blue Red East
+<imsm:ResidentalMedium_DensityBlueRedNorth>, $$ Blue Red North
+<imsm:ResidentalMedium_DensityBlueRedSouth>, $$ Blue Red South
+<imsm:ResidentalMedium_DensityBlueRedWest>, $$ Blue Red West
+<imsm:ResidentalMedium_DensityBrickEast>, $$$ Brick East
+<imsm:ResidentalMedium_DensityBrickNorth>, $$$ Brick North
+<imsm:ResidentalMedium_DensityBrickSouth>, $$$ Brick South
+<imsm:ResidentalMedium_DensityBrickWest>, $$$ Brick West
+<imsm:ResidentalMedium_DensityHorizontalEast>, $ Horizontal East
+<imsm:ResidentalMedium_DensityHorizontalNorth>, $ Horizontal North
+<imsm:ResidentalMedium_DensityHorizontalSouth>, $ Horizontal South
+<imsm:ResidentalMedium_DensityHorizontalWest>, $ Horizontal West
+<imsm:ResidentalMedium_DensityOrangeGreenEast>, $$ Orange Green East
+<imsm:ResidentalMedium_DensityOrangeGreenNorth>, $$ Orange Green North
+<imsm:ResidentalMedium_DensityOrangeGreenSouth>, $$ Orange Green South
+<imsm:ResidentalMedium_DensityOrangeGreenWest>, $$ Orange Green West
+<imsm:ResidentalMedium_DensityQuartzEast>, $$$ Quartz East
+<imsm:ResidentalMedium_DensityQuartzNorth>, $$$ Quartz North
+<imsm:ResidentalMedium_DensityQuartzSouth>, $$$ Quartz South
+<imsm:ResidentalMedium_DensityQuartzWest>, $$$ Quartz West
+<imsm:ResidentalMedium_DensityRedGreenEast>, $$$ Red Green East
+<imsm:ResidentalMedium_DensityRedGreenNorth>, $$$ Red Green North
+<imsm:ResidentalMedium_DensityRedGreenSouth>, $$$ Red Green South
+<imsm:ResidentalMedium_DensityRedGreenWest>, $$$ Red Green West
+<imsm:ResidentalMedium_DensityRoofEast>, $ Roof East
+<imsm:ResidentalMedium_DensityRoofNorth>, $ Roof North
+<imsm:ResidentalMedium_DensityRoofSouth>, $ Roof South
+<imsm:ResidentalMedium_DensityRoofWest>, $ Roof West
+<imsm:ResidentalMedium_DensityStone1EastWest>, $$$ Stone 1 East-West
+<imsm:ResidentalMedium_DensityStone1NorthSouth>, $$$ Stone 1 North-South
+<imsm:ResidentalMedium_DensityStone2EastWest>, $$$ Stone 2 East-West
+<imsm:ResidentalMedium_DensityStone2NorthSouth>, $$$ Stone 2 North-South
+<imsm:ResidentalMedium_DensityStoneCornerNorthEast>, $$$ Stone Corner North-East
+<imsm:ResidentalMedium_DensityStoneCornerNorthWest>, $$$ Stone Corner North-West
+<imsm:ResidentalMedium_DensityStoneCornerSouthEast>, $$$ Stone Corner South-East
+<imsm:ResidentalMedium_DensityStoneCornerSouthWest>, $$$ Stone Corner South-West
+<imsm:ResidentalMedium_DensityStoneEast>, $ Stone East
+<imsm:ResidentalMedium_DensityStoneEndNorthEastWest>, Medium Density - Stone End North-East-West
+<imsm:ResidentalMedium_DensityStoneEndNorthSouthEast>, $$$ Stone End North-South-East
+<imsm:ResidentalMedium_DensityStoneEndNorthSouthWest>, $$$ Stone End North-South-West
+<imsm:ResidentalMedium_DensityStoneEndSouthEastWest>, $$$ Stone End South-East-West
+<imsm:ResidentalMedium_DensityStoneNorth>, $ Stone North
+<imsm:ResidentalMedium_DensityStoneSouth>, $ Stone South
+<imsm:ResidentalMedium_DensityStoneWest>, $ Stone West
+<imsm:ResidentalMedium_DensityVerticalEast>, $ Vertical East
+<imsm:ResidentalMedium_DensityVerticalNorth>, $ Vertical North
+<imsm:ResidentalMedium_DensityVerticalSouth>, $ Vertical South
+<imsm:ResidentalMedium_DensityVerticalWest>, $ Vertical West
+<imsm:ResidentalMedium_DensityYellowRedEast>, $$ Yellow Red East
+<imsm:ResidentalMedium_DensityYellowRedNorth>, $$ Yellow Red North
+<imsm:ResidentalMedium_DensityYellowRedSouth>, $$ Yellow Red South
+<imsm:ResidentalMedium_DensityYellowRedWest>, $$ Yellow Red West
+<imsm:ShoppingHigh_DensityQuartzEastWest>, Quartz East-West
+<imsm:ShoppingHigh_DensityQuartzNorthSouth>, Quartz North-South
+<imsm:ShoppingLow_DensityBrickEast>, Brick East
+<imsm:ShoppingLow_DensityBrickNorth>, Brick North
+<imsm:ShoppingLow_DensityBrickSouth>, Brick South
+<imsm:ShoppingLow_DensityBrickWest>, Brick West
+<imsm:ShoppingLow_DensityGreenEast>, Green East
+<imsm:ShoppingLow_DensityGreenNorth>, Green North
+<imsm:ShoppingLow_DensityGreenSouth>, Green South
+<imsm:ShoppingLow_DensityGreenWest>, Green West
+<imsm:ShoppingLow_DensityOrangeEast>, Orange East
+<imsm:ShoppingLow_DensityOrangeNorth>, Orange North
+<imsm:ShoppingLow_DensityOrangeSouth>, Orange South
+<imsm:ShoppingLow_DensityOrangeWest>, Orange West
+<imsm:ShoppingLow_DensityPinkEast>, Pink East
+<imsm:ShoppingLow_DensityPinkNorth>, Pink North
+<imsm:ShoppingLow_DensityPinkSouth>, Pink South
+<imsm:ShoppingLow_DensityPinkWest>, Pink West
+<imsm:ShoppingMedium_DensityModernEast>, Modern East
+<imsm:ShoppingMedium_DensityModernNorth>, Modern North
+<imsm:ShoppingMedium_DensityModernSouth>, Modern South
+<imsm:ShoppingMedium_DensityModernWest>, Modern West
+<imsm:ShoppingMedium_DensityQuartzEast>, Quartz East
+<imsm:ShoppingMedium_DensityQuartzNorth>, Quartz North
+<imsm:ShoppingMedium_DensityQuartzSouth>, Quartz South
+<imsm:ShoppingMedium_DensityQuartzWest>, Quartz West
+<imsm:SurvivalSmallBuilding>, Small Sandstone Building
+<imsm:SurvivalWoodenHouse>, Wooden Building
+<imsm:TransportAirportRunway_EastWestBuilding_North>, Runway East-West - Building North
+<imsm:TransportAirportRunway_EastWestBuilding_South>, Runway East-West - Building South
+<imsm:TransportAirportRunway_NorthSouthBuilding_East>, Runway North-South - Building East
+<imsm:TransportAirportRunway_NorthSouthBuilding_West>, Runway North-South - Building West
+<imsm:TransportAvenue1EastWest>, Avenue 1 East-West
+<imsm:TransportAvenue1NorthSouth>, Avenue 1 North-South
+<imsm:TransportAvenue2EastWest>, Avenue 2 East-West
+<imsm:TransportAvenue2NorthSouth>, Avenue 2 North-South
+<imsm:TransportAvenueEEast>, Avenue E East
+<imsm:TransportAvenueENorth>, Avenue E North
+<imsm:TransportAvenueESouth>, Avenue E South
+<imsm:TransportAvenueEWest>, Avenue E West
+<imsm:TransportAvenueLNorthEast>, Avenue L North-East
+<imsm:TransportAvenueLNorthWest>, Avenue L North-West
+<imsm:TransportAvenueLSouthEast>, Avenue L South-East
+<imsm:TransportAvenueLSouthWest>, Avenue L South-West
+<imsm:TransportAvenueTNorthEastWest>, Avenue T North-East-West
+<imsm:TransportAvenueTNorthSouthEast>, Avenue T North-South-East
+<imsm:TransportAvenueTNorthSouthWest>, Avenue T North-South-West
+<imsm:TransportAvenueTSouthEastWest>, Avenue T South-East-West
+<imsm:TransportAvenueXNorthSouthEastWest>, Avenue X
+<imsm:TransportBridgeAvenue1EastWest>, Bridge Avenue 1 East-West
+<imsm:TransportBridgeAvenue1NorthSouth>, Bridge Avenue 1 North-South
+<imsm:TransportBridgeAvenue2NorthSouth>, Bridge Avenue 2 North-South
+<imsm:TransportBridgeAvenue2SouthWest>, Bridge Avenue 2 East-West
+<imsm:TransportBridgeAvenue3EastWest>, Bridge Avenue 3 East-West
+<imsm:TransportBridgeAvenue3NorthSouth>, Bridge Avenue 3 North-South
+<imsm:TransportBridgeAvenue4EastWest>, Bridge Avenue 4 East-West
+<imsm:TransportBridgeAvenue4NorthSouth>, Bridge Avenue 4 North-South
+<imsm:TransportBridgeAvenueLNorthEast>, Bridge Avenue L North-East
+<imsm:TransportBridgeAvenueLNorthWest>, Bridge Avenue L North-West
+<imsm:TransportBridgeAvenueLSouthEast>, Bridge Avenue L South-East
+<imsm:TransportBridgeAvenueLSouthWest>, Bridge Avenue L South-West
+<imsm:TransportBridgeHighway1EastWest>, Bridge Highway 1 East-West
+<imsm:TransportBridgeHighway1NorthSouth>, Bridge Highway 1 North-South
+<imsm:TransportBridgeHighway2EastWest>, Bridge Highway 2 East-West
+<imsm:TransportBridgeHighway2NorthSouth>, Bridge Highway 2 North-South
+<imsm:TransportBridgeHighway3EastWest>, Bridge Highway 3 East-West
+<imsm:TransportBridgeHighway3NorthSouth>, Bridge Highway 3 North-South
+<imsm:TransportBridgeHighway4EastWest>, Bridge Highway 4 East-West
+<imsm:TransportBridgeHighway4NorthSouth>, Bridge Highway 4 North-South
+<imsm:TransportBridgeHighwayLNorthEast>, Bridge Highway L North-East
+<imsm:TransportBridgeHighwayLNorthWest>, Bridge Highway L North-West
+<imsm:TransportBridgeHighwayLSouthEast>, Bridge Highway L South-East
+<imsm:TransportBridgeHighwayLSouthWest>, Bridge Highway L South-West
+<imsm:TransportBridgeRoad1EastWest>, Bridge Road 1 East-West
+<imsm:TransportBridgeRoad1NorthSouth>, Bridge Road 1 North-South
+<imsm:TransportBridgeRoad2EastWest>, Bridge Road 2 East-West
+<imsm:TransportBridgeRoad2NorthSouth>, Bridge Road 2 North-South
+<imsm:TransportBridgeRoadLNorthEast>, Bridge Road L North-East
+<imsm:TransportBridgeRoadLNorthWest>, Bridge Road L North-West
+<imsm:TransportBridgeRoadLSouthEast>, Bridge Road L South-East
+<imsm:TransportBridgeRoadLSouthWest>, Bridge Road L South-West
+<imsm:TransportBridgeStreet1EastWest>, Bridge Street 1 East-West
+<imsm:TransportBridgeStreet1NorthSouth>, Bridge Street 1 North-South
+<imsm:TransportBridgeStreet2EastWest>, Bridge Street 2 East-West
+<imsm:TransportBridgeStreet2NorthSouth>, Bridge Street 2 North-South
+<imsm:TransportBridgeStreetLNorthEast>, Bridge Street L North-East
+<imsm:TransportBridgeStreetLNorthWest>, Bridge Street L North-West
+<imsm:TransportBridgeStreetLSouthEast>, Bridge Street L South-East
+<imsm:TransportBridgeStreetLSouthWest>, Bridge Street L South-West
+<imsm:TransportConnectorAvenue_Street1Avenue_EastStreet_NorthWestside>, Connector Avenue <> Street -1- Avenue East [] Street North-West-side
+<imsm:TransportConnectorAvenue_Street1Avenue_EastStreet_SouthWestside>, Connector Avenue <> Street -1- Avenue East [] Street South-West-side
+<imsm:TransportConnectorAvenue_Street1Avenue_NorthStreet_SouthEastside>, Connector Avenue <> Street -1- Avenue North [] Street South-East-side
+<imsm:TransportConnectorAvenue_Street1Avenue_NorthStreet_SouthWestside>, Connector Avenue <> Street -1- Avenue North [] Street South-West-side
+<imsm:TransportConnectorAvenue_Street1Avenue_SouthStreet_NorthEastside>, Connector Avenue <> Street -1- Avenue South [] Street North-East-side
+<imsm:TransportConnectorAvenue_Street1Avenue_SouthStreet_NorthWestside>, Connector Avenue <> Street -1- Avenue South [] Street North-West-side
+<imsm:TransportConnectorAvenue_Street1Avenue_WestStreet_NorthEastside>, Connector Avenue <> Street -1- Avenue West [] Street North-East-side
+<imsm:TransportConnectorAvenue_Street1Avenue_WestStreet_SouthEastside>, Connector Avenue <> Street -1- Avenue West [] Street South-East-side
+<imsm:TransportConnectorAvenue_StreetLAvenue_EastStreet_North>, Connector Avenue <> Street -L- Avenue East [] Street North
+<imsm:TransportConnectorAvenue_StreetLAvenue_EastStreet_South>, Connector Avenue <> Street -L- Avenue East [] Street South
+<imsm:TransportConnectorAvenue_StreetLAvenue_NorthStreet_East>, Connector Avenue <> Street -L- Avenue North [] Street East
+<imsm:TransportConnectorAvenue_StreetLAvenue_NorthStreet_West>, Connector Avenue <> Street -L- Avenue North [] Street West
+<imsm:TransportConnectorAvenue_StreetLAvenue_SouthStreet_East>, Connector Avenue <> Street -L- Avenue South [] Street East
+<imsm:TransportConnectorAvenue_StreetLAvenue_SouthStreet_West>, Connector Avenue <> Street -L- Avenue South [] Street West
+<imsm:TransportConnectorAvenue_StreetLAvenue_WestStreet_North>, Connector Avenue <> Street -L- Avenue West [] Street North
+<imsm:TransportConnectorAvenue_StreetLAvenue_WestStreet_South>, Connector Avenue <> Street -L- Avenue West [] Street South
+<imsm:TransportConnectorAvenue_StreetTAvenue_EastStreet_NorthSouth>, Connector Avenue <> Street -T- Avenue East [] Street North-South
+<imsm:TransportConnectorAvenue_StreetTAvenue_EastWestStreet_North>, Connector Avenue <> Street -T- Avenue East-West [] Street North
+<imsm:TransportConnectorAvenue_StreetTAvenue_EastWestStreet_South>, Connector Avenue <> Street -T- Avenue East-West [] Street South
+<imsm:TransportConnectorAvenue_StreetTAvenue_NorthSouthStreet_East>, Connector Avenue <> Street -T- Avenue North-South [] Street East
+<imsm:TransportConnectorAvenue_StreetTAvenue_NorthSouthStreet_West>, Connector Avenue <> Street -T- Avenue North-South [] Street West
+<imsm:TransportConnectorAvenue_StreetTAvenue_NorthStreet_EastWest>, Connector Avenue <> Street -T- Avenue North [] Street East-West
+<imsm:TransportConnectorAvenue_StreetTAvenue_SouthStreet_EastWest>, Connector Avenue <> Street -T- Avenue South [] Street East-West
+<imsm:TransportConnectorAvenue_StreetTAvenue_WestStreet_NorthSouth>, Connector Avenue <> Street -T- Avenue West [] Street North-South
+<imsm:TransportConnectorAvenue_StreetXAvenue_EastWestStreet_NorthSouth>, Connector Avenue <> Street -X- Avenue East-West [] Street North-South
+<imsm:TransportConnectorAvenue_StreetXAvenue_NorthSouthStreet_EastWest>, Connector Avenue <> Street -X- Avenue North-South [] Street East-West
+<imsm:TransportConnectorBridge_AvenueBridge_EastAvenue_West>, Connector Avenue <>  Bridge - Avenue Bridge East [] Avenue West
+<imsm:TransportConnectorBridge_AvenueBridge_NorthAvenue_South>, Connector Avenue <> Bridge - Avenue Bridge North [] Avenue South
+<imsm:TransportConnectorBridge_AvenueBridge_SouthAvenue_North>, Connector Avenue <> Bridge - Avenue Bridge South [] Avenue North
+<imsm:TransportConnectorBridge_AvenueBridge_WestAvenue_East>, Connector Avenue <> Bridge - Avenue Bridge West [] Avenue East
+<imsm:TransportConnectorBridge_RoadBridge_EastRoad_West>, Connector Road <> Bridge - Road Bridge East [] Road West
+<imsm:TransportConnectorBridge_RoadBridge_NorthRoad_South>, Connector Road <> Bridge - Road Bridge North [] Road South
+<imsm:TransportConnectorBridge_RoadBridge_SouthRoad_North>, Connector Road <> Bridge - Road Brdige South [] Road North
+<imsm:TransportConnectorBridge_RoadBridge_WestRoad_East>, Connector Road <> Bridge - Road Bridge West [] Road East
+<imsm:TransportConnectorBridge_StreetBridge_EastStreet_West>, Connector Street <> Bridge - Street Bridge East [] Street West
+<imsm:TransportConnectorBridge_StreetBridge_NorthStreet_South>, Connector Street <> Bridge - Street Bridge North [] Street South
+<imsm:TransportConnectorBridge_StreetBridge_SouthStreet_North>, Connector Street <> Bridge - Street Bridge South [] Street North
+<imsm:TransportConnectorBridge_StreetBridge_WestStreet_East>, Connector Street <> Bridge - Street Bridge West [] Street East
+<imsm:TransportConnectorHighwayFloor_AvenueHighwayFloor_EastAvenue_West>, Connector Highway Floor <> Avenue - Highway Floor East [] Avenue West
+<imsm:TransportConnectorHighwayFloor_AvenueHighwayFloor_NorthAvenue_South>, Connector Highway Floor <> Avenue - Highway Floor North [] Avenue South
+<imsm:TransportConnectorHighwayFloor_AvenueHighwayFloor_SouthAvenue_North>, Connector Highway Floor <> Avenue - Highway Floor South [] Avenue North
+<imsm:TransportConnectorHighwayFloor_AvenueHighwayFloor_WestAvenueFloor_East>, Connector Highway Floor <> Avenue - Highway Floor West [] Avenue East
+<imsm:TransportConnectorHighway_AvenueHighway_EastAvenue_West>, Connector Highway <> Avenue - Highway East [] Avenue West
+<imsm:TransportConnectorHighway_AvenueHighway_NorthAvenue_South>, Connector Highway <> Avenue - Highway North [] Avenue South
+<imsm:TransportConnectorHighway_AvenueHighway_SouthAvenue_North>, Connector Highway <> Avenue - Highway South [] Avenue North
+<imsm:TransportConnectorHighway_AvenueHighway_WestAvenue_East>, Connector Highway <> Avenue - Highway West [] Avenue East
+<imsm:TransportConnectorHighway_HighwayFloorHighway_EastHighwayFloor_West>, Connector Highway <> Highway Floor - Highway East [] Highway Floor West
+<imsm:TransportConnectorHighway_HighwayFloorHighway_NorthHighwayFloor_South>, Connector Highway <> Highway Floor - Highway North [] Highway Floor South
+<imsm:TransportConnectorHighway_HighwayFloorHighway_SouthHighwayFloor_North>, Connector Highway <> Highway Floor - Highway South [] Highway Floor North
+<imsm:TransportConnectorHighway_HighwayFloorHighway_WestHighwayFloor_East>, Connector Highway <> Highway Floor - Highway West [] Highway Floor East
+<imsm:TransportHarbourBigEast>, Big East
+<imsm:TransportHarbourBigNorth>, Big North
+<imsm:TransportHarbourBigSouth>, Big South
+<imsm:TransportHarbourBigWest>, Big West
+<imsm:TransportHarbourSide1CornerNorthEast>, Side 1-Corner North-East
+<imsm:TransportHarbourSide1CornerNorthWest>, Side 1-Corner North-West
+<imsm:TransportHarbourSide1CornerSouthEast>, Side 1-Corner South-East
+<imsm:TransportHarbourSide1CornerSouthWest>, Side 1-Corner South-West
+<imsm:TransportHarbourSide2CornerCraneEast>, Side 2-Corner Crane East
+<imsm:TransportHarbourSide2CornerCraneNorth>, Side 2-Corner Crane North
+<imsm:TransportHarbourSide2CornerCraneSouth>, Side 2-Corner Crane South
+<imsm:TransportHarbourSide2CornerCraneWest>, Side 2-Corner Crane West
+<imsm:TransportHarbourSide2CornerEast>, Side 2-Corner East
+<imsm:TransportHarbourSide2CornerNorth>, Side 2-Corner North
+<imsm:TransportHarbourSide2CornerSouth>, Side 2-Corner South
+<imsm:TransportHarbourSide2CornerWest>, Side 2-Corner West
+<imsm:TransportHarbourSide3CornerNorthEast_NorthWest_SouthEast>, Side 3-Corner NorthEast-NorthWest-SouthEast
+<imsm:TransportHarbourSide3CornerNorthEast_NorthWest_SouthWest>, Side 3-Corner NorthEast-NorthWest-SouthWest
+<imsm:TransportHarbourSide3CornerNorthEast_SouthEast_SouthWest>, Side 3-Corner NorthEast-SouthEast-SouthWest
+<imsm:TransportHarbourSide3CornerNorthWest_SouthEast_SouthWest>, Side 3-Corner NorthWest-SouthEast-SouthWest
+<imsm:TransportHarbourSmallEast>, Small East
+<imsm:TransportHarbourSmallNorth>, Small North
+<imsm:TransportHarbourSmallSouth>, Small South
+<imsm:TransportHarbourSmallWest>, Small West
+<imsm:TransportHighway05EastWestNorthside>, Highway 0,5 East-West-North-side
+<imsm:TransportHighway05EastWestSouthside>, Highway 0,5 East-West-South-side
+<imsm:TransportHighway05NorthSouthEastside>, Highway 0,5 North-South-East-side
+<imsm:TransportHighway05NorthSouthWestside>, Highway 0,5 North-South-West-side
+<imsm:TransportHighway1EastWest>, Highway 1 East-West
+<imsm:TransportHighway1NorthSouth>, Highway 1 North-South
+<imsm:TransportHighway2EastWest>, Highway 2 East-West
+<imsm:TransportHighway2NorthSouth>, Highway 2 North-South
+<imsm:TransportHighwayDrivewayEastWestEastside>, Highway Driveway East-West-East-side
+<imsm:TransportHighwayDrivewayEastWestWestside>, Highway Driveway East-West-West-side
+<imsm:TransportHighwayDrivewayExitEastWestEastside>, Highway Driveway & Exit East-West-East-side
+<imsm:TransportHighwayDrivewayExitEastWestWestside>, Highway Driveway & Exit East-West-West-side
+<imsm:TransportHighwayDrivewayExitNorthSouthNorthside>, Highway Driveway & Exit North-South-North-side
+<imsm:TransportHighwayDrivewayExitNorthSouthSouthside>, Highway Driveway & Exit North-South-South-side
+<imsm:TransportHighwayDrivewayNorthSouthNorthside>, Highway Driveway North-South-North-side
+<imsm:TransportHighwayDrivewayNorthSouthSouthside>, Highway Driveway North-South-South-side
+<imsm:TransportHighwayExitEastWestEastside>, Highway Exit East-West-East-side
+<imsm:TransportHighwayExitEastWestWestside>, Highway Exit East-West-West-side
+<imsm:TransportHighwayExitNorthSouthNorthside>, Highway Exit North-South-North-side
+<imsm:TransportHighwayExitNorthSouthSouthside>, Highway Exit North-South-South-side
+<imsm:TransportHighwayFloor05EastWestNorthside>, Highway Floor 0,5 East-West-North-side
+<imsm:TransportHighwayFloor05EastWestSouthside>, Highway Floor 0,5 East-West-South-side
+<imsm:TransportHighwayFloor05NorthSouthEastside>, Highway Floor 0,5 North-South-East-side
+<imsm:TransportHighwayFloor05NorthSouthWestside>, Highway Floor 0,5 North-South-West-side
+<imsm:TransportHighwayFloor1EastWest>, Highway Floor 1 East-West
+<imsm:TransportHighwayFloor1NorthSouth>, Highway Floor 1 North-South
+<imsm:TransportHighwayFloor2EastWest>, Highway Floor 2 East-West
+<imsm:TransportHighwayFloor2NorthSouth>, Highway Floor 2 North-South
+<imsm:TransportHighwayFloorDrivewayEastWestEastside>, Highway Floor Driveway East-West-East-side
+<imsm:TransportHighwayFloorDrivewayEastWestWestside>, Highway Floor Driveway East-West-West-side
+<imsm:TransportHighwayFloorDrivewayExitEastWestEastside>, Highway Floor Driveway & Exit East-West-East-side
+<imsm:TransportHighwayFloorDrivewayExitEastWestWestside>, Highway Floor Driveway & Exit East-West-West-side
+<imsm:TransportHighwayFloorDrivewayExitNorthSouthNorthside>, Highway Floor Driveway & Exit North-South-North-side
+<imsm:TransportHighwayFloorDrivewayExitNorthSouthSouthside>, Highway Floor Driveway & Exit North-South-South-side
+<imsm:TransportHighwayFloorDrivewayNorthSouthNorthside>, Highway Floor Driveway North-South-North-side
+<imsm:TransportHighwayFloorDrivewayNorthSouthSouthside>, Highway Floor Driveway North-South-South-side
+<imsm:TransportHighwayFloorExitEastWestEast>, Highway Floor Exit East-West-East-side
+<imsm:TransportHighwayFloorExitEastWestWestside>, Highway Floor Exit East-West-West-side
+<imsm:TransportHighwayFloorExitNorthSouthNorthside>, Highway Floor Exit North-South-North-side
+<imsm:TransportHighwayFloorExitNorthSouthSouthside>, Highway Floor Exit North-South-South-side
+<imsm:TransportHighwayFloorLNorthEast>, Highway Floor L North-East
+<imsm:TransportHighwayFloorLNorthWest>, Highway Floor L North-West
+<imsm:TransportHighwayFloorLSouthEast>, Highway Floor L South-East
+<imsm:TransportHighwayFloorLSouthWest>, L South-West
+<imsm:TransportHighwayFloorTNorthEastWest>, Highway Floor T North-East-West
+<imsm:TransportHighwayFloorTNorthSouthEast>, Highway Floor T North-South-East
+<imsm:TransportHighwayFloorTNorthSouthWest>, Highway Floor T North-South-West
+<imsm:TransportHighwayFloorTSouthEastWest>, Highway Floor T South-East-West
+<imsm:TransportHighwayFloorXNorthEastSouthWest>, Highway Floor X
+<imsm:TransportHighwayLNorthEast>, Highway L North-East
+<imsm:TransportHighwayLNorthWest>, Highway L North-West
+<imsm:TransportHighwayLSouthEast>, Highway L South-East
+<imsm:TransportHighwayLSouthWest>, Highway L South-West
+<imsm:TransportHighwayTNorthEastWest>, Highway T North-East-West
+<imsm:TransportHighwayTNorthSouthEast>, Highway T North-South-East
+<imsm:TransportHighwayTNorthSouthWest>, Highway T North-South-West
+<imsm:TransportHighwayTSouthEastWest>, Highway T South-East-West
+<imsm:TransportHighwayXNorthEastSouthWest>, Highway X
+<imsm:TransportPublicConnectorHightram_TramHightram_EastTram_West>, Connector Hightram <> Tram - Hightram East [] Tram West
+<imsm:TransportPublicConnectorHightram_TramHightram_NorthTram_South>, Connector Hightram <> Tram - Hightram North [] Tram South
+<imsm:TransportPublicConnectorHightram_TramHightram_SouthTram_North>, Connector Hightram <> Tram - Hightram South [] Tram North
+<imsm:TransportPublicConnectorHightram_TramHightram_WestTram_East>, Connector Hightram <> Tram - Hightram West [] Tram East
+<imsm:TransportPublicHightram1EastWest>, Hightram 1 East-West
+<imsm:TransportPublicHightram1NorthSouth>, Hightram 1 North-South
+<imsm:TransportPublicHightramEEast>, Hightram E East
+<imsm:TransportPublicHightramENorth>, Hightram E North
+<imsm:TransportPublicHightramESouth>, Hightram E South
+<imsm:TransportPublicHightramEWest>, Hightram E West
+<imsm:TransportPublicHightramLNorthEast>, Hightram L North-East
+<imsm:TransportPublicHightramLNorthWest>, Hightram L North-West
+<imsm:TransportPublicHightramLSouthEast>, Hightram L South-East
+<imsm:TransportPublicHightramLSouthWest>, Hightram L South-West
+<imsm:TransportPublicHightramStationEastWest>, Hightram Station East-West
+<imsm:TransportPublicHightramStationNorthSouth>, Hightram Station North-South
+<imsm:TransportPublicHightramXNorthEastSouthWest>, Hightram X
+<imsm:TransportPublicTram1EastWest>, Tram 1 East-West
+<imsm:TransportPublicTram1NorthSouth>, Tram 1 North-South
+<imsm:TransportPublicTramEEast>, Tram E East
+<imsm:TransportPublicTramENorth>, Tram E North
+<imsm:TransportPublicTramESouth>, Tram E South
+<imsm:TransportPublicTramEWest>, Tram E West
+<imsm:TransportPublicTramLNorthEast>, Tram L North-East
+<imsm:TransportPublicTramLNorthWest>, Tram L North-West
+<imsm:TransportPublicTramLSouthEast>, Tram L South-East
+<imsm:TransportPublicTramLSouthWest>, Tram L South-West
+<imsm:TransportPublicTramStationEastWest>, Tram Station East-West
+<imsm:TransportPublicTramStationNorthSouth>, Tram Station North-South
+<imsm:TransportPublicTramXNorthEastSouthWest>, Tram X
+<imsm:TransportPublicTram_on_road1EastWest>, Track 1 East-West
+<imsm:TransportPublicTram_on_road1NorthSouth>, Track 1 North-South
+<imsm:TransportPublicTram_on_roadEEast>, Track E East
+<imsm:TransportPublicTram_on_roadENorth>, Track E North
+<imsm:TransportPublicTram_on_roadESouth>, Track E South
+<imsm:TransportPublicTram_on_roadEWest>, Track E West
+<imsm:TransportPublicTram_on_roadLNorthEast>, Track L North-East
+<imsm:TransportPublicTram_on_roadLNorthWest>, Track L North-West
+<imsm:TransportPublicTram_on_roadLSouthEast>, Track L South-East
+<imsm:TransportPublicTram_on_roadLSouthWest>, Track L South-West
+<imsm:TransportRoad1EastWest>, Road 1 East-West
+<imsm:TransportRoad1NorthSouth>, Road 1 North-South
+<imsm:TransportRoadEEast>, Road E East
+<imsm:TransportRoadENorth>, Road E North
+<imsm:TransportRoadESouth>, Road E South
+<imsm:TransportRoadEWest>, Road E West
+<imsm:TransportRoadLNorthEast>, Road L North-East
+<imsm:TransportRoadLNorthWest>, Road L North-West
+<imsm:TransportRoadLSouthEast>, Road L South-East
+<imsm:TransportRoadLSouthWest>, Road L South-West
+<imsm:TransportRoadTNorthEastWest>, Road T North-East-West
+<imsm:TransportRoadTNorthSouthEast>, Road T North-South-East
+<imsm:TransportRoadTNorthSouthWest>, Road T North-South-West
+<imsm:TransportRoadTSouthEastWest>, Road T South-East-West
+<imsm:TransportRoadXNorthEastSouthWest>, Road X
+<imsm:TransportStreet1EastWest>, Street 1 East-West
+<imsm:TransportStreet1NorthSouth>, Street 1 North-South
+<imsm:TransportStreetEEast>, Street E East
+<imsm:TransportStreetENorth>, Street E North
+<imsm:TransportStreetESouth>, Street E South
+<imsm:TransportStreetEWest>, Street E West
+<imsm:TransportStreetLNorthEast>, Street L North-East
+<imsm:TransportStreetLNorthWest>, Street L North-West
+<imsm:TransportStreetLSouthEast>, Street L South-East
+<imsm:TransportStreetLSouthWest>, Street L South-West
+<imsm:TransportStreetRoundaboutNorthEastSouthWest>, Street Roundabout
+<imsm:TransportStreetTNorthEastWest>, Street T North-East-West
+<imsm:TransportStreetTNorthSouthEast>, Street T North-South-East
+<imsm:TransportStreetTNorthSouthWest>, Street T North-South-West
+<imsm:TransportStreetTSouthEastWest>, Street T South-East-West
+<imsm:TransportStreetXNorthEastSouthWest>, Street X
+<imsm:TransportWater1CornerNorthEast>, 1-Corner North-East
+<imsm:TransportWater1CornerNorthWest>, 1-Corner North-West
+<imsm:TransportWater1CornerSouthEast>, 1-Corner South-East
+<imsm:TransportWater1CornerSouthWest>, 1-Corner South-West
+<imsm:TransportWater2CornerEast>, 2-Corner East
+<imsm:TransportWater2CornerNorth>, 2-Corner North
+<imsm:TransportWater2CornerSouth>, 2-Corner South
+<imsm:TransportWater2CornerWest>, 2-Corner West
+<imsm:TransportWater3CornerNorthEast_NorthWest_SouthEast>, 3-Corner NorthEast-NorthWest-SouthEast
+<imsm:TransportWater3CornerNorthEast_NorthWest_SouthWest>, 3-Corner NorthEast-NorthWest-SouthWest
+<imsm:TransportWater3CornerSouthEast_SouthWest_NorthEast>, 3-Corner SouthEast-SouthWest-NorthEast
+<imsm:TransportWater3CornerSouthEast_SouthWest_NorthWest>, 3-Corner SouthEast-SouthWest-NorthWest
+<imsm:TransportWater4CornerNorthSouthEastWest>, 4-Corner
+<imsm:UtilityPower_NuclearEast>, Power Nuclear East
+<imsm:UtilityPower_NuclearNorth>, Power Nuclear North
+<imsm:UtilityPower_NuclearSouth>, Power Nuclear South
+<imsm:UtilityPower_NuclearWest>, Power Nuclear West
+<imsm:UtilityPower_OilCoalEast>, Power Oil Coal East
+<imsm:UtilityPower_OilCoalNorth>, Power Oil Coal North
+<imsm:UtilityPower_OilCoalSouth>, Power Oil Coal South
+<imsm:UtilityPower_OilCoalWest>, Power Oil Coal West
+<imsm:UtilityPower_SunNorthEastSouthWest>, Power Solar
+<imsm:UtilityPower_WindEast>, Power Wind East
+<imsm:UtilityPower_WindNorth>, Power Wind North
+<imsm:UtilityPower_WindSouth>, Power Wind South
+<imsm:UtilityPower_WindWest>, Power Wind West
+<imsm:UtilityPumpjackEastWest>, Pumpjack East-West
+<imsm:UtilityPumpjackNorthSouth>, Pumpjack North-South
+<imsm:UtilityScrap_BurningEast>, Scrap Burning East
+<imsm:UtilityScrap_BurningNorth>, Scrap Burning North
+<imsm:UtilityScrap_BurningSouth>, Scrap Burning South
+<imsm:UtilityScrap_BurningWest>, Scrap Burning West
+<imsm:UtilityScrap_HeapEast>, Scrap Heap East
+<imsm:UtilityScrap_HeapNorth>, Scrap Heap North
+<imsm:UtilityScrap_HeapSouth>, Scrap Heap South
+<imsm:UtilityScrap_HeapWest>, Scrap Heap West
+<imsm:UtilityScrap_RecycleEast>, Scrap Recyclye East
+<imsm:UtilityScrap_RecycleNorth>, Scrap Recycle North
+<imsm:UtilityScrap_RecycleSouth>, Scrap Recycle South
+<imsm:UtilityScrap_RecycleWest>, Scrap Recycle West
+<imsm:UtilityWater_PumpEast>, Water Pump East
+<imsm:UtilityWater_PumpNorth>, Water Pump North
+<imsm:UtilityWater_PumpSouth>, Water Pump South
+<imsm:UtilityWater_PumpWest>, Water Pump West
+<imsm:UtilityWater_TowerNorthEastSouthWest>, Water Tower
+<imsm:UtilityWater_TreatmentEast>, Water Treatment East
+<imsm:UtilityWater_TreatmentNorth>, Water Treatment North
+<imsm:UtilityWater_TreatmentSouth>, Water Treatment South
+<imsm:UtilityWater_TreatmentWest>, Water Treatment West
+<imsm:WoodenHouse>, Big Wooden House
 <instahouse:Brick House>, 砖块屋
 <instahouse:Cobblestone House>, 原石屋
 <instahouse:Cobblestone Pillbox>, 原石方屋
@@ -6146,74 +6950,84 @@
 <ovo:filter>, 过滤器
 <ovo:gunpowder_max>, 加强-火药
 <ovo:the_water_of_wither>, 衰变之水
-<securitycraft:adminTool>, Admin Tool
-<securitycraft:alarm>, Alarm
+<questbook:ItemQuestBook>, Quest Book
+<securitycraft:adminTool>, 管理员工具
+<securitycraft:alarm>, 报警器
 <securitycraft:alarmLit>, tile.securitycraft:alarmLit.name
-<securitycraft:blacklistModule>, Blacklist Module
-<securitycraft:bogusLava>, Fake Lava
+<securitycraft:blacklistModule>, 黑名单模块
+<securitycraft:blockPocketManager>, Block Pocket Manager
+<securitycraft:blockPocketWall>, Block Pocket Wall
+<securitycraft:bogusLava>, 假熔岩
 <securitycraft:bogusLavaFlowing>, tile.securitycraft:bogusLavaFlowing.name
-<securitycraft:bogusWater>, Fake Water
+<securitycraft:bogusWater>, 假熔水
 <securitycraft:bogusWaterFlowing>, tile.securitycraft:bogusWaterFlowing.name
-<securitycraft:bouncingBetty>, Bouncing Betty
-<securitycraft:briefcase>, Briefcase
-<securitycraft:bucketFLava>, Bucket Of Fake Lava
-<securitycraft:bucketFWater>, Bucket Of Fake Water
-<securitycraft:cageTrap>, Cage Trap
-<securitycraft:cameraMonitor>, Camera Monitor
-<securitycraft:claymoreActive>, Claymore
-<securitycraft:claymoreDefused>, Claymore
-<securitycraft:cobblestoneMine>, Cobblestone Mine
-<securitycraft:codebreaker>, Codebreaker
-<securitycraft:deactivatedCageTrap>, Deactivated Cage Trap
-<securitycraft:diamondMine>, Diamond Ore Mine
-<securitycraft:dirtMine>, Dirt Mine
-<securitycraft:disguiseModule>, Disguise Module
-<securitycraft:doorIndestructibleIronItem>, Reinforced Iron Door
-<securitycraft:furnaceMine>, Furnace Mine
-<securitycraft:gravelMine>, Gravel Mine
-<securitycraft:harmingModule>, Harming Module
+<securitycraft:bouncingBetty>, 弹跳贝蒂
+<securitycraft:briefcase>, 公文包
+<securitycraft:bucketFLava>, 假熔岩桶
+<securitycraft:bucketFWater>, 假水桶
+<securitycraft:cageTrap>, 陷阱笼
+<securitycraft:cameraMonitor>, 摄像头监视器
+<securitycraft:claymoreActive>, 阔剑地雷
+<securitycraft:claymoreDefused>, 阔剑地雷
+<securitycraft:cobblestoneMine>, 圆石地雷
+<securitycraft:codebreaker>, 编码破坏器
+<securitycraft:crystalQuartz>, Block of Crystal Quartz
+<securitycraft:crystalQuartzItem>, Crystal Quartz
+<securitycraft:crystalQuartzSlab>, Crystal Quartz Slab
+<securitycraft:deactivatedCageTrap>, 停用的陷阱笼
+<securitycraft:diamondMine>, 钻石矿石地雷
+<securitycraft:dirtMine>, 泥土地雷
+<securitycraft:disguiseModule>, 伪装模块
+<securitycraft:doorIndestructibleIronItem>, 强化铁门
+<securitycraft:doubleCrystalQuartzSlab>, tile.securitycraft:doubleCrystalQuartzSlab.name
+<securitycraft:furnaceMine>, 熔炉地雷
+<securitycraft:gravelMine>, 沙砾地雷
+<securitycraft:harmingModule>, 伤害模块
 <securitycraft:ims>, Intelligent Munitions System
-<securitycraft:inventoryScanner>, Inventory Scanner
-<securitycraft:inventoryScannerField>, Inventory Scanner Field
-<securitycraft:ironDoorReinforced>, Reinforced Door
-<securitycraft:ironTrapdoor>, Iron Trapdoor
-<securitycraft:keycardReader>, Keycard Reader
-<securitycraft:keycards>, Level 1 Keycard
-<securitycraft:keypad>, Keypad
-<securitycraft:keypadChest>, Password-protected Chest
-<securitycraft:keypadFrame>, Frame
-<securitycraft:keypadFurnace>, Password-protected Furnace
-<securitycraft:keypadItem>, Key Panel
-<securitycraft:laser>, Laser
-<securitycraft:laserBlock>, Laser Block
-<securitycraft:mine>, Mine
+<securitycraft:inventoryScanner>, 物品栏扫描器
+<securitycraft:inventoryScannerField>, 物品栏扫描器列表
+<securitycraft:ironDoorReinforced>, 强化门
+<securitycraft:ironTrapdoor>, 强化铁活板门
+<securitycraft:keycardReader>, 钥匙卡读卡器
+<securitycraft:keycards>, 一级身份卡
+<securitycraft:keypad>, 小键盘
+<securitycraft:keypadChest>, 密码箱
+<securitycraft:keypadFrame>, 框架
+<securitycraft:keypadFurnace>, 密码炉
+<securitycraft:keypadItem>, 小键盘（物品）
+<securitycraft:laser>, 激光
+<securitycraft:laserBlock>, 激光方块
+<securitycraft:mine>, 地雷
 <securitycraft:mineCut>, tile.securitycraft:mineCut.name
 <securitycraft:motionActivatedLightOff>, Motion-Activated Light
 <securitycraft:motionActivatedLightOn>, Motion-Activated Light
-<securitycraft:panicButton>, Panic Button
-<securitycraft:portableRadar>, Portable Radar
-<securitycraft:protecto>, Protecto
-<securitycraft:redstoneModule>, Redstone Module
+<securitycraft:panicButton>, 紧急按钮
+<securitycraft:portableRadar>, 便携式雷达
+<securitycraft:protecto>, 防火墙
+<securitycraft:redstoneModule>, 红石模块
 <securitycraft:reinforcedBrick>, Reinforced Bricks
 <securitycraft:reinforcedCarpet>, Reinforced Carpet
 <securitycraft:reinforcedCobblestone>, Reinforced Cobblestone
 <securitycraft:reinforcedCompressedBlocks>, Reinforced Lapis Lazuli Block
+<securitycraft:reinforcedCrystalQuartz>, Reinforced Block of Crystal Quartz
+<securitycraft:reinforcedCrystalQuartzSlab>, Reinforced Crystal Quartz Slab
 <securitycraft:reinforcedDirt>, Reinforced Dirt
 <securitycraft:reinforcedDirtSlab>, tile.securitycraft:reinforcedDirtSlab_stone.name
+<securitycraft:reinforcedDoubleCrystalQuartzSlab>, tile.securitycraft:reinforcedDoubleCrystalQuartzSlab.name
 <securitycraft:reinforcedDoubleDirtSlab>, tile.securitycraft:reinforcedDoubleDirtSlab.name
 <securitycraft:reinforcedDoubleStoneSlabs>, tile.securitycraft:reinforcedDoubleStoneSlabs.name
 <securitycraft:reinforcedDoubleWoodSlabs>, tile.securitycraft:reinforcedDoubleWoodSlabs.name
 <securitycraft:reinforcedEndStone>, Reinforced End Stone
 <securitycraft:reinforcedFenceGate>, Electrified Iron Fence Gate
-<securitycraft:reinforcedGlass>, Reinforced Glass Pane
+<securitycraft:reinforcedGlass>, 强化玻璃板
 <securitycraft:reinforcedGlassBlock>, Reinforced Glass
 <securitycraft:reinforcedGlowstone>, Reinforced Glowstone
 <securitycraft:reinforcedGravel>, Reinforced Gravel
 <securitycraft:reinforcedHardenedClay>, Reinforced Hardened Clay
-<securitycraft:reinforcedIronBars>, Reinforced Iron Bars
-<securitycraft:reinforcedLogs>, Reinforced Oak Wood
-<securitycraft:reinforcedLogs2>, Reinforced Acacia Wood
-<securitycraft:reinforcedMetals>, Reinforced Block of Gold
+<securitycraft:reinforcedIronBars>, 强化铁栏杆
+<securitycraft:reinforcedLogs>, 强化橡木
+<securitycraft:reinforcedLogs2>, 强化金合欢木
+<securitycraft:reinforcedMetals>, 强化金块
 <securitycraft:reinforcedMossyCobblestone>, Reinforced Moss Stone
 <securitycraft:reinforcedNetherBrick>, Reinforced Nether Brick
 <securitycraft:reinforcedNetherrack>, Reinforced Netherrack
@@ -6224,11 +7038,12 @@
 <securitycraft:reinforcedSandstone>, Reinforced Sandstone
 <securitycraft:reinforcedStainedGlass>, Reinforced White Stained Glass
 <securitycraft:reinforcedStainedGlassPanes>, Reinforced White Stained Glass Pane
-<securitycraft:reinforcedStainedHardenedClay>, Reinforced White Stained Clay
+<securitycraft:reinforcedStainedHardenedClay>, 强化白色陶瓦
 <securitycraft:reinforcedStairsAcacia>, Reinforced Acacia Stairs
 <securitycraft:reinforcedStairsBirch>, Reinforced Birch Stairs
 <securitycraft:reinforcedStairsBrick>, Reinforced Brick Stairs
 <securitycraft:reinforcedStairsCobblestone>, Reinforced Cobblestone Stairs
+<securitycraft:reinforcedStairsCrystalQuartz>, Reinforced Crystal Quartz Stairs
 <securitycraft:reinforcedStairsDarkoak>, Reinforced Dark Oak Stairs
 <securitycraft:reinforcedStairsJungle>, Reinforced Jungle Stairs
 <securitycraft:reinforcedStairsNetherBrick>, Reinforced Nether Brick Stairs
@@ -6242,35 +7057,38 @@
 <securitycraft:reinforcedStoneBrick>, Reinforced Stone Bricks
 <securitycraft:reinforcedStoneSlabs>, Reinforced Stone Slab
 <securitycraft:reinforcedWoodSlabs>, Reinforced Oak Wood Slab
-<securitycraft:reinforcedWool>, Reinforced Wool
-<securitycraft:remoteAccessMine>, Mine Remote Access Tool
-<securitycraft:retinalScanner>, Retinal Scanner
-<securitycraft:sandMine>, Sand Mine
+<securitycraft:reinforcedWool>, 强化白色羊毛
+<securitycraft:reinforced_stone_pressure_plate>, Reinforced Stone Pressure Plate
+<securitycraft:remoteAccessMine>, 远程地雷访问工具
+<securitycraft:retinalScanner>, 视网膜扫描仪
+<securitycraft:sandMine>, 沙子地雷
 <securitycraft:scIronFence>, Electrified Iron Fence
-<securitycraft:scManual>, SecurityCraft Manual
-<securitycraft:scannerDoor>, Scanner Door
-<securitycraft:scannerDoorItem>, Scanner Door
-<securitycraft:secretSignItem>, Secret Sign
+<securitycraft:scManual>, 安全工艺指南
+<securitycraft:scannerDoor>, 安全门
+<securitycraft:scannerDoorItem>, 安全门
+<securitycraft:secretSignItem>, 安全告示牌
 <securitycraft:secretSignStanding>, tile.securitycraft:secretSign.name
 <securitycraft:secretSignWall>, tile.securitycraft:secretSign.name
-<securitycraft:securityCamera>, Security Camera
-<securitycraft:sentry>, Sentry
-<securitycraft:smartModule>, Smart Module
-<securitycraft:stoneMine>, Stone Mine
-<securitycraft:storageModule>, Storage Module
-<securitycraft:taser>, Taser
-<securitycraft:taserPowered>, Taser
-<securitycraft:trackMine>, Track Mine
-<securitycraft:universalBlockModifier>, Universal Block Modifier
-<securitycraft:universalBlockReinforcerLvL1>, Universal Block Reinforcer (LvL1)
-<securitycraft:universalBlockReinforcerLvL2>, Universal Block Reinforcer (LvL2)
-<securitycraft:universalBlockReinforcerLvL3>, Universal Block Reinforcer (LvL3)
-<securitycraft:universalBlockRemover>, Universal Block Remover
-<securitycraft:universalKeyChanger>, Universal Key Changer
-<securitycraft:universalOwnerChanger>, Universal Owner Changer
-<securitycraft:usernameLogger>, Username Logger
-<securitycraft:whitelistModule>, Whitelist Module
-<securitycraft:wireCutters>, Wire Cutters
+<securitycraft:securityCamera>, 安防摄像头
+<securitycraft:sentry>, 战斗哨石
+<securitycraft:smartModule>, 智能模块
+<securitycraft:stairsCrystalQuartz>, Crystal Quartz Stairs
+<securitycraft:stoneMine>, 石头地雷
+<securitycraft:storageModule>, 储存模块
+<securitycraft:taser>, 泰瑟枪
+<securitycraft:taserPowered>, 泰瑟枪
+<securitycraft:trackMine>, 铁轨地雷
+<securitycraft:trophySystem>, Trophy System
+<securitycraft:universalBlockModifier>, 通用方块修改器
+<securitycraft:universalBlockReinforcerLvL1>, 通用方块强化器（一级）
+<securitycraft:universalBlockReinforcerLvL2>, 通用方块强化器（二级）
+<securitycraft:universalBlockReinforcerLvL3>, 通用方块强化器（三级）
+<securitycraft:universalBlockRemover>, 通用方块移除器
+<securitycraft:universalKeyChanger>, 通用密锁变换器
+<securitycraft:universalOwnerChanger>, 通用所有者修改器
+<securitycraft:usernameLogger>, 用户名记录器
+<securitycraft:whitelistModule>, 白名单模块
+<securitycraft:wireCutters>, 剪线钳
 <stm:BlockSuperBlock>, 超级块
 <stm:BlockSuperOre>, 超级矿石
 <stm:BlockSuperXRay>, 超级X光块
