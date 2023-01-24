@@ -1,0 +1,77 @@
+Mod: mcp - Minecraft Coder Pack - 9.05
+Mod: FML - Forge Mod Loader - 7.10.99.99
+Mod: Forge - Minecraft Forge - 10.13.4.1614
+Mod: CodeChickenCore - CodeChicken Core - 1.1.6
+Mod: InputFix - InputFix - 1.7.10-v5
+Mod: Micdoodlecore - Micdoodle8 Core - 
+Mod: NotEnoughItems - NotEnoughItems - 2.3.20-GTNH
+Mod: smoothfontcore - Smooth Font Core - 1.7.10-1.15.1
+Mod: splan - Server Properties for LAN - 2.65-1.7.10
+Mod: FastCraft - FastCraft - 1.25
+Mod: smoothfont - Smooth Font - 1.7.10-1.15.3
+Mod: LookingGlass - Looking Glass - 0.2.0.01
+Mod: securitycraft - SecurityCraft - v1.8.13
+Mod: bspkrsCore - bspkrsCore - 6.16
+Mod: Treecapitator - Treecapitator - 1.7.10
+Mod: adventurebackpack - Adventure Backpack - 1.7.10-0.8b
+Mod: Apocalypse - Apocalypse - 0.0.6
+Mod: AppleCore - AppleCore - 3.1.1
+Mod: BetterAchievements - Better Achievements - 0.1.3
+Mod: betterbuilderswands - BetterBuildersWands - 0.9.5-GTNH
+Mod: betterquesting - Better Questing - 3.0.328
+Mod: BiblioCraft - BiblioCraft - 1.11.7
+Mod: TwilightForest - The Twilight Forest - 2.3.8dev
+Mod: chisel - Chisel - 2.10.16-GTNH
+Mod: controlling - Controlling - 1.0.0.4
+Mod: BuildMod - Build Mod - v1.0
+Mod: CoroAI - CoroAI - v1.0
+Mod: ExtendedRenderer - Extended Renderer - v1.0
+Mod: ConfigMod - Extended Mod Config - v1.0
+Mod: custommainmenu - Custom Main Menu - 1.9.4
+Mod: customnpcs - CustomNPC+ - 1.7
+Mod: DamageIndicatorsMod - Damage Indicators - 3.2.0
+Mod: DayZ - DayZ Minecraft - 8.10.12
+Mod: dungeonpack - Dungeon Pack - 1.7.10-1.0
+Mod: elephantfix - Elephant Fix - 1.0.0
+Mod: ezwastelands - EzWastelands - 0.1.1
+Mod: flashlight - Flashlight Mod - ï¿½{version}
+Mod: FoodCraft - FoodCraft(FoodCraft) - 1.2.0
+Mod: FpsReducer - FPS Reducer - mc1.7.10-1.10.3
+Mod: GalacticraftCore - Galacticraft Core - 3.0.11
+Mod: GalacticraftMars - Galacticraft Planets - 3.0.11
+Mod: HardcoreDarkness - Hardcore Darkness - 1.7
+Mod: hbm - Hbm's Nuclear Tech - 1.0.27 BETA (4480)
+Mod: LunatriusCore - LunatriusCore - 1.1.7-GTNH
+Mod: InGameInfoXML - InGame Info XML - 2.8.3.93
+Mod: inputmethodblocker - InputMethodBlocker - 1.5.0
+Mod: instahouse - Insta House - 8.0
+Mod: imsm - Instant Massive Structures Mod - 1.7.10
+Mod: inventorytweaks - Inventory Tweaks - 1.5.15
+Mod: IronChest - Iron Chest - 6.0.62.742
+Mod: itlt - It's the little things - 1.0.4
+Mod: journeymap - JourneyMap - 5.1.4p2
+Mod: legacymckotlin - Legacy Minecraft Kotlin - 1.0
+Mod: LoadedModsExporter - Loaded Mods Exporter - 1.7.10-1.0
+Mod: malisiscore - MalisisCore - 1.7.10-0.14.3
+Mod: malisisdoors - Malisis' Doors - 1.7.10-1.13.2
+Mod: Mantle - Mantle - 1.7.10-0.3.2.jenkins191
+Mod: mcheli - MC Helicopter - 1.0.3
+Mod: MineTweaker3 - MineTweaker 3 - 3.0.10
+Mod: MouseTweaks - Mouse Tweaks - 2.4.6-GTNH
+Mod: cfm - �rCrayfish's Furniture Mod - 3.4.8
+Mod: mw - Modern Warfare Contagion - 0.4.2.4
+Mod: nechar - Not Enough Characters - 1.4.6
+Mod: openmodularturrets - Open Modular Turrets - 2.2.11-247
+Mod: ovo - OVO - 0.0.3
+Mod: questbook - Better Questing Quest Book - 3.0.0-1.7.10
+Mod: ResourceLoader - Resource Loader - 1.3
+Mod: spongemixins - SpongeMixins Loader - 1.2.0
+Mod: bq_standard - Standard Expansion - 3.0.181
+Mod: StorageDrawers - Storage Drawers - 1.11.19-GTNH
+Mod: camping - The Camping Mod 2 - 2.1c
+Mod: Trapcraft - Trapcraft - v2.2.1a
+Mod: stm - Super Tools Mod - 1.9
+Mod: Waila - Waila - 1.5.22
+Mod: WailaHarvestability - Waila Harvestability - 1.1.10-GTNH
+Mod: ZombieInfection - Zombie Infection - @VERSION@
+Mod: ZAMod - Zombie Awareness - v1.9.5

@@ -217,7 +217,12 @@
 <block:TwilightForest:tile.AuroraPillar>, Aurora Pillar
 <block:TwilightForest:tile.AuroraSlab>, Aurora Slab
 <block:TwilightForest:tile.CastleBrick>, tile.CastleBrick.name
+<block:TwilightForest:tile.CastleDoor>, tile.CastleDoor.name
+<block:TwilightForest:tile.CastleDoorVanished>, tile.CastleDoorVanished.name
 <block:TwilightForest:tile.CastleMagic>, tile.CastleMagic.name
+<block:TwilightForest:tile.CinderFurnaceIdle>, tile.CinderFurnaceIdle.name
+<block:TwilightForest:tile.CinderFurnaceLit>, tile.CinderFurnaceLit.name
+<block:TwilightForest:tile.CinderLog>, tile.CinderLog.name
 <block:TwilightForest:tile.DarkLeaves>, Darkwood Leaves
 <block:TwilightForest:tile.FluffyCloud>, Fluffy Cloud
 <block:TwilightForest:tile.ForceField>, tile.ForceField.name
@@ -272,6 +277,7 @@
 <block:adventurebackpack:blockBackpack>, blockAdventureBackpack.name
 <block:adventurebackpack:blockCampFire>, blockCampFire.name
 <block:adventurebackpack:blockSleepingBag>, blockSleepingBag.name
+<block:betterquesting:submit_station>, Object Submission Station (OSS)
 <block:camping:boundsHelper>, 边界助手方块
 <block:camping:campfire>, 篝火
 <block:camping:campfireCook>, 篝火护垫
@@ -348,19 +354,14 @@
 <block:cfm:whitefence>, tile.whitefence.name
 <block:cfm:yellowGlow>, tile.yellowGlow.name
 <block:chisel:acacia_planks>, 金合欢木板
-<block:chisel:aluminum_stairs.0>, tile.chisel.aluminum_stairs.0.name
-<block:chisel:aluminum_stairs.1>, tile.chisel.aluminum_stairs.1.name
-<block:chisel:aluminum_stairs.2>, tile.chisel.aluminum_stairs.2.name
-<block:chisel:aluminum_stairs.3>, tile.chisel.aluminum_stairs.3.name
-<block:chisel:aluminum_stairs.4>, tile.chisel.aluminum_stairs.4.name
-<block:chisel:aluminum_stairs.5>, tile.chisel.aluminum_stairs.5.name
-<block:chisel:aluminum_stairs.6>, tile.chisel.aluminum_stairs.6.name
-<block:chisel:aluminum_stairs.7>, tile.chisel.aluminum_stairs.7.name
+<block:chisel:aluminum_stairs.0>, 铝制楼梯
+<block:chisel:aluminum_stairs.1>, 铝制楼梯
+<block:chisel:aluminum_stairs.2>, 铝制楼梯
 <block:chisel:aluminumblock>, 铝块
 <block:chisel:andesite>, 安山岩
 <block:chisel:antiBlock>, 纯色方块
 <block:chisel:autoChisel>, 自动雕刻机
-<block:chisel:beacon>, Beacon
+<block:chisel:beacon>, 信标
 <block:chisel:birch_planks>, 白桦木板
 <block:chisel:bookshelf>, 书架
 <block:chisel:brickCustom>, 砖块
@@ -376,13 +377,13 @@
 <block:chisel:diorite>, 闪长岩
 <block:chisel:dirt>, 泥土
 <block:chisel:emerald_block>, 绿宝石块
-<block:chisel:end_Stone>, End Stone
+<block:chisel:end_Stone>, 末地石
 <block:chisel:factoryblock>, 工厂方块
 <block:chisel:factoryblock2>, 工厂方块
 <block:chisel:fantasyblock>, 紫色幻想石
 <block:chisel:fantasyblock2>, 幻想石
 <block:chisel:futura>, 未来科技方块
-<block:chisel:futuraCircuit>, Futura Circuit
+<block:chisel:futuraCircuit>, 未来科技电路
 <block:chisel:glass>, 玻璃
 <block:chisel:glass2>, 玻璃
 <block:chisel:glass_pane>, 玻璃板
@@ -491,13 +492,13 @@
 <block:chisel:pumpkin7>, 南瓜
 <block:chisel:pumpkin8>, 南瓜
 <block:chisel:pumpkin9>, 南瓜
-<block:chisel:purpur>, Purpur Block
+<block:chisel:purpur>, 紫珀块
 <block:chisel:rebel>, 叛军方块
 <block:chisel:redstone_block>, 红石块
 <block:chisel:road_line>, 道路标线
 <block:chisel:sand_snakestone>, 蛇纹沙石
 <block:chisel:sandstone>, 沙石
-<block:chisel:sandstone2>, tile.chisel.sandstone2.name
+<block:chisel:sandstone2>, 沙石
 <block:chisel:sandstone_scribbles>, 刻文沙石
 <block:chisel:silverblock>, 银块
 <block:chisel:spruce_planks>, 云杉木板
@@ -520,7 +521,7 @@
 <block:chisel:technical>, 工艺方块
 <block:chisel:technical2>, 简易工艺方块
 <block:chisel:technical3>, 工业工艺方块
-<block:chisel:technical4>, Technical Block
+<block:chisel:technical4>, 工艺方块
 <block:chisel:templeblock>, 神庙石
 <block:chisel:tinblock>, 锡块
 <block:chisel:torch1>, 火把
@@ -648,6 +649,7 @@
 <block:hbm:tile.block_cap_star>, 夕阳沙士星星瓶盖方块
 <block:hbm:tile.block_cap_sunset>, 夕阳沙士瓶盖方块
 <block:hbm:tile.block_cobalt>, 钴块
+<block:hbm:tile.block_coke>, tile.block_coke.name
 <block:hbm:tile.block_coltan>, 钽块
 <block:hbm:tile.block_combine_steel>, CMB钢块
 <block:hbm:tile.block_copper>, 铜块
@@ -902,9 +904,9 @@
 <block:hbm:tile.digamma_matter>, tile.digamma_matter.name
 <block:hbm:tile.dirt_dead>, 泥渣
 <block:hbm:tile.dirt_oily>, 油泥
-<block:hbm:tile.door_bunker>, tile.door_bunker.name
-<block:hbm:tile.door_metal>, tile.door_metal.name
-<block:hbm:tile.door_office>, tile.door_office.name
+<block:hbm:tile.door_bunker>, 仓门
+<block:hbm:tile.door_metal>, 金属门
+<block:hbm:tile.door_office>, 办公室门
 <block:hbm:tile.drill_pipe>, 钻杆
 <block:hbm:tile.ducrete>, 高密度贫铀混凝土瓷砖
 <block:hbm:tile.ducrete_smooth>, 高密度贫铀混凝土
@@ -916,7 +918,6 @@
 <block:hbm:tile.dummy_block_assembler>, tile.dummy_block_assembler.name
 <block:hbm:tile.dummy_block_blast>, tile.dummy_block_blast.name
 <block:hbm:tile.dummy_block_drill>, tile.dummy_block_drill.name
-<block:hbm:tile.dummy_block_fluidtank>, tile.dummy_block_fluidtank.name
 <block:hbm:tile.dummy_block_puf6>, tile.dummy_block_puf6.name
 <block:hbm:tile.dummy_block_refinery>, tile.dummy_block_refinery.name
 <block:hbm:tile.dummy_block_turbofan>, tile.dummy_block_turbofan.name
@@ -931,7 +932,6 @@
 <block:hbm:tile.dummy_port_assembler>, tile.dummy_port_assembler.name
 <block:hbm:tile.dummy_port_compact_launcher>, tile.dummy_port_compact_launcher.name
 <block:hbm:tile.dummy_port_drill>, tile.dummy_port_drill.name
-<block:hbm:tile.dummy_port_fluidtank>, tile.dummy_port_fluidtank.name
 <block:hbm:tile.dummy_port_launch_table>, tile.dummy_port_launch_table.name
 <block:hbm:tile.dummy_port_refinery>, tile.dummy_port_refinery.name
 <block:hbm:tile.dummy_port_turbofan>, tile.dummy_port_turbofan.name
@@ -953,9 +953,9 @@
 <block:hbm:tile.float_bomb>, 悬浮炸弹
 <block:hbm:tile.fluid_duct>, 通用流体管道
 <block:hbm:tile.fluid_duct_box>, 通用流体管道（方形）
-<block:hbm:tile.fluid_duct_gauge>, Flow Gauge Pipe
+<block:hbm:tile.fluid_duct_gauge>, 流量计管
 <block:hbm:tile.fluid_duct_neo>, 通用流体管道
-<block:hbm:tile.fluid_duct_paintable>, Paintable Coated Universal Fluid Duct
+<block:hbm:tile.fluid_duct_paintable>, 可喷漆涂层通用流体导管
 <block:hbm:tile.fluid_duct_solid>, 带涂层的通用流体导管
 <block:hbm:tile.foam_layer>, 泡沫层
 <block:hbm:tile.foundry_basin>, 铸造水池
@@ -968,7 +968,7 @@
 <block:hbm:tile.frozen_grass>, 冰冻草
 <block:hbm:tile.frozen_log>, 冰冻原木
 <block:hbm:tile.frozen_planks>, 冰冻木板
-<block:hbm:tile.furnace_combination>, Combination Oven
+<block:hbm:tile.furnace_combination>, 复式炼焦炉
 <block:hbm:tile.furnace_iron>, 铁炉
 <block:hbm:tile.furnace_steel>, 钢炉
 <block:hbm:tile.fusion_center>, 中心磁铁
@@ -1041,7 +1041,7 @@
 <block:hbm:tile.hazmat>, 防辐射布块
 <block:hbm:tile.heater_electric>, 电加热器
 <block:hbm:tile.heater_firebox>, 燃烧室
-<block:hbm:tile.heater_heatex>, Heat Exchanging Heater
+<block:hbm:tile.heater_heatex>, 换热加热器
 <block:hbm:tile.heater_oilburner>, 流体燃烧器
 <block:hbm:tile.heater_oven>, 加热炉
 <block:hbm:tile.hev_battery>, 盔甲电池
@@ -1091,7 +1091,7 @@
 <block:hbm:tile.machine_coal_off>, 火力发电机
 <block:hbm:tile.machine_coal_on>, 火力发电机
 <block:hbm:tile.machine_combine_factory>, CMB炼钢炉
-<block:hbm:tile.machine_combustion_engine>, Industrial Combustion Engine
+<block:hbm:tile.machine_combustion_engine>, 工业内燃机
 <block:hbm:tile.machine_condenser>, 蒸汽冷凝器
 <block:hbm:tile.machine_controller>, 反应堆遥控模块
 <block:hbm:tile.machine_converter_he_rf>, HE→RF转换器
@@ -1114,6 +1114,7 @@
 <block:hbm:tile.machine_electric_furnace_on>, 电炉
 <block:hbm:tile.machine_electrolyser>, tile.machine_electrolyser.name
 <block:hbm:tile.machine_epress>, 电动锻压机
+<block:hbm:tile.machine_excavator>, 大型采矿钻机
 <block:hbm:tile.machine_fel>, FEL自由电子激光器
 <block:hbm:tile.machine_fensu>, FEnSU飞轮储能系统
 <block:hbm:tile.machine_flare>, 高架火炬
@@ -1133,6 +1134,7 @@
 <block:hbm:tile.machine_mining_laser>, 采矿激光
 <block:hbm:tile.machine_minirtg>, 放射性同位素电池
 <block:hbm:tile.machine_missile_assembly>, 导弹装配台
+<block:hbm:tile.machine_mixer>, 工业搅拌机
 <block:hbm:tile.machine_nuke_furnace_off>, 核熔炉
 <block:hbm:tile.machine_nuke_furnace_on>, 核熔炉
 <block:hbm:tile.machine_orbus>, 重型磁约束储罐
@@ -1220,6 +1222,7 @@
 <block:hbm:tile.ore_aluminium>, 铝矿石
 <block:hbm:tile.ore_asbestos>, 石棉矿
 <block:hbm:tile.ore_australium>, 奥斯矿石
+<block:hbm:tile.ore_bedrock>, 基岩矿石
 <block:hbm:tile.ore_bedrock_coltan>, 基岩钶钽铁矿
 <block:hbm:tile.ore_bedrock_oil>, 基岩油层
 <block:hbm:tile.ore_beryllium>, 铍矿石
@@ -1344,6 +1347,7 @@
 <block:hbm:tile.red_barrel>, 炸药桶
 <block:hbm:tile.red_cable>, 紫铜电线
 <block:hbm:tile.red_cable_classic>, 紫铜电缆（经典型）
+<block:hbm:tile.red_cable_paintable>, 可涂漆紫铜线
 <block:hbm:tile.red_connector>, 电力连接器
 <block:hbm:tile.red_pylon>, 电线杆
 <block:hbm:tile.red_pylon_large>, 大型输电塔
@@ -1454,6 +1458,7 @@
 <block:hbm:tile.turret_jeremy>, 重炮炮塔“杰里米”
 <block:hbm:tile.turret_maxwell>, 高能微波炮塔 "麦克斯韦"
 <block:hbm:tile.turret_richard>, 火箭炮塔“理查德”
+<block:hbm:tile.turret_sentry>, Sentry Turret "Brown"
 <block:hbm:tile.turret_tauon>, XVL1456原型陶子发射器炮塔"陶恩"
 <block:hbm:tile.vacuum>, 真空
 <block:hbm:tile.vault_door>, 避难所防爆门
@@ -2693,58 +2698,66 @@
 <block:openmodularturrets:relativisticTurret>, 相位力场炮塔
 <block:openmodularturrets:rocketTurret>, 火箭发射炮塔
 <block:openmodularturrets:teleporterTurret>, 传送炮塔
-<block:securitycraft:alarm>, Alarm
+<block:securitycraft:alarm>, 报警器
 <block:securitycraft:alarmLit>, tile.securitycraft:alarmLit.name
-<block:securitycraft:bogusLava>, Fake Lava
+<block:securitycraft:blockPocketManager>, Block Pocket Manager
+<block:securitycraft:blockPocketWall>, Block Pocket Wall
+<block:securitycraft:bogusLava>, 假熔岩
 <block:securitycraft:bogusLavaFlowing>, tile.securitycraft:bogusLavaFlowing.name
-<block:securitycraft:bogusWater>, Fake Water
+<block:securitycraft:bogusWater>, 假熔水
 <block:securitycraft:bogusWaterFlowing>, tile.securitycraft:bogusWaterFlowing.name
-<block:securitycraft:bouncingBetty>, Bouncing Betty
-<block:securitycraft:cageTrap>, Cage Trap
-<block:securitycraft:claymoreActive>, Claymore
-<block:securitycraft:claymoreDefused>, Claymore
-<block:securitycraft:cobblestoneMine>, Cobblestone Mine
-<block:securitycraft:deactivatedCageTrap>, Deactivated Cage Trap
-<block:securitycraft:diamondMine>, Diamond Ore Mine
-<block:securitycraft:dirtMine>, Dirt Mine
-<block:securitycraft:furnaceMine>, Furnace Mine
-<block:securitycraft:gravelMine>, Gravel Mine
+<block:securitycraft:bouncingBetty>, 弹跳贝蒂
+<block:securitycraft:cageTrap>, 陷阱笼
+<block:securitycraft:claymoreActive>, 阔剑地雷
+<block:securitycraft:claymoreDefused>, 阔剑地雷
+<block:securitycraft:cobblestoneMine>, 圆石地雷
+<block:securitycraft:crystalQuartz>, Crystal Quartz Blocks
+<block:securitycraft:crystalQuartzSlab>, Crystal Quartz Slab
+<block:securitycraft:deactivatedCageTrap>, 停用的陷阱笼
+<block:securitycraft:diamondMine>, 钻石矿石地雷
+<block:securitycraft:dirtMine>, 泥土地雷
+<block:securitycraft:doubleCrystalQuartzSlab>, tile.securitycraft:doubleCrystalQuartzSlab.name
+<block:securitycraft:furnaceMine>, 熔炉地雷
+<block:securitycraft:gravelMine>, 沙砾地雷
 <block:securitycraft:ims>, Intelligent Munitions System 
-<block:securitycraft:inventoryScanner>, Inventory Scanner
-<block:securitycraft:inventoryScannerField>, Inventory Scanner Field
-<block:securitycraft:ironDoorReinforced>, Reinforced Door
-<block:securitycraft:ironTrapdoor>, Iron Trapdoor
-<block:securitycraft:keycardReader>, Keycard Reader
-<block:securitycraft:keypad>, Keypad
-<block:securitycraft:keypadChest>, Password-protected Chest
-<block:securitycraft:keypadFrame>, Frame
-<block:securitycraft:keypadFurnace>, Password-protected Furnace
-<block:securitycraft:laser>, Laser 
-<block:securitycraft:laserBlock>, Laser Block 
-<block:securitycraft:mine>, Mine
+<block:securitycraft:inventoryScanner>, 物品栏扫描器
+<block:securitycraft:inventoryScannerField>, 物品栏扫描器列表
+<block:securitycraft:ironDoorReinforced>, 强化门
+<block:securitycraft:ironTrapdoor>, 强化铁活板门
+<block:securitycraft:keycardReader>, 钥匙卡读卡器
+<block:securitycraft:keypad>, 小键盘
+<block:securitycraft:keypadChest>, 密码箱
+<block:securitycraft:keypadFrame>, 框架
+<block:securitycraft:keypadFurnace>, 密码炉
+<block:securitycraft:laser>, 激光
+<block:securitycraft:laserBlock>, 激光方块
+<block:securitycraft:mine>, 地雷
 <block:securitycraft:mineCut>, tile.securitycraft:mineCut.name
 <block:securitycraft:motionActivatedLightOff>, Motion-Activated Light
 <block:securitycraft:motionActivatedLightOn>, Motion-Activated Light
-<block:securitycraft:panicButton>, Panic Button
-<block:securitycraft:portableRadar>, Portable Radar
-<block:securitycraft:protecto>, Protecto
+<block:securitycraft:panicButton>, 紧急按钮
+<block:securitycraft:portableRadar>, 便携式雷达
+<block:securitycraft:protecto>, 防火墙
 <block:securitycraft:reinforcedBrick>, Reinforced Bricks
 <block:securitycraft:reinforcedCarpet>, tile.securitycraft:reinforcedCarpet.name
 <block:securitycraft:reinforcedCobblestone>, Reinforced Cobblestone
 <block:securitycraft:reinforcedCompressedBlocks>, tile.securitycraft:reinforcedCompressedBlocks.name
+<block:securitycraft:reinforcedCrystalQuartz>, Reinforced Crystal Quartz Blocks
+<block:securitycraft:reinforcedCrystalQuartzSlab>, Reinforced Crystal Quartz Slab
 <block:securitycraft:reinforcedDirt>, Reinforced Dirt
 <block:securitycraft:reinforcedDirtSlab>, Reinforced Dirt Slab
+<block:securitycraft:reinforcedDoubleCrystalQuartzSlab>, tile.securitycraft:reinforcedDoubleCrystalQuartzSlab.name
 <block:securitycraft:reinforcedDoubleDirtSlab>, tile.securitycraft:reinforcedDoubleDirtSlab.name
 <block:securitycraft:reinforcedDoubleStoneSlabs>, tile.securitycraft:reinforcedDoubleStoneSlabs.name
 <block:securitycraft:reinforcedDoubleWoodSlabs>, tile.securitycraft:reinforcedDoubleWoodSlabs.name
 <block:securitycraft:reinforcedEndStone>, Reinforced End Stone
 <block:securitycraft:reinforcedFenceGate>, Electrified Iron Fence Gate
-<block:securitycraft:reinforcedGlass>, Reinforced Glass Pane
+<block:securitycraft:reinforcedGlass>, 强化玻璃板
 <block:securitycraft:reinforcedGlassBlock>, Reinforced Glass
 <block:securitycraft:reinforcedGlowstone>, Reinforced Glowstone
 <block:securitycraft:reinforcedGravel>, Reinforced Gravel
 <block:securitycraft:reinforcedHardenedClay>, Reinforced Hardened Clay
-<block:securitycraft:reinforcedIronBars>, Reinforced Iron Bars
+<block:securitycraft:reinforcedIronBars>, 强化铁栏杆
 <block:securitycraft:reinforcedLogs>, tile.securitycraft:reinforcedLogs.name
 <block:securitycraft:reinforcedLogs2>, tile.securitycraft:reinforcedLogs2.name
 <block:securitycraft:reinforcedMetals>, tile.securitycraft:reinforcedMetals.name
@@ -2758,11 +2771,12 @@
 <block:securitycraft:reinforcedSandstone>, Reinforced Sandstone
 <block:securitycraft:reinforcedStainedGlass>, Reinforced Stained Glass
 <block:securitycraft:reinforcedStainedGlassPanes>, Reinforced Stained Glass Panes
-<block:securitycraft:reinforcedStainedHardenedClay>, Reinforced Stained Clay
+<block:securitycraft:reinforcedStainedHardenedClay>, 强化陶瓦
 <block:securitycraft:reinforcedStairsAcacia>, Reinforced Acacia Stairs
 <block:securitycraft:reinforcedStairsBirch>, Reinforced Birch Stairs
 <block:securitycraft:reinforcedStairsBrick>, Reinforced Brick Stairs
 <block:securitycraft:reinforcedStairsCobblestone>, Reinforced Cobblestone Stairs
+<block:securitycraft:reinforcedStairsCrystalQuartz>, Reinforced Crystal Quartz Stairs
 <block:securitycraft:reinforcedStairsDarkoak>, Reinforced Dark Oak Stairs
 <block:securitycraft:reinforcedStairsJungle>, Reinforced Jungle Stairs
 <block:securitycraft:reinforcedStairsNetherBrick>, Reinforced Nether Brick Stairs
@@ -2777,16 +2791,19 @@
 <block:securitycraft:reinforcedStoneSlabs>, Reinforced Stone Slabs
 <block:securitycraft:reinforcedWoodSlabs>, Reinforced Wood Slabs
 <block:securitycraft:reinforcedWool>, tile.securitycraft:reinforcedWool.name
-<block:securitycraft:retinalScanner>, Retinal Scanner
-<block:securitycraft:sandMine>, Sand Mine
+<block:securitycraft:reinforced_stone_pressure_plate>, Reinforced Stone Pressure Plate
+<block:securitycraft:retinalScanner>, 视网膜扫描仪
+<block:securitycraft:sandMine>, 沙子地雷
 <block:securitycraft:scIronFence>, Electrified Iron Fence
-<block:securitycraft:scannerDoor>, Scanner Door
+<block:securitycraft:scannerDoor>, 安全门
 <block:securitycraft:secretSignStanding>, tile.securitycraft:secretSign.name
 <block:securitycraft:secretSignWall>, tile.securitycraft:secretSign.name
-<block:securitycraft:securityCamera>, Security Camera
-<block:securitycraft:stoneMine>, Stone Mine
-<block:securitycraft:trackMine>, Track Mine
-<block:securitycraft:usernameLogger>, Username Logger
+<block:securitycraft:securityCamera>, 安防摄像头
+<block:securitycraft:stairsCrystalQuartz>, Crystal Quartz Stairs
+<block:securitycraft:stoneMine>, 石头地雷
+<block:securitycraft:trackMine>, 铁轨地雷
+<block:securitycraft:trophySystem>, Trophy System
+<block:securitycraft:usernameLogger>, 用户名记录器
 <block:stm:BlockSuperBlock>, 超级块
 <block:stm:BlockSuperOre>, 超级矿石
 <block:stm:BlockSuperXRay>, 超级X光块

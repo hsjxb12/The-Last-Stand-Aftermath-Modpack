@@ -32,11 +32,13 @@ Ore entries for <ore:treeLeaves> :
 Ore entries for <ore:oreGold> :
     <minecraft:gold_ore>
     <hbm:tile.ore_gneiss_gold>
+    <hbm:item.ore_enriched:7>
 Ore entries for <ore:oreIron> :
     <minecraft:iron_ore>
     <GalacticraftMars:tile.asteroidsBlock:5>
     <GalacticraftMars:tile.mars:3>
     <hbm:tile.ore_gneiss_iron>
+    <hbm:item.ore_enriched>
 Ore entries for <ore:oreLapis> :
     <minecraft:lapis_ore>
 Ore entries for <ore:oreDiamond> :
@@ -379,6 +381,7 @@ Ore entries for <ore:oreCopper> :
     <hbm:tile.ore_copper>
     <hbm:tile.ore_gneiss_copper>
     <hbm:tile.ore_meteor_copper>
+    <hbm:item.ore_enriched:1>
 Ore entries for <ore:oreTin> :
     <GalacticraftCore:tile.gcBlockCore:6>
     <GalacticraftCore:tile.moonBlock:1>
@@ -441,8 +444,6 @@ Ore entries for <ore:shardIron> :
     <GalacticraftMars:item.itemBasicAsteroids:3>
 Ore entries for <ore:plateCopper> :
     <hbm:item.plate_copper>
-Ore entries for <ore:ingotAsbestos> :
-    <hbm:item.ingot_asbestos>
 Ore entries for <ore:plateIron> :
     <hbm:item.plate_iron>
 Ore entries for <ore:plateLead> :
@@ -464,6 +465,8 @@ Ore entries for <ore:ingotAnyPlastic> :
     <hbm:item.ingot_bakelite>
 Ore entries for <ore:ingotFiberglass> :
     <hbm:item.ingot_fiberglass>
+Ore entries for <ore:ingotAsbestos> :
+    <hbm:item.ingot_asbestos>
 Ore entries for <ore:dustLapis> :
     <hbm:item.powder_lapis>
 Ore entries for <ore:plateSteel> :
@@ -490,7 +493,6 @@ Ore entries for <ore:dustSulfur> :
     <mw:SulfureDust>
     <hbm:item.sulfur>
 Ore entries for <ore:ingotSteel> :
-    <mw:SteelIngot>
     <hbm:item.ingot_steel>
 Ore entries for <ore:blockWorkersAlloy> :
     <hbm:tile.block_desh>
@@ -1014,13 +1016,17 @@ Ore entries for <ore:drawerBasic> :
     <StorageDrawers:fullDrawers4:*>
     <StorageDrawers:halfDrawers2:*>
     <StorageDrawers:halfDrawers4:*>
-Ore entries for <ore:fieryIngot> :
+Ore entries for <ore:ingotFiery> :
     <TwilightForest:item.fieryIngot>
-Ore entries for <ore:ironwood> :
+Ore entries for <ore:oreIronwood> :
+    <TwilightForest:item.ironwoodRaw>
+Ore entries for <ore:ingotIronwood> :
     <TwilightForest:item.ironwoodIngot>
-Ore entries for <ore:steeleaf> :
+Ore entries for <ore:ingotSteeleaf> :
     <TwilightForest:item.steeleafIngot>
-Ore entries for <ore:knightmetal> :
+Ore entries for <ore:oreKnightmetal> :
+    <TwilightForest:item.shardCluster>
+Ore entries for <ore:ingotKnightmetal> :
     <TwilightForest:item.knightMetal>
 Ore entries for <ore:stainedClayWhite> :
     <minecraft:stained_hardened_clay>
@@ -1561,6 +1567,7 @@ Ore entries for <ore:blockTitanium> :
 Ore entries for <ore:oreTitanium> :
     <hbm:tile.ore_titanium>
     <hbm:tile.ore_meteor_titanium>
+    <hbm:item.ore_enriched:5>
 Ore entries for <ore:Copper> :
     <hbm:item.ingot_copper>
 Ore entries for <ore:blockCopper> :
@@ -1581,6 +1588,7 @@ Ore entries for <ore:oreTungsten> :
     <hbm:tile.ore_tungsten>
     <hbm:tile.ore_nether_tungsten>
     <hbm:tile.ore_meteor_tungsten>
+    <hbm:item.ore_enriched:6>
 Ore entries for <ore:oreNetherTungsten> :
     <hbm:tile.ore_nether_tungsten>
 Ore entries for <ore:Aluminum> :
@@ -1748,6 +1756,7 @@ Ore entries for <ore:oreAsbestos> :
     <hbm:tile.ore_gneiss_asbestos>
     <hbm:tile.basalt_asbestos>
     <hbm:tile.stone_resource:1>
+    <hbm:item.ore_enriched:3>
 Ore entries for <ore:nuggetOsmiridium> :
     <hbm:item.nugget_osmiridium>
 Ore entries for <ore:tinyOsmiridium> :
@@ -1777,10 +1786,16 @@ Ore entries for <ore:oreLignite> :
     <hbm:tile.ore_lignite>
 Ore entries for <ore:gemCoalCoke> :
     <hbm:item.coke>
+Ore entries for <ore:blockCoalCoke> :
+    <hbm:tile.block_coke>
 Ore entries for <ore:gemPetCoke> :
     <hbm:item.coke:2>
+Ore entries for <ore:blockPetCoke> :
+    <hbm:tile.block_coke:2>
 Ore entries for <ore:gemLigniteCoke> :
     <hbm:item.coke:1>
+Ore entries for <ore:blockLigniteCoke> :
+    <hbm:tile.block_coke:1>
 Ore entries for <ore:gemCinnabar> :
     <hbm:item.cinnebar>
 Ore entries for <ore:oreCinnabar> :
@@ -1788,6 +1803,7 @@ Ore entries for <ore:oreCinnabar> :
     <hbm:tile.ore_depth_cinnebar>
 Ore entries for <ore:oreBorax> :
     <hbm:tile.ore_depth_borax>
+    <hbm:item.ore_enriched:2>
 Ore entries for <ore:oreVolcanic> :
     <hbm:tile.basalt_gem>
 Ore entries for <ore:oreHematite> :
@@ -2007,6 +2023,14 @@ Ore entries for <ore:gemCoke> :
     <hbm:item.coke>
     <hbm:item.coke:1>
     <hbm:item.coke:2>
+Ore entries for <ore:blockAnyCoke> :
+    <hbm:tile.block_coke>
+    <hbm:tile.block_coke:1>
+    <hbm:tile.block_coke:2>
+Ore entries for <ore:blockCoke> :
+    <hbm:tile.block_coke>
+    <hbm:tile.block_coke:1>
+    <hbm:tile.block_coke:2>
 Ore entries for <ore:ingotAnyBismoid> :
     <hbm:item.ingot_bismuth>
     <hbm:item.ingot_arsenic>
@@ -2038,6 +2062,8 @@ Ore entries for <ore:ntmuniversalbarrel> :
 Ore entries for <ore:ntmhanddrill> :
     <hbm:item.hand_drill:*>
     <hbm:item.hand_drill_desh:*>
+Ore entries for <ore:oreNiobium> :
+    <hbm:item.ore_enriched:4>
 Ore entries for <ore:itemRubber> :
     <hbm:item.ingot_rubber>
 Ore entries for <ore:coalCoke> :
