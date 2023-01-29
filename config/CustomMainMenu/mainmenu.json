@@ -2,11 +2,11 @@
     "images": {
         "title":
         {
-            "image" : "custommainmenu:textures/gui/minecraft.png",
-            "posX" : -137,
+            "image" : "tlba:textures/The-Last-Stand.png",
+            "posX" : -162.75,
             "posY" : 50,
-            "width" : 512,
-            "height" : 512,
+            "width" : 325.5,
+            "height" : 72.5,
             "alignment" : "top_center"
         }
     },
