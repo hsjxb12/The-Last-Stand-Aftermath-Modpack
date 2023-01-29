@@ -10,3 +10,8 @@
 - 添加 Better Questing 与它的 Standard Expansion 与 Quest Book 扩展，为任务做准备。
 - 使用 CustomNPC+ 代替 Custom Npcs
 - 将整合包名改为 The Last Stand : Aftermath
+
+## 1.2.1
+- 添加 HardCore Map Reset 添加了默认生成地图
+- 优化了默认地图
+- 更改了主界面的logo
