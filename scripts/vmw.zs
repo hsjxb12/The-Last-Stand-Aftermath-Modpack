@@ -6,8 +6,6 @@ val bottle = <minecraft:glass_bottle>;
 val tnt = <minecraft:tnt>;
 val gunpowder = <minecraft:gunpowder>;
 
-ingot_steel.remove(<mw:SteelIngot>);
-
 // M40 Gas Mask
 recipes.addShaped(<mw:m40gasmask_helmet>, [[<minecraft:iron_bars>,<minecraft:stained_glass_pane>,<minecraft:iron_bars>],[ingot_steel,<ovo:filter>,ingot_steel],[ingot_steel,<minecraft:web>,ingot_steel]]); 
 // Filter
