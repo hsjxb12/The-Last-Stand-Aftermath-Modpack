@@ -32,7 +32,7 @@ general {
     I:structure-generation-chance=5
 
     # Should DayZ thirst be enabled?
-    B:thirst-enabled=true
+    B:thirst-enabled=false
 }
 
 
