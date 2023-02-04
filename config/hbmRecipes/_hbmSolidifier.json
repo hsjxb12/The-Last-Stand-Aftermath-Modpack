@@ -1,103 +1,23 @@
 {
   "recipes": [
     {
-      "input": ["BITUMEN",100],
-      "output": ["hbm:item.oil_tar"]
-    },
-    {
-      "input": ["LIGHTOIL",120],
-      "output": ["hbm:item.solid_fuel"]
-    },
-    {
-      "input": ["KEROSENE",70],
-      "output": ["hbm:item.solid_fuel"]
-    },
-    {
-      "input": ["COALOIL",200],
-      "output": ["hbm:item.oil_tar",1,2]
-    },
-    {
-      "input": ["HEAVYOIL",150],
-      "output": ["hbm:item.oil_tar"]
-    },
-    {
-      "input": ["PETROIL",1300],
-      "output": ["hbm:item.solid_fuel"]
-    },
-    {
-      "input": ["BIOGAS",2800],
-      "output": ["hbm:item.solid_fuel"]
-    },
-    {
-      "input": ["NAPHTHA",1600],
-      "output": ["hbm:item.solid_fuel"]
+      "input": ["MERCURY",125],
+      "output": ["hbm:item.nugget_mercury"]
     },
     {
       "input": ["COALCREOSOTE",200],
       "output": ["hbm:item.oil_tar",1,2]
     },
     {
-      "input": ["DIESEL",320],
-      "output": ["hbm:item.solid_fuel"]
-    },
-    {
-      "input": ["DIESEL_CRACK",340],
-      "output": ["hbm:item.solid_fuel"]
-    },
-    {
-      "input": ["OIL",200],
-      "output": ["hbm:item.oil_tar"]
-    },
-    {
-      "input": ["BIOFUEL",360],
-      "output": ["hbm:item.solid_fuel"]
-    },
-    {
-      "input": ["MERCURY",125],
-      "output": ["hbm:item.nugget_mercury"]
-    },
-    {
-      "input": ["LIGHTOIL_CRACK",190],
-      "output": ["hbm:item.solid_fuel"]
-    },
-    {
-      "input": ["GAS",3600],
-      "output": ["hbm:item.solid_fuel"]
-    },
-    {
-      "input": ["BALEFIRE",110],
-      "output": ["hbm:item.solid_fuel_bf"]
-    },
-    {
-      "input": ["NAPHTHA_CRACK",2000],
-      "output": ["hbm:item.solid_fuel"]
-    },
-    {
-      "input": ["WATER",1000],
-      "output": ["minecraft:ice"]
-    },
-    {
-      "input": ["ENDERJUICE",100],
-      "output": ["minecraft:ender_pearl"]
-    },
-    {
-      "input": ["RECLAIMED",1500],
-      "output": ["hbm:item.solid_fuel"]
-    },
-    {
-      "input": ["CRACKOIL",200],
-      "output": ["hbm:item.oil_tar",1,1]
-    },
-    {
-      "input": ["UNSATURATEDS",49],
-      "output": ["hbm:item.solid_fuel"]
-    },
-    {
       "input": ["WOODOIL",1000],
       "output": ["hbm:item.oil_tar",1,3]
     },
     {
-      "input": ["LPG",49],
+      "input": ["LUBRICANT",125],
+      "output": ["hbm:item.solid_fuel"]
+    },
+    {
+      "input": ["UNSATURATEDS",49],
       "output": ["hbm:item.solid_fuel"]
     },
     {
@@ -105,16 +25,28 @@
       "output": ["minecraft:obsidian"]
     },
     {
-      "input": ["LUBRICANT",125],
+      "input": ["KEROSENE",70],
       "output": ["hbm:item.solid_fuel"]
     },
     {
-      "input": ["SMEAR",2100],
+      "input": ["PETROIL",1300],
       "output": ["hbm:item.solid_fuel"]
     },
     {
-      "input": ["AROMATICS",390],
+      "input": ["GAS",3600],
       "output": ["hbm:item.solid_fuel"]
+    },
+    {
+      "input": ["BIOGAS",2800],
+      "output": ["hbm:item.solid_fuel"]
+    },
+    {
+      "input": ["LIGHTOIL",120],
+      "output": ["hbm:item.solid_fuel"]
+    },
+    {
+      "input": ["WATER",1000],
+      "output": ["minecraft:ice"]
     },
     {
       "input": ["SALIENT",1280],
@@ -125,7 +57,75 @@
       "output": ["hbm:item.solid_fuel"]
     },
     {
+      "input": ["RECLAIMED",1500],
+      "output": ["hbm:item.solid_fuel"]
+    },
+    {
+      "input": ["DIESEL",320],
+      "output": ["hbm:item.solid_fuel"]
+    },
+    {
+      "input": ["ENDERJUICE",100],
+      "output": ["minecraft:ender_pearl"]
+    },
+    {
+      "input": ["DIESEL_CRACK",340],
+      "output": ["hbm:item.solid_fuel"]
+    },
+    {
+      "input": ["HEAVYOIL",150],
+      "output": ["hbm:item.oil_tar"]
+    },
+    {
+      "input": ["SMEAR",2100],
+      "output": ["hbm:item.solid_fuel"]
+    },
+    {
+      "input": ["OIL",200],
+      "output": ["hbm:item.oil_tar"]
+    },
+    {
+      "input": ["BALEFIRE",110],
+      "output": ["hbm:item.solid_fuel_bf"]
+    },
+    {
+      "input": ["NAPHTHA_CRACK",2000],
+      "output": ["hbm:item.solid_fuel"]
+    },
+    {
+      "input": ["COALOIL",200],
+      "output": ["hbm:item.oil_tar",1,2]
+    },
+    {
       "input": ["PETROLEUM",100],
+      "output": ["hbm:item.solid_fuel"]
+    },
+    {
+      "input": ["NAPHTHA",1600],
+      "output": ["hbm:item.solid_fuel"]
+    },
+    {
+      "input": ["LIGHTOIL_CRACK",190],
+      "output": ["hbm:item.solid_fuel"]
+    },
+    {
+      "input": ["CRACKOIL",200],
+      "output": ["hbm:item.oil_tar",1,1]
+    },
+    {
+      "input": ["AROMATICS",390],
+      "output": ["hbm:item.solid_fuel"]
+    },
+    {
+      "input": ["LPG",49],
+      "output": ["hbm:item.solid_fuel"]
+    },
+    {
+      "input": ["BITUMEN",100],
+      "output": ["hbm:item.oil_tar"]
+    },
+    {
+      "input": ["BIOFUEL",360],
       "output": ["hbm:item.solid_fuel"]
     }
   ]
