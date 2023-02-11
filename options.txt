@@ -3,7 +3,7 @@ mouseSensitivity:0.5
 fov:0.5
 gamma:1.0
 saturation:0.0
-renderDistance:16
+renderDistance:8
 guiScale:3
 particles:0
 bobView:true
@@ -11,11 +11,11 @@ anaglyph3d:false
 advancedOpengl:true
 maxFps:90
 fboEnable:true
-difficulty:0
+difficulty:1
 fancyGraphics:true
 ao:2
 clouds:false
-resourcePacks:["VMW纹理与翻译补充资源包","The Last Battle 汉化资源包"]
+resourcePacks:["TLSAftermath-Language-Package-v23.02.01.zip"]
 lastServer:55595
 lang:zh_CN
 chatVisibility:0
@@ -99,7 +99,7 @@ key_hbm.key.craneMoveLeft:203
 key_hbm.key.craneMoveRight:205
 key_hbm.key.craneLoad:28
 key_ingameinfoxml.key.toggle:0
-key_key.reload:19
+key_key.reload:21
 key_key.unload:22
 key_key.inspect:25
 key_key.attachment:50
@@ -145,7 +145,7 @@ key_key.journeymap.minimap_preset:43
 key_key.journeymap.create_waypoint:210
 key_BetterFps:88
 key_key.portaitreposition:52
-soundCategory_master:1.0
+soundCategory_master:0.5066225
 soundCategory_music:0.35211268
 soundCategory_record:1.0
 soundCategory_weather:1.0
