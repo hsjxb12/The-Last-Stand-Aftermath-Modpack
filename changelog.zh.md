@@ -30,3 +30,12 @@
 
 - [BUG]补全mw材质
 - [BUG]清零地图天数
+
+## 1.3.0-pre1
+
+- 更新NEI2至2.3.28
+- 将questbook升级至GTNH版本
+- CodeChickenCore升级至1.1.11
+- CodeChickenLib升级至1.1.8
+- 升级HBM's Nuclear Tech至X4501
+- 添加饥饿改革1.0.0
