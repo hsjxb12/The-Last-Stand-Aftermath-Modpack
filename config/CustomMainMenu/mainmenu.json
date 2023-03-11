@@ -97,7 +97,7 @@
     },
     "texts": {
         "mojang": {
-            "text": "Forge #forgeversion# for Minecraft #mcversion# - Copyright Mojang AB. Do not distribute!",
+            "text": "Forge #forgeversion# for Minecraft #mcversion# - Copyright Mojang AB. Don't distribute!",
             "posX": 2,
             "posY": -10,
             "color": -1,
