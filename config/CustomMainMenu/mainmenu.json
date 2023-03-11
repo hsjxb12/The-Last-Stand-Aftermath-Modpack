@@ -2,7 +2,7 @@
     "images": {
         "title":
         {
-            "image" : "tlba:textures/The-Last-Stand.png",
+            "image" : "lsa:textures/The-Last-Stand.png",
             "posX" : -162.75,
             "posY" : 50,
             "width" : 325.5,
@@ -127,11 +127,11 @@
 			"image": "",
 			"slideshow": {
 				"images": [
-					"tlba:textures/01.png",
-                    "tlba:textures/02.png",
-                    "tlba:textures/03.png",
-                    "tlba:textures/04.png",
-                    "tlba:textures/05.png"
+					"lsa:textures/01.png",
+                    "lsa:textures/02.png",
+                    "lsa:textures/03.png",
+                    "lsa:textures/04.png",
+                    "lsa:textures/05.png"
 				],
 				"displayDuration": 150,
 				"fadeDuration": 40
