@@ -3,13 +3,13 @@
   "recipes": [
     {
       "particle": ["hbm:item.part_lithium"],
-      "input": ["dict","dustBeryllium",1],
+      "input": ["dict","dustBeryllium"],
       "output": ["hbm:item.powder_boron"],
       "antimatter": 50
     },
     {
       "particle": ["hbm:item.part_plutonium"],
-      "input": ["dict","dustPlutonium",1],
+      "input": ["dict","dustPlutonium"],
       "output": ["hbm:item.powder_tennessine"],
       "antimatter": 100
     },
@@ -21,13 +21,13 @@
     },
     {
       "particle": ["hbm:item.part_lithium"],
-      "input": ["dict","dustLithium",1],
+      "input": ["dict","dustLithium"],
       "output": ["hbm:item.powder_beryllium"],
       "antimatter": 50
     },
     {
       "particle": ["hbm:item.part_lithium"],
-      "input": ["dict","dustBoron",1],
+      "input": ["dict","dustBoron"],
       "output": ["hbm:item.powder_coal"],
       "antimatter": 50
     },
@@ -45,25 +45,25 @@
     },
     {
       "particle": ["hbm:item.part_lithium"],
-      "input": ["dict","dustPolonium",1],
+      "input": ["dict","dustPolonium"],
       "output": ["hbm:item.powder_astatine"],
       "antimatter": 50
     },
     {
       "particle": ["hbm:item.part_carbon"],
-      "input": ["dict","dustSulfur",1],
+      "input": ["dict","dustSulfur"],
       "output": ["hbm:item.powder_titanium"],
       "antimatter": 10
     },
     {
       "particle": ["hbm:item.part_copper"],
-      "input": ["dict","dustCoal",1],
+      "input": ["dict","dustCoal"],
       "output": ["hbm:item.powder_bromine"],
       "antimatter": 15
     },
     {
       "particle": ["hbm:item.part_carbon"],
-      "input": ["dict","dustBoron",1],
+      "input": ["dict","dustBoron"],
       "output": ["hbm:item.powder_aluminium"],
       "antimatter": 10
     },
@@ -81,7 +81,7 @@
     },
     {
       "particle": ["hbm:item.part_copper"],
-      "input": ["dict","dustTitanium",1],
+      "input": ["dict","dustTitanium"],
       "output": ["hbm:item.powder_strontium"],
       "antimatter": 15
     },
@@ -93,7 +93,7 @@
     },
     {
       "particle": ["hbm:item.part_copper"],
-      "input": ["dict","dustBeryllium",1],
+      "input": ["dict","dustBeryllium"],
       "output": ["hbm:item.powder_quartz"],
       "antimatter": 15
     },
@@ -105,13 +105,13 @@
     },
     {
       "particle": ["hbm:item.part_lithium"],
-      "input": ["dict","dustUranium",1],
+      "input": ["dict","dustUranium"],
       "output": ["hbm:item.powder_neptunium"],
       "antimatter": 50
     },
     {
       "particle": ["hbm:item.part_beryllium"],
-      "input": ["dict","dustTitanium",1],
+      "input": ["dict","dustTitanium"],
       "output": ["hbm:item.powder_iron"],
       "antimatter": 25
     },
@@ -123,7 +123,7 @@
     },
     {
       "particle": ["hbm:item.part_lithium"],
-      "input": ["dict","dustLanthanium",1],
+      "input": ["dict","dustLanthanium"],
       "output": ["hbm:item.powder_cerium"],
       "antimatter": 50
     },
@@ -141,19 +141,19 @@
     },
     {
       "particle": ["hbm:item.part_copper"],
-      "input": ["dict","dustGold",1],
+      "input": ["dict","dustGold"],
       "output": ["hbm:item.powder_uranium"],
       "antimatter": 15
     },
     {
       "particle": ["hbm:item.part_beryllium"],
-      "input": ["dict","dustNetherQuartz",1],
+      "input": ["dict","dustNetherQuartz"],
       "output": ["hbm:item.sulfur"],
       "antimatter": 25
     },
     {
       "particle": ["hbm:item.part_carbon"],
-      "input": ["dict","dustTitanium",1],
+      "input": ["dict","dustTitanium"],
       "output": ["hbm:item.powder_cobalt"],
       "antimatter": 10
     },
@@ -171,13 +171,13 @@
     },
     {
       "particle": ["hbm:item.part_copper"],
-      "input": ["dict","dustIron",1],
+      "input": ["dict","dustIron"],
       "output": ["hbm:item.powder_niobium"],
       "antimatter": 15
     },
     {
       "particle": ["hbm:item.part_lithium"],
-      "input": ["dict","dustGold",1],
+      "input": ["dict","dustGold"],
       "output": ["hbm:item.nugget_mercury"],
       "antimatter": 50
     },
@@ -189,13 +189,13 @@
     },
     {
       "particle": ["hbm:item.part_lithium"],
-      "input": ["dict","dustPhosphorus",1],
+      "input": ["dict","dustPhosphorus"],
       "output": ["hbm:item.sulfur"],
       "antimatter": 50
     },
     {
       "particle": ["hbm:item.part_lithium"],
-      "input": ["dict","dustIron",1],
+      "input": ["dict","dustIron"],
       "output": ["hbm:item.powder_cobalt"],
       "antimatter": 50
     },
@@ -213,13 +213,13 @@
     },
     {
       "particle": ["hbm:item.part_plutonium"],
-      "input": ["dict","dustPhosphorus",1],
+      "input": ["dict","dustPhosphorus"],
       "output": ["hbm:item.powder_tennessine"],
       "antimatter": 100
     },
     {
       "particle": ["hbm:item.part_beryllium"],
-      "input": ["dict","dustCobalt",1],
+      "input": ["dict","dustCobalt"],
       "output": ["hbm:item.powder_copper"],
       "antimatter": 25
     },
@@ -243,7 +243,7 @@
     },
     {
       "particle": ["hbm:item.part_beryllium"],
-      "input": ["dict","dustThorium",1],
+      "input": ["dict","dustThorium"],
       "output": ["hbm:item.powder_uranium"],
       "antimatter": 25
     },
@@ -255,25 +255,25 @@
     },
     {
       "particle": ["hbm:item.part_beryllium"],
-      "input": ["dict","dustLithium",1],
+      "input": ["dict","dustLithium"],
       "output": ["hbm:item.powder_boron"],
       "antimatter": 25
     },
     {
       "particle": ["hbm:item.part_lithium"],
-      "input": ["dict","dustNetherQuartz",1],
+      "input": ["dict","dustNetherQuartz"],
       "output": ["hbm:item.powder_fire"],
       "antimatter": 50
     },
     {
       "particle": ["hbm:item.part_lithium"],
-      "input": ["dict","dustActinium",1],
+      "input": ["dict","dustActinium"],
       "output": ["hbm:item.powder_thorium"],
       "antimatter": 50
     },
     {
       "particle": ["hbm:item.part_lithium"],
-      "input": ["dict","dustNeptunium",1],
+      "input": ["dict","dustNeptunium"],
       "output": ["hbm:item.powder_plutonium"],
       "antimatter": 50
     },

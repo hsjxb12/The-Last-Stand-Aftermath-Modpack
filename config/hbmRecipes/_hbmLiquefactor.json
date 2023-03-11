@@ -6,7 +6,7 @@
       "output": ["BIOGAS",125]
     },
     {
-      "input": ["dict","dustCoal",1],
+      "input": ["dict","dustCoal"],
       "output": ["COALOIL",100]
     },
     {
@@ -22,11 +22,11 @@
       "output": ["LAVA",500]
     },
     {
-      "input": ["dict","cracktar",1],
+      "input": ["dict","cracktar"],
       "output": ["BITUMEN",100]
     },
     {
-      "input": ["dict","logWood",1],
+      "input": ["dict","logWood"],
       "output": ["MUG",100]
     },
     {
@@ -46,7 +46,7 @@
       "output": ["SEEDSLURRY",100]
     },
     {
-      "input": ["dict","coaltar",1],
+      "input": ["dict","coaltar"],
       "output": ["BITUMEN",50]
     },
     {
@@ -62,15 +62,19 @@
       "output": ["SEEDSLURRY",100]
     },
     {
-      "input": ["dict","gemLignite",1],
+      "input": ["dict","dustSaltpeter"],
+      "output": ["NITRIC_ACID",250]
+    },
+    {
+      "input": ["dict","gemLignite"],
       "output": ["COALOIL",50]
     },
     {
-      "input": ["dict","dustLignite",1],
+      "input": ["dict","dustLignite"],
       "output": ["COALOIL",50]
     },
     {
-      "input": ["dict","oiltar",1],
+      "input": ["dict","oiltar"],
       "output": ["BITUMEN",75]
     },
     {
@@ -86,7 +90,7 @@
       "output": ["ETHANOL",100]
     },
     {
-      "input": ["dict","gemCoal",1],
+      "input": ["dict","gemCoal"],
       "output": ["COALOIL",100]
     },
     {

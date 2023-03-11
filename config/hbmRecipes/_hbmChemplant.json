@@ -104,7 +104,7 @@
       "fluidInput": [],
       "itemInput": [
         ["item","hbm:tile.ore_oil_sand",16],
-        ["dict","anyTar",1]
+        ["dict","anyTar"]
       ],
       "fluidOutput": [
         ["BITUMEN",1000]
@@ -140,7 +140,7 @@
         ["WATER",1800]
       ],
       "itemInput": [
-        ["dict","dustSaltpeter",1]
+        ["dict","dustSaltpeter"]
       ],
       "fluidOutput": [
         ["COOLANT",2000]
@@ -215,10 +215,39 @@
         ["ACID",800]
       ],
       "itemInput": [
-        ["dict","dustSulfur",1]
+        ["dict","dustSulfur"]
       ],
       "fluidOutput": [
         ["SULFURIC_ACID",500]
+      ],
+      "itemOutput": []
+    },
+    {
+      "id": 92,
+      "name": "NITRIC_ACID",
+      "duration": 50,
+      "fluidInput": [
+        ["SULFURIC_ACID",500]
+      ],
+      "itemInput": [
+        ["dict","dustSaltpeter"]
+      ],
+      "fluidOutput": [
+        ["NITRIC_ACID",500]
+      ],
+      "itemOutput": []
+    },
+    {
+      "id": 93,
+      "name": "SOLVENT",
+      "duration": 50,
+      "fluidInput": [
+        ["NAPHTHA",500],
+        ["AROMATICS",500]
+      ],
+      "itemInput": [],
+      "fluidOutput": [
+        ["SOLVENT",1000]
       ],
       "itemOutput": []
     },
@@ -233,8 +262,8 @@
       "itemInput": [
         ["item","hbm:item.circuit_red_copper"],
         ["item","hbm:item.wire_gold",4],
-        ["dict","dustLapis",1],
-        ["dict","ingotAnyPlastic",1]
+        ["dict","dustLapis"],
+        ["dict","ingotAnyPlastic"]
       ],
       "fluidOutput": [],
       "itemOutput": [
@@ -252,8 +281,8 @@
       "itemInput": [
         ["item","hbm:item.circuit_gold"],
         ["item","hbm:item.wire_schrabidium",4],
-        ["dict","dustDiamond",1],
-        ["dict","ingotWorkersAlloy",1]
+        ["dict","dustDiamond"],
+        ["dict","ingotWorkersAlloy"]
       ],
       "fluidOutput": [],
       "itemOutput": [
@@ -269,7 +298,7 @@
       ],
       "itemInput": [
         ["dict","dustCoal",2],
-        ["dict","dustFluorite",1]
+        ["dict","dustFluorite"]
       ],
       "fluidOutput": [],
       "itemOutput": [
@@ -298,7 +327,7 @@
         ["UNSATURATEDS",500]
       ],
       "itemInput": [
-        ["dict","dustSulfur",1]
+        ["dict","dustSulfur"]
       ],
       "fluidOutput": [],
       "itemOutput": [
@@ -313,7 +342,7 @@
         ["AROMATICS",500]
       ],
       "itemInput": [
-        ["dict","dustSaltpeter",1]
+        ["dict","dustSaltpeter"]
       ],
       "fluidOutput": [],
       "itemOutput": [
@@ -327,8 +356,8 @@
       "fluidInput": [],
       "itemInput": [
         ["item","minecraft:sugar"],
-        ["dict","dustSaltpeter",1],
-        ["dict","sand",1]
+        ["dict","dustSaltpeter"],
+        ["dict","sand"]
       ],
       "fluidOutput": [],
       "itemOutput": [
@@ -343,7 +372,7 @@
         ["UNSATURATEDS",500]
       ],
       "itemInput": [
-        ["dict","dustSaltpeter",1]
+        ["dict","dustSaltpeter"]
       ],
       "fluidOutput": [],
       "itemOutput": [
@@ -392,7 +421,7 @@
         ["WATER",1000]
       ],
       "itemInput": [
-        ["dict","dustPlutonium",1],
+        ["dict","dustPlutonium"],
         ["dict","dustFluorite",3]
       ],
       "fluidOutput": [
@@ -408,7 +437,7 @@
         ["ACID",2000]
       ],
       "itemInput": [
-        ["dict","dustSchrabidium",1],
+        ["dict","dustSchrabidium"],
         ["dict","dustSulfur",2]
       ],
       "fluidOutput": [
@@ -425,7 +454,7 @@
       ],
       "itemInput": [
         ["dict","dustSaltpeter",2],
-        ["dict","plankWood",1],
+        ["dict","plankWood"],
         ["item","minecraft:sugar"]
       ],
       "fluidOutput": [],
@@ -443,7 +472,7 @@
       "itemInput": [
         ["dict","dustSaltpeter",2],
         ["item","minecraft:brick"],
-        ["dict","dustCoal",1]
+        ["dict","dustCoal"]
       ],
       "fluidOutput": [],
       "itemOutput": [
@@ -509,8 +538,8 @@
       ],
       "itemInput": [
         ["item","hbm:item.solid_fuel",2],
-        ["dict","dustSaltpeter",1],
-        ["dict","dustRedstone",1]
+        ["dict","dustSaltpeter"],
+        ["dict","dustRedstone"]
       ],
       "fluidOutput": [],
       "itemOutput": [
@@ -567,7 +596,7 @@
       ],
       "itemInput": [
         ["item","hbm:item.powder_dura_steel"],
-        ["dict","dustRedPhosphorus",1]
+        ["dict","dustRedPhosphorus"]
       ],
       "fluidOutput": [],
       "itemOutput": [
@@ -615,7 +644,7 @@
         ["SCHRABIDIC",250]
       ],
       "itemInput": [
-        ["dict","dustIron",1]
+        ["dict","dustIron"]
       ],
       "fluidOutput": [],
       "itemOutput": [
@@ -632,7 +661,7 @@
       ],
       "itemInput": [
         ["dict","dustColtan",2],
-        ["dict","dustCoal",1]
+        ["dict","dustCoal"]
       ],
       "fluidOutput": [
         ["WATER",500]
@@ -653,7 +682,7 @@
       ],
       "itemInput": [
         ["item","hbm:item.powder_coltan"],
-        ["dict","dustFluorite",1]
+        ["dict","dustFluorite"]
       ],
       "fluidOutput": [
         ["PAIN",1000]
@@ -748,8 +777,8 @@
         ["STEAM",1000]
       ],
       "itemInput": [
-        ["dict","anyTar",1],
-        ["dict","dustLead",1]
+        ["dict","anyTar"],
+        ["dict","dustLead"]
       ],
       "fluidOutput": [],
       "itemOutput": [
@@ -850,7 +879,7 @@
         ["WATER",1000]
       ],
       "itemInput": [
-        ["dict","dustSulfur",1]
+        ["dict","dustSulfur"]
       ],
       "fluidOutput": [
         ["FRACKSOL",1000]
@@ -952,7 +981,7 @@
         ["XPJUICE",500]
       ],
       "itemInput": [
-        ["dict","dustDiamond",1]
+        ["dict","dustDiamond"]
       ],
       "fluidOutput": [
         ["ENDERJUICE",100]

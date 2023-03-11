@@ -62,12 +62,20 @@
       "output": ["hbm:item.powder_poison",3]
     },
     {
+      "input": ["hbm:item.ore_nitrated",1,3],
+      "output": ["hbm:item.ore_enriched",1,3]
+    },
+    {
       "input": ["hbm:item.ore_separated",1,4],
       "output": ["hbm:item.ore_enriched",1,4]
     },
     {
       "input": ["minecraft:anvil"],
       "output": ["hbm:item.powder_iron",31]
+    },
+    {
+      "input": ["hbm:item.ore_deepcleaned"],
+      "output": ["hbm:item.ore_enriched"]
     },
     {
       "input": ["minecraft:wool",1,9],
@@ -126,6 +134,10 @@
       "output": ["hbm:item.ore_enriched",1,4]
     },
     {
+      "input": ["hbm:item.ore_nitrated",1,2],
+      "output": ["hbm:item.ore_enriched",1,2]
+    },
+    {
       "input": ["hbm:tile.sand_dirty"],
       "output": ["hbm:item.scrap_oil"]
     },
@@ -160,6 +172,10 @@
     {
       "input": ["minecraft:wool",1,10],
       "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["hbm:item.ore_deepcleaned",1,1],
+      "output": ["hbm:item.ore_enriched",1,1]
     },
     {
       "input": ["hbm:tile.sellafield_slaked"],
@@ -198,6 +214,10 @@
       "output": ["hbm:item.powder_steel"]
     },
     {
+      "input": ["hbm:item.ore_seared"],
+      "output": ["hbm:item.ore_enriched"]
+    },
+    {
       "input": ["hbm:tile.block_schrabidate"],
       "output": ["hbm:item.powder_schrabidate",9]
     },
@@ -226,6 +246,10 @@
       "output": ["hbm:item.powder_quartz",4]
     },
     {
+      "input": ["hbm:item.ore_nitrated",1,1],
+      "output": ["hbm:item.ore_enriched",1,1]
+    },
+    {
       "input": ["hbm:item.ore_separated",1,2],
       "output": ["hbm:item.ore_enriched",1,2]
     },
@@ -236,6 +260,10 @@
     {
       "input": ["minecraft:stained_hardened_clay",1,2],
       "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["hbm:item.ore_deepcleaned",1,2],
+      "output": ["hbm:item.ore_enriched",1,2]
     },
     {
       "input": ["minecraft:wool",1,7],
@@ -294,6 +322,10 @@
       "output": ["minecraft:string",4]
     },
     {
+      "input": ["hbm:item.ore_deepcleaned",1,3],
+      "output": ["hbm:item.ore_enriched",1,3]
+    },
+    {
       "input": ["hbm:tile.bobblehead",1,20],
       "output": ["hbm:item.scrap_plastic"]
     },
@@ -302,8 +334,16 @@
       "output": ["hbm:item.powder_steel_tiny",5]
     },
     {
+      "input": ["hbm:item.ore_nitrated"],
+      "output": ["hbm:item.ore_enriched"]
+    },
+    {
       "input": ["hbm:item.fragment_lanthanium"],
       "output": ["hbm:item.powder_lanthanium_tiny"]
+    },
+    {
+      "input": ["hbm:item.ore_seared",1,2],
+      "output": ["hbm:item.ore_enriched",1,2]
     },
     {
       "input": ["hbm:item.ore_cleaned",1,4],
@@ -362,8 +402,16 @@
       "output": ["minecraft:string",4]
     },
     {
+      "input": ["hbm:item.ore_nitrated",1,7],
+      "output": ["hbm:item.ore_enriched",1,7]
+    },
+    {
       "input": ["hbm:tile.dungeon_chain"],
       "output": ["hbm:item.powder_steel_tiny"]
+    },
+    {
+      "input": ["hbm:item.ore_seared",1,1],
+      "output": ["hbm:item.ore_enriched",1,1]
     },
     {
       "input": ["hbm:item.crystal_rare"],
@@ -400,6 +448,10 @@
     {
       "input": ["minecraft:wool",1,14],
       "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["hbm:item.ore_nitrated",1,6],
+      "output": ["hbm:item.ore_enriched",1,6]
     },
     {
       "input": ["hbm:item.crystal_aluminium"],
@@ -466,12 +518,20 @@
       "output": ["hbm:item.powder_steel"]
     },
     {
+      "input": ["hbm:item.ore_seared",1,4],
+      "output": ["hbm:item.ore_enriched",1,4]
+    },
+    {
       "input": ["minecraft:wool",1,11],
       "output": ["minecraft:string",4]
     },
     {
       "input": ["hbm:tile.deco_pipe_framed_rusted"],
       "output": ["hbm:item.powder_steel"]
+    },
+    {
+      "input": ["hbm:item.ore_nitrated",1,5],
+      "output": ["hbm:item.ore_enriched",1,5]
     },
     {
       "input": ["hbm:tile.brick_concrete"],
@@ -496,6 +556,10 @@
     {
       "input": ["hbm:item.coil_magnetized_tungsten"],
       "output": ["hbm:item.powder_magnetized_tungsten"]
+    },
+    {
+      "input": ["hbm:item.ore_seared",1,3],
+      "output": ["hbm:item.ore_enriched",1,3]
     },
     {
       "input": ["minecraft:stained_hardened_clay",1,14],
@@ -534,6 +598,10 @@
       "output": ["hbm:item.powder_steel",3]
     },
     {
+      "input": ["hbm:item.ore_nitrated",1,4],
+      "output": ["hbm:item.ore_enriched",1,4]
+    },
+    {
       "input": ["hbm:item.crystal_lead"],
       "output": ["hbm:item.powder_lead",3]
     },
@@ -552,6 +620,10 @@
     {
       "input": ["hbm:tile.deco_pipe_quad_rusted"],
       "output": ["hbm:item.powder_steel"]
+    },
+    {
+      "input": ["hbm:item.ore_nitrocrystalline",1,3],
+      "output": ["hbm:item.ore_enriched",1,3]
     },
     {
       "input": ["hbm:tile.ore_tektite_osmiridium"],
@@ -606,8 +678,16 @@
       "output": ["minecraft:glowstone_dust",4]
     },
     {
+      "input": ["hbm:item.ore_seared",1,6],
+      "output": ["hbm:item.ore_enriched",1,6]
+    },
+    {
       "input": ["hbm:item.crystal_thorium"],
       "output": ["hbm:item.powder_thorium",3]
+    },
+    {
+      "input": ["hbm:item.ore_nitrocrystalline",1,4],
+      "output": ["hbm:item.ore_enriched",1,4]
     },
     {
       "input": ["hbm:item.ingot_schrabidate"],
@@ -664,6 +744,14 @@
     {
       "input": ["hbm:tile.sand_dirty_red"],
       "output": ["hbm:item.scrap_oil"]
+    },
+    {
+      "input": ["hbm:item.ore_seared",1,5],
+      "output": ["hbm:item.ore_enriched",1,5]
+    },
+    {
+      "input": ["hbm:item.ore_nitrocrystalline",1,5],
+      "output": ["hbm:item.ore_enriched",1,5]
     },
     {
       "input": ["minecraft:diamond_ore"],
@@ -758,6 +846,10 @@
       "output": ["minecraft:string",4]
     },
     {
+      "input": ["hbm:item.ore_nitrocrystalline",1,6],
+      "output": ["hbm:item.ore_enriched",1,6]
+    },
+    {
       "input": ["hbm:tile.concrete_smooth"],
       "output": ["minecraft:gravel"]
     },
@@ -800,6 +892,14 @@
     {
       "input": ["minecraft:tnt"],
       "output": ["minecraft:gunpowder",5]
+    },
+    {
+      "input": ["hbm:item.ore_seared",1,7],
+      "output": ["hbm:item.ore_enriched",1,7]
+    },
+    {
+      "input": ["hbm:item.ore_nitrocrystalline",1,7],
+      "output": ["hbm:item.ore_enriched",1,7]
     },
     {
       "input": ["minecraft:skull",1,1],
@@ -870,6 +970,10 @@
       "output": ["hbm:item.scrap_nuclear",7]
     },
     {
+      "input": ["hbm:item.ore_deepcleaned",1,4],
+      "output": ["hbm:item.ore_enriched",1,4]
+    },
+    {
       "input": ["hbm:item.fragment_cerium"],
       "output": ["hbm:item.powder_cerium_tiny"]
     },
@@ -880,6 +984,10 @@
     {
       "input": ["hbm:tile.brick_obsidian"],
       "output": ["hbm:tile.gravel_obsidian"]
+    },
+    {
+      "input": ["hbm:item.ore_nitrocrystalline"],
+      "output": ["hbm:item.ore_enriched"]
     },
     {
       "input": ["hbm:tile.bobblehead",1,6],
@@ -942,12 +1050,20 @@
       "output": ["hbm:item.scrap_nuclear",5]
     },
     {
+      "input": ["hbm:item.ore_deepcleaned",1,5],
+      "output": ["hbm:item.ore_enriched",1,5]
+    },
+    {
       "input": ["hbm:tile.deco_pipe_framed_green"],
       "output": ["hbm:item.powder_steel"]
     },
     {
       "input": ["hbm:tile.deco_pipe_quad_red"],
       "output": ["hbm:item.powder_steel"]
+    },
+    {
+      "input": ["hbm:item.ore_nitrocrystalline",1,1],
+      "output": ["hbm:item.ore_enriched",1,1]
     },
     {
       "input": ["hbm:tile.tape_recorder"],
@@ -998,6 +1114,10 @@
       "output": ["minecraft:stick"]
     },
     {
+      "input": ["hbm:item.ore_deepcleaned",1,6],
+      "output": ["hbm:item.ore_enriched",1,6]
+    },
+    {
       "input": ["hbm:tile.sellafield",1,2],
       "output": ["hbm:item.scrap_nuclear",3]
     },
@@ -1012,6 +1132,10 @@
     {
       "input": ["minecraft:carrot"],
       "output": ["minecraft:sugar"]
+    },
+    {
+      "input": ["hbm:item.ore_nitrocrystalline",1,2],
+      "output": ["hbm:item.ore_enriched",1,2]
     },
     {
       "input": ["hbm:item.crystal_tungsten"],
@@ -1092,6 +1216,10 @@
     {
       "input": ["TwilightForest:tile.TFTowerStone",1,32767],
       "output": ["hbm:item.powder_sawdust"]
+    },
+    {
+      "input": ["hbm:item.ore_deepcleaned",1,7],
+      "output": ["hbm:item.ore_enriched",1,7]
     },
     {
       "input": ["hbm:tile.sellafield",1,1],

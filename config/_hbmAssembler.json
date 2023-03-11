@@ -121,7 +121,7 @@
       "input": [
         ["item","hbm:item.sphere_steel",1],
         ["item","hbm:item.hull_big_aluminium",4],
-        ["item","hbm:item.cap_aluminium",1],
+        ["dict","plateAluminum",3],
         ["item","hbm:item.circuit_targeting_tier4",3],
         ["item","hbm:item.wire_gold",18],
         ["dict","dyeLightGray",12]
@@ -710,6 +710,18 @@
       "duration": 200
     },
     {
+      "output": ["item","hbm:tile.machine_hephaestus",1],
+      "input": [
+        ["item","hbm:item.pipes_steel",1],
+        ["dict","ingotSteel",24],
+        ["dict","plateCopper",24],
+        ["dict","ingotNiobium",4],
+        ["dict","ingotRubber",12],
+        ["item","hbm:tile.glass_quartz",16]
+      ],
+      "duration": 150
+    },
+    {
       "output": ["item","hbm:tile.rbmk_blank",1],
       "input": [
         ["item","hbm:tile.concrete_asbestos",4],
@@ -1061,6 +1073,22 @@
         ["item","hbm:item.wire_red_copper",24]
       ],
       "duration": 500
+    },
+    {
+      "output": ["item","hbm:tile.machine_turbinegas",1],
+      "input": [
+        ["item","hbm:item.hull_big_steel",4],
+        ["item","hbm:item.hull_small_steel",6],
+        ["item","hbm:item.generator_steel",2],
+        ["item","hbm:item.bolt_compound",4],
+        ["item","hbm:tile.steel_scaffold",8],
+        ["item","hbm:tile.deco_pipe_quad",4],
+        ["item","hbm:item.turbine_tungsten",3],
+        ["item","hbm:item.motor",2],
+        ["item","hbm:item.ingot_rubber",4],
+        ["item","hbm:item.circuit_red_copper",3]
+      ],
+      "duration": 600
     },
     {
       "output": ["item","hbm:tile.machine_schrabidium_transmutator",1],
@@ -3578,7 +3606,7 @@
       "duration": 60
     },
     {
-      "output": ["item","hbm:item.ammo_75bolt_incendiary",2],
+      "output": ["item","hbm:item.ammo_75bolt",2,1],
       "input": [
         ["dict","plateSteel",2],
         ["dict","plateCopper",1],
@@ -3591,7 +3619,7 @@
       "duration": 60
     },
     {
-      "output": ["item","hbm:item.ammo_75bolt_he",2],
+      "output": ["item","hbm:item.ammo_75bolt",2,2],
       "input": [
         ["dict","plateSteel",2],
         ["dict","plateCopper",1],
