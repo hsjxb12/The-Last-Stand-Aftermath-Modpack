@@ -53,3 +53,18 @@
 - 清空了玩家的饥饿值
 - 设置了重生点
 - 使用smooth font 设置了字体
+
+## 1.3.0-pre3
+
+> 2023.3.11
+
+- 更新DayZ 至 Reforge 版本
+- 更新 NEI 至 2.3.39
+- 更新 HBM 至 X4525
+- 删除 饥饿改革
+- 修改游戏图标
+- 微调说明文字
+- 添加 UniMixins 0.1.5 替代 SpongeMixins 1.2.0
+- 添加 Modern KeyBinding 2.1.0
+- 将 Controlling 1.0.0.4 替换为 ModernControlling 1.0.0
+- 移除 Super Tools Mod
