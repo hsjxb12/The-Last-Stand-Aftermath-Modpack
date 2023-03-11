@@ -68,3 +68,4 @@
 - 添加 Modern KeyBinding 2.1.0
 - 将 Controlling 1.0.0.4 替换为 ModernControlling 1.0.0
 - 移除 Super Tools Mod
+- 将 InputFix 升级至 v6
