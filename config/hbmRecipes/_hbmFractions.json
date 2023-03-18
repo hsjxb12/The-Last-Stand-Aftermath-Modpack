@@ -2,14 +2,9 @@
   "comment": "Inputs are always 100mB, set output quantities accordingly.",
   "recipes": [
     {
-      "input": "HEAVYOIL",
-      "output1": ["BITUMEN",30],
-      "output2": ["SMEAR",70]
-    },
-    {
-      "input": "COALOIL",
-      "output1": ["COALGAS",30],
-      "output2": ["OIL",70]
+      "input": "LIGHTOIL",
+      "output1": ["DIESEL",40],
+      "output2": ["KEROSENE",60]
     },
     {
       "input": "NAPHTHA_CRACK",
@@ -27,19 +22,24 @@
       "output2": ["PETROLEUM",30]
     },
     {
-      "input": "COALCREOSOTE",
-      "output1": ["COALOIL",10],
-      "output2": ["BITUMEN",90]
-    },
-    {
-      "input": "LIGHTOIL",
-      "output1": ["DIESEL",40],
-      "output2": ["KEROSENE",60]
-    },
-    {
       "input": "SMEAR",
       "output1": ["HEATINGOIL",60],
       "output2": ["LUBRICANT",40]
+    },
+    {
+      "input": "COALOIL",
+      "output1": ["COALGAS",30],
+      "output2": ["OIL",70]
+    },
+    {
+      "input": "HEAVYOIL",
+      "output1": ["BITUMEN",30],
+      "output2": ["SMEAR",70]
+    },
+    {
+      "input": "COALCREOSOTE",
+      "output1": ["COALOIL",10],
+      "output2": ["BITUMEN",90]
     }
   ]
 }
