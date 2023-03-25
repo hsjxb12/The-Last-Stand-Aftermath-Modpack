@@ -69,3 +69,11 @@
 - 将 Controlling 1.0.0.4 替换为 ModernControlling 1.0.0
 - 移除 Super Tools Mod
 - 将 InputFix 升级至 v6
+- 将 NotEnoughCharacters 升级至 1.5.0
+- Chisel 返回 2.9.5.11
+
+## 1.3.0-pre4
+
+>2023.3.25
+
+- 使用思源黑体作为字体
