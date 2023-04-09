@@ -1,13 +1,12 @@
 {
     "images": {
-        "title":
-        {
-            "image" : "lsa:textures/The-Last-Stand.png",
-            "posX" : -162.75,
-            "posY" : 50,
-            "width" : 325.5,
-            "height" : 72.5,
-            "alignment" : "top_center"
+        "title": {
+            "image": "lsa:textures/The-Last-Stand.png",
+            "posX": -162.75,
+            "posY": 50,
+            "width": 325.5,
+            "height": 72.5,
+            "alignment": "top_center"
         }
     },
     "buttons": {
@@ -104,38 +103,38 @@
             "alignment": "bottom_left"
         },
         "version": {
-            "text": "\u00A79The Last Stand : Aftermath \u00A72v1.3.0-pre4 ",
+            "text": "\u00A79The Last Stand : Aftermath \u00A72v1.3.0-b1 ",
             "posX": 2,
             "posY": -30,
             "color": -1,
             "alignment": "bottom_left"
         },
-        "background":{
-            "text":"\u00A7mThe author of the background pictures is Modown.",
-            "posX":2,
-            "posY":-20,
-            "color":-1,
-            "alignment":"bottom_left",
+        "background": {
+            "text": "\u00A7mThe author of the background pictures is Modown.",
+            "posX": 2,
+            "posY": -20,
+            "color": -1,
+            "alignment": "bottom_left",
             "action": {
-				"type": "openLink",
-				"link": "http://www.modown.cn/"
-			}
+                "type": "openLink",
+                "link": "http://www.modown.cn/"
+            }
         }
     },
     "other": {
         "background": {
-			"image": "",
-			"slideshow": {
-				"images": [
-					"lsa:textures/01.png",
+            "image": "",
+            "slideshow": {
+                "images": [
+                    "lsa:textures/01.png",
                     "lsa:textures/02.png",
                     "lsa:textures/03.png",
                     "lsa:textures/04.png",
                     "lsa:textures/05.png"
-				],
-				"displayDuration": 150,
-				"fadeDuration": 40
-			}
-		}
+                ],
+                "displayDuration": 150,
+                "fadeDuration": 40
+            }
+        }
     }
 }

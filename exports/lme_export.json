@@ -32,12 +32,22 @@
   {
     "modid": "NotEnoughItems",
     "name": "NotEnoughItems",
-    "version": "2.3.39-GTNH"
+    "version": "2.3.43-GTNH"
   },
   {
     "modid": "smoothfontcore",
     "name": "Smooth Font Core",
     "version": "1.7.10-1.15.1"
+  },
+  {
+    "modid": "xaerominimap_core",
+    "name": "XaeroMinimapCore",
+    "version": "1.7.10-1.0"
+  },
+  {
+    "modid": "xaeroworldmap_core",
+    "name": "XaeroWorldMapCore",
+    "version": "1.7.10-1.0"
   },
   {
     "modid": "splan",
@@ -53,6 +63,16 @@
     "modid": "smoothfont",
     "name": "Smooth Font",
     "version": "1.7.10-1.15.3"
+  },
+  {
+    "modid": "WorldEngine",
+    "name": "WorldEngine",
+    "version": "1.1710.0"
+  },
+  {
+    "modid": "asjpatcher",
+    "name": "asjpatcher",
+    "version": "1.0"
   },
   {
     "modid": "LookingGlass",
@@ -77,17 +97,17 @@
   {
     "modid": "unimixins",
     "name": "UniMixins",
-    "version": "0.1.5"
+    "version": "0.1.6"
   },
   {
     "modid": "unimixins-mixin",
     "name": "UniMixins: Mixin (UniMix)",
-    "version": "0.1.5"
+    "version": "0.1.6"
   },
   {
     "modid": "unimixins-compat",
     "name": "UniMixins: Compatibility",
-    "version": "0.1.5"
+    "version": "0.1.6"
   },
   {
     "modid": "mixingasm",
@@ -107,7 +127,7 @@
   {
     "modid": "mixinbooterlegacy",
     "name": "UniMixins: MixinBooterLegacy",
-    "version": "1.2.0"
+    "version": "1.2.1"
   },
   {
     "modid": "gasstation",
@@ -117,7 +137,7 @@
   {
     "modid": "mixinextras",
     "name": "UniMixins: MixinExtras",
-    "version": "0.1.5"
+    "version": "0.1.6"
   },
   {
     "modid": "adventurebackpack",
@@ -177,7 +197,7 @@
   {
     "modid": "chisel",
     "name": "Chisel",
-    "version": "2.10.16-GTNH"
+    "version": "2.9.5.11"
   },
   {
     "modid": "BuildMod",
@@ -272,7 +292,7 @@
   {
     "modid": "hbm",
     "name": "Hbm\u0027s Nuclear Tech",
-    "version": "1.0.27 BETA (4525)"
+    "version": "1.0.27 BETA (4562)"
   },
   {
     "modid": "LunatriusCore",
@@ -313,16 +333,6 @@
     "modid": "itlt",
     "name": "It\u0027s the little things",
     "version": "1.0.4"
-  },
-  {
-    "modid": "journeymap",
-    "name": "JourneyMap",
-    "version": "5.1.4p2"
-  },
-  {
-    "modid": "legacymckotlin",
-    "name": "Legacy Minecraft Kotlin",
-    "version": "1.0"
   },
   {
     "modid": "malisiscore",
@@ -385,11 +395,6 @@
     "version": "2.2.11-247"
   },
   {
-    "modid": "ovo",
-    "name": "OVO",
-    "version": "0.0.3"
-  },
-  {
     "modid": "ResourceLoader",
     "name": "Resource Loader",
     "version": "1.3"
@@ -418,6 +423,21 @@
     "modid": "WailaHarvestability",
     "name": "Waila Harvestability",
     "version": "1.1.10-GTNH"
+  },
+  {
+    "modid": "ovo",
+    "name": "With Json",
+    "version": "0.1.0"
+  },
+  {
+    "modid": "XaeroMinimap",
+    "name": "Xaero\u0027s Minimap",
+    "version": "21.10.31"
+  },
+  {
+    "modid": "XaeroWorldMap",
+    "name": "Xaero\u0027s World Map",
+    "version": "1.14.1.22"
   },
   {
     "modid": "ZombieInfection",
