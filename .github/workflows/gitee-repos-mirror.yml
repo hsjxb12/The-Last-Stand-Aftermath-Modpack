@@ -10,7 +10,7 @@ jobs:
       #代表我们用的仓库，不用同步
       with:
         # 必选，需要同步的Github用户（源）
-        src: github/Ginsway
+        src: github/TLS-Aftermath
         # 必选，需要同步到的Gitee的用户（目的）
         dst: gitee/ginsway
         # 必选，Gitee公钥对应的私钥，https://gitee.com/profile/sshkeys
