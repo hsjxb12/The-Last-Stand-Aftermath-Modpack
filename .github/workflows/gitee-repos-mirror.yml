@@ -19,7 +19,9 @@ jobs:
         dst_token:  ${{ secrets.GITEE_TOKEN }}
         # 如果是组织，指定组织即可，默认为用户user
         # account_type: org
+        src_account_type: org
+        dst_account_type: user
         # 还有黑、白名单，静态名单机制，可以用于更新某些指定库
-        # static_list: repo_name
+        static_list: "The-Last-Stand-Aftermath-Modpack"
         # black_list: 'repo_name,repo_name2'
         # white_list: 'repo_name,repo_name2'
