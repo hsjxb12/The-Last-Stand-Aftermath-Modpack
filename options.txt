@@ -15,7 +15,7 @@ difficulty:1
 fancyGraphics:true
 ao:2
 clouds:false
-resourcePacks:["TLSAftermath-Language-Package-v23.02.01.zip"]
+resourcePacks:["Future Texture.zip"]
 lastServer:55595
 lang:zh_CN
 chatVisibility:0
@@ -102,7 +102,7 @@ key_ingameinfoxml.key.toggle:0
 key_key.reload:21
 key_key.unload:22
 key_key.inspect:25
-key_key.attachment:50
+key_key.attachment:0
 key_key.scope:200
 key_key.recoil_fitter:208
 key_key.silencer:203
@@ -126,7 +126,7 @@ key_keys.adventureBackpack.switchHoseTank:49
 key_bbw.key.mode:52
 key_bbw.key.fluidmode:33
 key_FpsReducer.key.guiOpen:207
-key_[GC] 星系地图:51
+key_[GC] 星系地图:0
 key_[GC]打开飞船仓库:33
 key_[GC]切换传感器护目镜模式:37
 key_invtweaks.key.sort:19
@@ -136,13 +136,26 @@ key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
-key_key.journeymap.map_toggle:36
-key_key.journeymap.zoom_in:13
-key_key.journeymap.zoom_out:12
-key_key.journeymap.minimap_type:27
-key_key.journeymap.minimap_type:27
-key_key.journeymap.minimap_preset:43
-key_key.journeymap.create_waypoint:210
+key_gui.xaero_switch_waypoint_set:0
+key_gui.xaero_instant_waypoint:78
+key_gui.xaero_toggle_slime:0
+key_gui.xaero_toggle_grid:0
+key_gui.xaero_toggle_waypoints:0
+key_gui.xaero_toggle_map_waypoints:0
+key_gui.xaero_toggle_map:0
+key_gui.xaero_enlarge_map:44
+key_gui.xaero_waypoints_key:22
+key_gui.xaero_zoom_in:0
+key_gui.xaero_zoom_out:0
+key_gui.xaero_new_waypoint:48
+key_gui.xaero_display_all_sets:0
+key_gui.xaero_toggle_light_overlay:0
+key_gui.xaero_minimap_settings:21
+key_gui.xaero_open_map:50
+key_gui.xaero_open_settings:27
+key_gui.xaero_map_zoom_in:0
+key_gui.xaero_map_zoom_out:0
+key_gui.xaero_quick_confirm:54
 key_BetterFps:88
 key_key.portaitreposition:52
 soundCategory_master:0.5066225

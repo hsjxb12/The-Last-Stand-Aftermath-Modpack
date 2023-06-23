@@ -335,18 +335,33 @@
       ]
     },
     {
-      "id": 83,
-      "name": "TNT",
-      "duration": 150,
+      "id": 94,
+      "name": "PC",
+      "duration": 100,
       "fluidInput": [
-        ["AROMATICS",500]
+        ["XYLENE",500],
+        ["PHOSGENE",500]
+      ],
+      "itemInput": [],
+      "fluidOutput": [],
+      "itemOutput": [
+        ["hbm:item.ingot_pc"]
+      ]
+    },
+    {
+      "id": 96,
+      "name": "PVC",
+      "duration": 100,
+      "fluidInput": [
+        ["UNSATURATEDS",250],
+        ["CHLORINE",250]
       ],
       "itemInput": [
-        ["dict","dustSaltpeter"]
+        ["dict","dustCadmium"]
       ],
       "fluidOutput": [],
       "itemOutput": [
-        ["hbm:item.ball_tnt",4]
+        ["hbm:item.ingot_pvc",2]
       ]
     },
     {
@@ -362,6 +377,37 @@
       "fluidOutput": [],
       "itemOutput": [
         ["hbm:item.ball_dynamite",2]
+      ]
+    },
+    {
+      "id": 83,
+      "name": "TNT",
+      "duration": 150,
+      "fluidInput": [
+        ["AROMATICS",500]
+      ],
+      "itemInput": [
+        ["dict","dustSaltpeter"]
+      ],
+      "fluidOutput": [],
+      "itemOutput": [
+        ["hbm:item.ball_tnt",4]
+      ]
+    },
+    {
+      "id": 95,
+      "name": "TATB",
+      "duration": 50,
+      "fluidInput": [
+        ["SOURGAS",200],
+        ["NITRIC_ACID",10]
+      ],
+      "itemInput": [
+        ["item","hbm:item.ball_tnt"]
+      ],
+      "fluidOutput": [],
+      "itemOutput": [
+        ["hbm:item.ball_tatb"]
       ]
     },
     {

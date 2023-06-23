@@ -1,10 +1,10 @@
-#Fri Jan 13 15:51:04 CST 2023
+#Sat Apr 29 09:55:55 SGT 2023
 shaderPack=OFF
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true
-renderResMul=1.0
-shadowResMul=1.0
+renderResMul=0.70710677
+shadowResMul=0.5
 handDepthMul=0.125
 cloudShadow=false
 oldHandLight=default

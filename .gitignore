@@ -7,12 +7,9 @@
 /fonts
 /journeymap
 /logs
-/mods
-/maps
 /natives-windows-x86_64
 /resourcepacks/
 /saves/*
-/screenshots
 /shaderpacks
 /*.json
 /*.png
@@ -22,7 +19,6 @@
 *.bat
 /*.cfg
 /.mixin.out
-*.ttf
 /XaeroWaypoints/
 /XaeroWaypoints_BACKUP032021/
 /XaeroWorldMap/

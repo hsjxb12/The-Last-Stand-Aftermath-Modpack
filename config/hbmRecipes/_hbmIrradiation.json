@@ -30,7 +30,7 @@
       "solidOutput": ["hbm:item.powder_au198"]
     },
     {
-      "input": ["item","hbm:item.oil_tar",4],
+      "input": ["item","hbm:item.oil_tar",1,4],
       "fluidOutput": ["RADIOSOLVENT",100]
     },
     {
@@ -42,7 +42,7 @@
       "solidOutput": ["hbm:item.glowing_stew"]
     },
     {
-      "input": ["item","hbm:item.oil_tar",2],
+      "input": ["item","hbm:item.oil_tar",1,2],
       "fluidOutput": ["COALOIL",100]
     },
     {

@@ -46,6 +46,10 @@
       "output": [["Steel",432]]
     },
     {
+      "input": ["item","hbm:tile.stone_resource",1,4],
+      "output": [["Flux",720]]
+    },
+    {
       "input": ["item","hbm:item.powder_flux"],
       "output": [["Flux",72]]
     },

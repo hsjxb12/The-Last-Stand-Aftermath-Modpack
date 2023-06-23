@@ -242,6 +242,10 @@
       "output": ["hbm:item.powder_advanced_alloy"]
     },
     {
+      "input": ["hbm:tile.stone_resource",1,4],
+      "output": ["hbm:item.powder_calcium"]
+    },
+    {
       "input": ["minecraft:quartz_block"],
       "output": ["hbm:item.powder_quartz",4]
     },

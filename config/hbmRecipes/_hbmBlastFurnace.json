@@ -48,7 +48,7 @@
     },
     {
       "output": ["hbm:item.canister_napalm"],
-      "input1": ["item","hbm:item.canister_full",46],
+      "input1": ["item","hbm:item.canister_full",1,46],
       "input2": ["dict","slimeball"]
     },
     {

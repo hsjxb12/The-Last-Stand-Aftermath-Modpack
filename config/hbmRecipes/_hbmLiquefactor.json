@@ -2,10 +2,6 @@
   "comment": "As with most handlers, stacksizes for the inputs are ignored and default to 1.",
   "recipes": [
     {
-      "input": ["item","hbm:item.biomass"],
-      "output": ["BIOGAS",125]
-    },
-    {
       "input": ["dict","dustCoal"],
       "output": ["COALOIL",100]
     },
@@ -22,27 +18,11 @@
       "output": ["LAVA",500]
     },
     {
-      "input": ["dict","cracktar"],
-      "output": ["BITUMEN",100]
-    },
-    {
       "input": ["dict","logWood"],
       "output": ["MUG",100]
     },
     {
-      "input": ["item","minecraft:ender_pearl"],
-      "output": ["ENDERJUICE",100]
-    },
-    {
-      "input": ["item","minecraft:tallgrass",1],
-      "output": ["SEEDSLURRY",100]
-    },
-    {
-      "input": ["item","minecraft:stone"],
-      "output": ["LAVA",250]
-    },
-    {
-      "input": ["item","minecraft:tallgrass",2],
+      "input": ["item","minecraft:tallgrass",1,1],
       "output": ["SEEDSLURRY",100]
     },
     {
@@ -52,6 +32,42 @@
     {
       "input": ["item","minecraft:netherrack"],
       "output": ["LAVA",250]
+    },
+    {
+      "input": ["item","minecraft:wheat_seeds"],
+      "output": ["SEEDSLURRY",50]
+    },
+    {
+      "input": ["item","hbm:tile.plant_flower",1,4],
+      "output": ["ETHANOL",50]
+    },
+    {
+      "input": ["item","minecraft:sugar"],
+      "output": ["ETHANOL",100]
+    },
+    {
+      "input": ["dict","gemCoal"],
+      "output": ["COALOIL",100]
+    },
+    {
+      "input": ["item","hbm:item.biomass"],
+      "output": ["BIOGAS",125]
+    },
+    {
+      "input": ["dict","cracktar"],
+      "output": ["BITUMEN",100]
+    },
+    {
+      "input": ["item","minecraft:ender_pearl"],
+      "output": ["ENDERJUICE",100]
+    },
+    {
+      "input": ["item","minecraft:stone"],
+      "output": ["LAVA",250]
+    },
+    {
+      "input": ["item","minecraft:tallgrass",1,2],
+      "output": ["SEEDSLURRY",100]
     },
     {
       "input": ["item","minecraft:snowball"],
@@ -78,20 +94,12 @@
       "output": ["BITUMEN",75]
     },
     {
-      "input": ["item","minecraft:wheat_seeds"],
-      "output": ["SEEDSLURRY",50]
+      "input": ["item","hbm:tile.plant_flower",1,3],
+      "output": ["ETHANOL",150]
     },
     {
       "input": ["item","minecraft:snow"],
       "output": ["WATER",500]
-    },
-    {
-      "input": ["item","minecraft:sugar"],
-      "output": ["ETHANOL",100]
-    },
-    {
-      "input": ["dict","gemCoal"],
-      "output": ["COALOIL",100]
     },
     {
       "input": ["item","minecraft:cobblestone"],
