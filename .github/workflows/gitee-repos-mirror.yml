@@ -1,6 +1,7 @@
 name: Gitee repos mirror periodic job
 on:
   push:
+  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
